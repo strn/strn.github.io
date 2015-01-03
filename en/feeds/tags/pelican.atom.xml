@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Philosophizing</title><link href="http://strn.github.io/en/" rel="alternate"></link><link href="http://strn.github.io/feeds/tags/pelican.atom.xml" rel="self"></link><id>http://strn.github.io/en/</id><updated>2014-11-19T00:00:00+01:00</updated><entry><title>Testing “Pelican” …</title><link href="http://strn.github.io/en/post/2014/11/19/testing-pelican/" rel="alternate"></link><updated>2014-11-19T00:00:00+01:00</updated><author><name>Puramotza</name></author><id>tag:strn.github.io,2014-11-19:en/post/2014/11/19/testing-pelican/</id><summary type="html">&lt;div id="preamble"&gt;
+&lt;div class="sectionbody"&gt;
+&lt;div class="paragraph"&gt;&lt;p&gt;This page tests Pelican&amp;#8217;s plugin for creating multi-language&amp;nbsp;sites.&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Pelican"></category><category term="Linux"></category><category term="Python"></category></entry></feed>
