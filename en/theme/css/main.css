@@ -180,7 +180,8 @@ hr {
 
 #featured,
 #content {
-    background: #FFFFFF;
+    /*background: #FFFFFF; */
+    background-color: #FAFAFA;
     margin: 1.5em auto;
     padding: 1em;
     width: 70em;
@@ -325,4 +326,9 @@ li.tag-3 {
 }
 li.tag-4 {
     font-size: 120%;
+}
+hr.article {
+    border-bottom: medium dotted #F0EDE3;
+    padding-bottom: 1em;
+    margin-top: 1em;
 }

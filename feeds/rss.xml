@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Мудровања</title><link>http://strn.github.io/</link><description>Размишљања о којечему</description><atom:link href="http://strn.github.io/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 14 Dec 2014 00:00:00 +0100</lastBuildDate><item><title>Локализација Disqus-a на српски језик</title><link>http://strn.github.io/post/2014/12/14/lokalizacija-disqusa-na-srpski-jezik/</link><description>&lt;p&gt;Пажљиви читаоци овог блога приметиће могућност остављања коментара после сваког објављеног чланка. С обзиром на статичну природу овог блога, најлакше је било уградити већ постојећи систем за коментарисање. Пеликан у ту сврху промовише &lt;a class="reference external" href="https://disqus.com/"&gt;Дискус&lt;/a&gt;&amp;nbsp;(Disqus).&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Мудровања</title><link>http://strn.github.io/</link><description>Размишљања о којечему</description><atom:link href="http://strn.github.io/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 04 Jan 2015 00:00:00 +0100</lastBuildDate><item><title>Селим се у Сан Аморе …</title><link>http://strn.github.io/post/2015/01/04/selim-se-u-san-amore/</link><description>&lt;p&gt;Не, не селим се &lt;em&gt;ја&lt;/em&gt; у Сан Аморе - барем не још. Тек треба да га пронађем. О чему се овде, заправо, ради? О једној симпатичној песми коју пева &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Andy_Borg"&gt;Енди Борг&lt;/a&gt; [&lt;a class="reference external" href="http://de.wikipedia.org/wiki/Andy_Borg"&gt;Andy Borg&lt;/a&gt;]. Многи ће је прогласити сладуњавом, али искрено баш ме&amp;nbsp;брига.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Lang schon war ich auf der Suche
+nach dem schönsten Platz der Welt
+die Oase für die Liebe wo man Zärtlichkeiten zählt
+ich sah Rosen blühn und welken
+machte da und dort mal Rast
+jetzt hab ich den Ort gefunden
+wo ganz einfach alles passt
+
+Ich zieh nach San Amore
+sofort und jetzt und hier
+will ich in San Amore nur glücklich sein mit dir
+dort ist der Traum Amore so schön wie ein Gedicht
+komm mit nach San Amore das bereust du nicht
+
+Dieser Ort ist wie geschaffen
+um für dich ein Schloss zu baun
+ja hier bleibe ich für immer
+und hier lieb ich meine Traum
+wo nur rote Rosen blühen
+und es niemals Tränen gibt
+dort bist du in meinen Armen
+tausend Jahre lang verliebt
+
+Ich zieh nach San Amore
+sofort und jetzt und hier
+will ich in San Amore nur glücklich sein mit dir
+dort ist der Traum Amore so schön wie ein Gedicht
+komm mit nach San Amore das bereust du nicht
+
+Liebe für immer statt Sehnsucht auf Zeit
+dafür ist kein Weg zu weit
+
+Ich zieh nach San Amore
+sofort und jetzt und hier
+will ich in San Amore nur glücklich sein mit dir
+dort ist der Traum Amore so schön wie ein Gedicht
+komm mit nach San Amore das bereust du nicht
+&lt;/pre&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Пурамоца</dc:creator><pubDate>Sun, 04 Jan 2015 00:00:00 +0100</pubDate><guid>tag:strn.github.io,2015-01-04:post/2015/01/04/selim-se-u-san-amore/</guid><category></category></item><item><title>Локализација Disqus-a на српски језик</title><link>http://strn.github.io/post/2014/12/14/lokalizacija-disqusa-na-srpski-jezik/</link><description>&lt;p&gt;Пажљиви читаоци овог блога приметиће могућност остављања коментара после сваког објављеног чланка. С обзиром на статичну природу овог блога, најлакше је било уградити већ постојећи систем за коментарисање. Пеликан у ту сврху промовише &lt;a class="reference external" href="https://disqus.com/"&gt;Дискус&lt;/a&gt;&amp;nbsp;(Disqus).&lt;/p&gt;
 &lt;p&gt;Цепидлаке ће рећи да није најпоштеније имати статички сајт са динамичким коментарима (ако смо статички, онда да смо &lt;em&gt;скроз&lt;/em&gt; статички!). Међутим, од овог принципа можемо мало и да одступимо, пошто је Дискус бесплатан за коришћење и релативно једноставан за уградњу у друге&amp;nbsp;сајтове.&lt;/p&gt;
 &lt;p&gt;Дискус је добар и зато што је локализован на већи број језика. По Марфијевом закону, недостајала је локализација која је мени била потребна - на српском језику и српском ћирилицом. Постојала је верзија на хрватској латиници, али се она није уклапала у целокупни изглед „Мудровања“. Суочен са таквом ситуацијом, није било друге него да засучем рукаве и довршим започету локализацију на српски&amp;nbsp;језик.&lt;/p&gt;
 &lt;div class="warning"&gt;

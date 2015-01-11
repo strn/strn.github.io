@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://strn.github.io/index.html</loc>
-<lastmod>2015-01-03T19:44:24-00:00</lastmod>
+<lastmod>2015-01-11T14:17:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/archives.html</loc>
-<lastmod>2015-01-03T19:44:24-00:00</lastmod>
+<lastmod>2015-01-11T14:17:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/tags.html</loc>
-<lastmod>2015-01-03T19:44:24-00:00</lastmod>
+<lastmod>2015-01-11T14:17:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/categories.html</loc>
-<lastmod>2015-01-03T19:44:24-00:00</lastmod>
+<lastmod>2015-01-11T14:17:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://strn.github.io/page/contact.html</loc>
 <lastmod>1970-01-01T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://strn.github.io/post/2015/01/04/selim-se-u-san-amore/</loc>
+<lastmod>2015-01-04T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,7 +68,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://strn.github.io/category/blog.html</loc>
-<lastmod>2014-12-14T00:00:00+00:30</lastmod>
+<lastmod>2015-01-04T00:00:00+00:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://strn.github.io/tag/.html</loc>
+<lastmod>2015-01-04T00:00:00+00:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -82,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://strn.github.io/author/puramotsa.html</loc>
-<lastmod>2014-12-14T00:00:00+00:30</lastmod>
+<lastmod>2015-01-04T00:00:00+00:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
