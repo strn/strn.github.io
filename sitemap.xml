@@ -4,71 +4,85 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://strn.github.io/index.html</loc>
-<lastmod>2015-01-11T14:25:22-00:00</lastmod>
+<loc>http://strn.github.io/</loc>
+<lastmod>2015-05-30T00:33:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/archives.html</loc>
-<lastmod>2015-01-11T14:25:22-00:00</lastmod>
+<lastmod>2015-05-30T00:33:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/tags.html</loc>
-<lastmod>2015-01-11T14:25:22-00:00</lastmod>
+<lastmod>2015-05-30T00:33:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/categories.html</loc>
-<lastmod>2015-01-11T14:25:22-00:00</lastmod>
+<lastmod>2015-05-30T00:33:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/page/about.html</loc>
-<lastmod>1970-01-01T00:00:00-00:00</lastmod>
+<lastmod>1970-01-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/page/contact.html</loc>
-<lastmod>1970-01-01T00:00:00-00:00</lastmod>
+<lastmod>1970-01-01T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://strn.github.io/post/2015/05/28/kako-su-razdvojeni-muskarci-i-decaci/</loc>
+<lastmod>2015-05-28T00:00:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://strn.github.io/post/2015/05/09/decaci-danas-seka-perse/</loc>
+<lastmod>2015-05-09T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/post/2015/01/04/selim-se-u-san-amore/</loc>
-<lastmod>2015-01-04T00:00:00-00:00</lastmod>
+<lastmod>2015-01-04T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/post/2014/12/14/lokalizacija-disqusa-na-srpski-jezik/</loc>
-<lastmod>2014-12-14T00:00:00-00:00</lastmod>
+<lastmod>2014-12-14T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/post/2014/12/12/istorija-mudrovanja/</loc>
-<lastmod>2014-12-12T00:00:00-00:00</lastmod>
+<lastmod>2014-12-12T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/category/blog.html</loc>
-<lastmod>2015-01-04T00:00:00+00:30</lastmod>
+<lastmod>2015-05-28T00:00:00+00:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,8 +109,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://strn.github.io/tag/decaci.html</loc>
+<lastmod>2015-05-28T00:00:00+00:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://strn.github.io/tag/muskarci.html</loc>
+<lastmod>2015-05-28T00:00:00+00:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://strn.github.io/tag/detinjarije.html</loc>
+<lastmod>2015-05-28T00:00:00+00:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://strn.github.io/author/puramotsa.html</loc>
-<lastmod>2015-01-04T00:00:00+00:30</lastmod>
+<lastmod>2015-05-28T00:00:00+00:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

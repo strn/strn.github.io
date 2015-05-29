@@ -44,3 +44,13 @@ p.admonition-title {
 p.admonition-title:after {
     content: ":";
 }
+
+div.leftside {
+    float: left;
+    padding: 1%;
+}
+
+div.rightside {
+	margin-left: 1%;
+}
+
