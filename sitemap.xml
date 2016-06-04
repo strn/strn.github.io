@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://strn.github.io/</loc>
-<lastmod>2015-12-02T21:44:27-00:00</lastmod>
+<lastmod>2016-06-04T19:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/archives.html</loc>
-<lastmod>2015-12-02T21:44:27-00:00</lastmod>
+<lastmod>2016-06-04T19:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/tags.html</loc>
-<lastmod>2015-12-02T21:44:27-00:00</lastmod>
+<lastmod>2016-06-04T19:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://strn.github.io/categories.html</loc>
-<lastmod>2015-12-02T21:44:27-00:00</lastmod>
+<lastmod>2016-06-04T19:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://strn.github.io/page/contact.html</loc>
 <lastmod>1970-01-01T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://strn.github.io/post/2016/06/04/kako-se-pronaci-na-blogu-b92/</loc>
+<lastmod>2016-06-04T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,14 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://strn.github.io/category/blog.html</loc>
-<lastmod>2015-12-02T00:00:00+00:30</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://strn.github.io/tag/.html</loc>
-<lastmod>2015-12-02T00:00:00+00:30</lastmod>
+<lastmod>2016-06-04T00:00:00+00:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -123,6 +123,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://strn.github.io/tag/b92.html</loc>
+<lastmod>2016-06-04T00:00:00+00:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://strn.github.io/tag/muskarci.html</loc>
 <lastmod>2015-05-28T00:00:00+00:30</lastmod>
 <changefreq>daily</changefreq>
@@ -138,7 +145,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://strn.github.io/author/puramotsa.html</loc>
-<lastmod>2015-12-02T00:00:00+00:30</lastmod>
+<lastmod>2016-06-04T00:00:00+00:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
