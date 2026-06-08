@@ -433,4 +433,16 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>I Thought I Knew Python. Then These 7 Features Humbled Me Completely. | by inprogrammer | May, 2026 | Python in Plain English</title>
         <desc>Discover 7 advanced Python features most developers never use walrus operator, structural pattern matching, __slots__, and more. Real code examples included.</desc>
     </bookmark>
+    <bookmark href="https://huggingface.co/opendatalab/MinerU2.5-Pro-2604-1.2B" TAGS="dev,ocr">
+        <title>opendatalab/MinerU2.5-Pro-2604-1.2B &#183; Hugging Face</title>
+        <desc>We&#8217;re on a journey to advance and democratize artificial intelligence through open source and open science.</desc>
+    </bookmark>
+    <bookmark href="https://blog.mrinalmaheshwari.com/microservices-vs-monolith-vs-modular-monolith-dc20ed89dbc9?sk=c6515970edf79272624aa6d89bf914c1" TAGS="architecture,dev,monolith">
+        <title>Microservices vs Monolith vs Modular Monolith: Pros, Cons, Use Cases | Medium</title>
+        <desc>Microservices, monolith, or modular monolith? Learn the real tradeoffs, where each fits best, and see simple diagrams to choose confidently.</desc>
+    </bookmark>
+    <bookmark href="https://mammadyahya.medium.com/stop-blindly-typing-git-pull-the-ultimate-guide-to-git-pull-strategies-6f9989349f49?sk=3c7476ae06cb870387767f4d72b118d0" TAGS="dev,git">
+        <title>Stop Blindly Typing git pull: The Ultimate Guide to Git Pull Strategies | by Mammad Yahyayev | AWS in Plain English</title>
+        <desc>Stop Blindly Typing git pull: The Ultimate Guide to Git Pull Strategies My articles are open to everyone; non-member readers can read the full article by clicking this link. Have you ever typed git &#8230;</desc>
+    </bookmark>
 </xbel>
