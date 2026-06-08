@@ -393,4 +393,44 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>How are Concurrency, Parallelism and Multithreading different? | by Samriddha Chattopadhyay | Level Up Coding</title>
         <desc>How are Concurrency, Parallelism and Multithreading different? Understand the difference once, properly, and permanently Not a member? Feel free to read it here for free. Most developers casually &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/10-python-tricks-that-only-senior-developers-know-in-2026-with-examples-a734f933d04a?sk=e8c21f2a39ade1d1083a19bfa404ebaf" TAGS="dev,medium,python">
+        <title>10 Python Tricks Senior Developers Use in 2026 | Examples | Stackademic</title>
+        <desc>Learn 10 advanced Python techniques senior developers use daily. From pattern matching to protocols, master code optimization with real examples. 2026 guide.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@developerawam/monolith-vs-microservices-the-big-mistake-junior-developers-often-make-d914642667a1?sk=4a84908bec903074f71b06a8e94b9cfa" TAGS="concepts,dev,medium,microservice,monolith">
+        <title>Monolith vs Microservices: The Big Mistake Junior Developers Often Make | by Developer Awam | CodeX | Medium</title>
+        <desc>Monolith vs Microservices: The Big Mistake Junior Developers Often Make At some point, almost every developer hits the same problem. Your application starts simple. Everything feels fast. &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/f5adec0e1981?sk=305ec869b161e4012ee04b8efe4b220a" TAGS="agentic,ai,dev,medium,python">
+        <title>I Tested 4 Python AI Agent Frameworks. One Won by a Large Margin. | Artificial Intelligence in Plain English</title>
+        <desc>Everyone is building AI agents in 2026. The frameworks promising to make that easier have multiplied just as fast. I built the same agent in LangGraph, CrewAI, AutoGen, and Pydantic AI to find out which one actually works when the task gets complex.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Deep-concept/backend-developer-roadmap-for-2026-what-to-learn-build-and-master-to-stay-ahead-d08b71a01ebc?sk=c90baa4056626d140357848c0d47d763" TAGS="dev,medium">
+        <title>Backend Developer Roadmap for 2026: What to Learn, Build, and Master to Stay Ahead | by Deep concept | Let&#8217;s Code Future | Medium</title>
+        <desc>Backend Developer Roadmap for 2026: What to Learn, Build, and Master to Stay Ahead A practical, step-by-step guide to backend skills, tools, and real-world technologies that actually matter plus the &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://skilledcoder.medium.com/how-do-you-design-code-when-requirements-are-unclear-7b8e843898f4?sk=5765d0a1d12fb2e3172935a7d1582afe" TAGS="code,design,dev">
+        <title>How Do You Design Code When Requirements Are Unclear? | by Skilled Coder | Medium</title>
+        <desc>How Do You Design Code When Requirements Are Unclear? The art of knowing what NOT to build yet Non members can read it via this link The Two Traps Developers Fall Into Over-Engineering : Building &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/6707911f48af?sk=b75d74872adc5182e57973df1864406f" TAGS="dev,medium,sql">
+        <title>10 Hard Time-Series Problems You Can Surprisingly Solve in SQL | by Rohan Dutt | Medium</title>
+        <desc>10 Hard Time-Series Problems You Can Surprisingly Solve in SQL Practical SQL techniques for handling real-world time-series challenges without external tools &#8212; Non Member: Pls take a look here! SQL &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@viju-londhe/five-design-patterns-python-backend-devs-use-f206c583381f?sk=ffe5e653af5603bc4af3d04e4434065f" TAGS="dev,pattern,python">
+        <title>Five Design Patterns Python Backend Devs Use | by Vijay | Medium</title>
+        <desc>A longer, detailed write up on five design patterns I use in Python backend services, based on real production issues and fixes.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@tricky16122000/10-python-features-youre-not-using-but-really-should-283608887ff9?sk=58cc915e6e4c8b12c07423db1e59666c" TAGS="dev,python">
+        <title>10 Python Features You&#8217;re Not Using (But Really Should) | by Aysha R | Python in Plain English</title>
+        <desc>10 Python Features You&#8217;re Not Using (But Really Should) Practical features from the standard library that simplify real code. Python has this reputation of being simple. And it is, until you&#8217;ve &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@sumit.ai/692d1fb78426?sk=6a58c8146de3c9e2ec597bebf237302f" TAGS="ai,dev">
+        <title>Harness Engineering: The Quiet Coding Skill Everyone Will Need | by Sumit Pandey | May, 2026 | Towards Deep Learning</title>
+        <desc>The change happened without me noticing, and I think it matters more than the next model.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/8a2c6b5862ce?sk=891b4618f68a20006cba4f0aea449883" TAGS="code,dev,python">
+        <title>I Thought I Knew Python. Then These 7 Features Humbled Me Completely. | by inprogrammer | May, 2026 | Python in Plain English</title>
+        <desc>Discover 7 advanced Python features most developers never use walrus operator, structural pattern matching, __slots__, and more. Real code examples included.</desc>
+    </bookmark>
 </xbel>
