@@ -445,4 +445,40 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Stop Blindly Typing git pull: The Ultimate Guide to Git Pull Strategies | by Mammad Yahyayev | AWS in Plain English</title>
         <desc>Stop Blindly Typing git pull: The Ultimate Guide to Git Pull Strategies My articles are open to everyone; non-member readers can read the full article by clicking this link. Have you ever typed git &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/activated-thinker/how-to-turn-your-ml-model-into-a-web-app-3b26d943bcf9?sk=64c4dee9cab11f9dd4a51814e6b44062" TAGS="ai,dev,python">
+        <title>How To Turn Your ML Model Into A Web App | by Shreyas Naphad | Activated Thinker | Medium</title>
+        <desc>How To Turn Your ML Model Into A Web App A step-by-step guide to converting machine learning models into real web applications &#128073;For Non-Members link to the full story Most machine learning &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/i-took-my-python-app-to-production-here-is-what-changed-10f1701f08e2?sk=da8293e6b7935ce46eb4277b3c14a629" TAGS="code,dev,python">
+        <title>I Took My Python App to Production. Here Is What&#160;Changed. | Venture</title>
+        <desc>Taking a Python app to production changes everything. This guide breaks down what actually shifts after deployment, including performance optimization, scalability challenges, monitoring, error handling, and real user behavior.</desc>
+    </bookmark>
+    <bookmark href="https://ai.gopubby.com/the-rag-layer-nobody-talks-about-7580d2f59f6f?sk=c25e995ea65706365243a7839c90c285" TAGS="ai,dev,rag">
+        <title>The RAG Layer Nobody Talks About | AI Advances</title>
+        <desc>Your vector search works fine. The problem is what happens next. A practical guide to the RAG augmentation layer: reranking, deduplication, and prompt architecture.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Deep-concept/building-an-enterprise-rag-system-in-2026-the-tools-i-wish-i-had-from-day-one-2ad3c2299275?sk=566bdfe7e74e07ec83d3773b75702e67" TAGS="ai,dev,rag">
+        <title>Building an Enterprise RAG System in 2026: The Tools I Wish I Had From Day One | by Deep concept | Medium</title>
+        <desc>Building an Enterprise RAG System in 2026: The Tools I Wish I Had From Day One 8 Essential Tools Behind Every Reliable Enterprise RAG System The first time I worked on a serious Retrieval-Augmented &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/javarevisited/singleton-pattern-part-2-why-i-dont-recommend-using-the-singleton-pattern-41c7f68d9a43" TAGS="dev,pattern">
+        <title>Singleton Pattern (Part 2): Why I Don&#8217;t Recommend Using the Singleton Pattern? And What Are the Alternative Solutions? | by Dylan Smith | Javarevisited | Medium</title>
+        <desc>Singleton Pattern (Part 2): Why I Don&#8217;t Recommend Using the Singleton Pattern? And What Are the Alternative Solutions? My articles are open to everyone; non-member readers can read the full article &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@junfeng0828/eaed68c7e0cf?sk=4244d4162df8c9efb8877cf802763176" TAGS="dev,pattern">
+        <title>Singleton Pattern (Part 1): Why Isn&#8217;t Double &#8212; Checked Locking with Lazy Loading Superior to Eager Initialization? | by Dylan Smith | Level Up Coding</title>
+        <desc>Singleton Pattern (Part 1): Why Isn&#8217;t Double &#8212; Checked Locking with Lazy Loading Superior to Eager Initialization? My articles are open to everyone; non-member readers can read the full article &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://mammadyahya.medium.com/b-tree-basics-what-really-happens-under-the-hood-add6899fc87b?sk=1d7fe5ff5ae3ac3616d2d6e7815fa9ad" TAGS="dev,pattern">
+        <title>B-Tree Basics: What Really Happens Under the Hood? | by Mammad Yahyayev | Apr, 2026 | AWS in Plain English</title>
+        <desc>B-Tree Basics: What Really Happens Under the Hood? My articles are open to everyone; non-member readers can read the full article by clicking this link. You write a query. It returns in milliseconds &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@csvaibhavpasrija/9c0c965dc330?sk=7cfbee4ab778f24878982cf759732b09" TAGS="dev,javascript">
+        <title>All about WebAssembly in the JavaScript | Medium</title>
+        <desc>Why WebAssembly is transforming high-performance JavaScript . Learn how Wasm boosts speed, enables multi-language support, and powers next-gen web applications.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/why-senior-engineers-use-the-command-pattern-everywhere-e6d18072144b?sk=8b60a7b6869bb8e02a4b11b92fe212e9" TAGS="dev,pattern">
+        <title>Why Senior Engineers Use the Command Pattern Everywhere | by Gaddam.Naveen | May, 2026 | Medium</title>
+        <desc>Why Senior Engineers Use the Command Pattern Everywhere Free Link The Day My Code Learned to Remember (And Why You Need the Command Pattern) Picture this: it&#8217;s 2 a.m., and a critical batch job just &#8230;</desc>
+    </bookmark>
 </xbel>
