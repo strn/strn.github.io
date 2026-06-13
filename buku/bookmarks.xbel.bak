@@ -481,4 +481,12 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Why Senior Engineers Use the Command Pattern Everywhere | by Gaddam.Naveen | May, 2026 | Medium</title>
         <desc>Why Senior Engineers Use the Command Pattern Everywhere Free Link The Day My Code Learned to Remember (And Why You Need the Command Pattern) Picture this: it&#8217;s 2 a.m., and a critical batch job just &#8230;</desc>
     </bookmark>
+    <bookmark href="https://tarzzotech.medium.com/e798406d1fc7?sk=3e38e44a577c73b2dccd2d907f510b4a" TAGS="dev,javascript,npm">
+        <title>How Bun is getting better than Node/npm | JavaScript in Plain English</title>
+        <desc>JavaScript &#128293; Bun Isn&#8217;t Just Faster Than npm, It&#8217;s Rewriting the JavaScript Toolchain Not a Member? Read for FREE here. For over a decade, Node.js has been the backbone of JavaScript &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://blog.mrinalmaheshwari.com/typescript-6-0-explained-features-breaking-changes-upgrade-guide-0ad71a2a5d85?sk=f3b6be1be7a6d0f5cf81e0dafb14f428" TAGS="dev,javascript,typescript">
+        <title>TypeScript 6.0 Explained: Features, Breaking Changes, and Upgrade Guide | Medium</title>
+        <desc>TypeScript 6.0 is here with stricter defaults, new built-in types, deprecations, and migration changes that developers should know before upgrading.</desc>
+    </bookmark>
 </xbel>

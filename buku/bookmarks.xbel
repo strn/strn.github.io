@@ -489,4 +489,28 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>TypeScript 6.0 Explained: Features, Breaking Changes, and Upgrade Guide | Medium</title>
         <desc>TypeScript 6.0 is here with stricter defaults, new built-in types, deprecations, and migration changes that developers should know before upgrading.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@singhharshhs586/a851b6e443eb?sk=fe67f23ce24a79af49f65545468c23b4" TAGS="code,dev,python">
+        <title>How to Write Cleaner Python Code (Using Just 5 Built-in Features) | by Harsh singh | Technology Core | Medium</title>
+        <desc>Learn how to write cleaner Python code using 5 powerful built-in features like enumerate, zip, list comprehension, defaultdict, and any/all. Reduce complexity and write more professional code instantly.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@junfeng0828/a71a8dae515b?sk=50faed5da4f0309b211fc35ac79dc51e" TAGS="dev,pattern">
+        <title>Factory Pattern (Part 1): Don&#8217;t Abuse It! Let&#8217;s Talk About the Right Way to Create Objects | by Dylan Smith | Towards Dev</title>
+        <desc>Factory Pattern (Part 1): Don&#8217;t Abuse It! Let&#8217;s Talk About the Right Way to Create Objects My articles are open to everyone; non-member readers can read the full article by clicking this &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/skillstuff/7-coding-patterns-i-stole-from-senior-engineers-c95f757e52a6?sk=477dbb293debc13fd5de6e68a4526571" TAGS="code,dev,pattern">
+        <title>7 Coding Patterns I Stole From Senior Engineers | by CodeByUmar | Skill Stuff | Jun, 2026 | Medium</title>
+        <desc>7 Coding Patterns I Stole From Senior Engineers Most developers do not become better because they learn more syntax. They become better because they stop making code harder than it needs to be. If &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@developerawam/jquery-4-0-0-is-finally-here-the-legend-that-refuses-to-retire-4ce63bc27ac2?sk=53fbf859af15e995cd4722f8cb0227ef" TAGS="dev,javascript,jquery">
+        <title>jQuery 4.0.0 is Finally Here: The Legend That Refuses to Retire | by Developer Awam | JavaScript in Plain English</title>
+        <desc>jQuery 4.0.0 is Finally Here: The Legend That Refuses to Retire January 17, 2026, wasn&#8217;t just another day in web development. Exactly 20 years after John Resig first introduced it at BarCamp NYC in &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/the-frontend-details-nobody-teaches-you-but-users-always-notice-b56e8a7420f4?sk=182eb0fdde9242cf8cfa6f43f0c888b2" TAGS="dev,gui,ui">
+        <title>Frontend UX Tips Nobody Teaches You | Tushar Kanjariya | Medium</title>
+        <desc>Real frontend UX details that make apps feel smoother, faster, and more trustworthy &#8212; with practical examples from real projects.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/i-started-with-spring-ai-i-ended-up-using-langchain4j-heres-why-c60257ec2ae5?sk=c73d372ab16fc8642d96361e0f9f5e7e" TAGS="dev,java,javascript,langchain">
+        <title>I Started With Spring AI. I Ended Up Using LangChain4j. Here&#8217;s Why. | by Gaddam.Naveen | May, 2026 | Medium</title>
+        <desc>I Started With Spring AI. I Ended Up Using LangChain4j. Here&#8217;s Why. Free Link LangChain4j vs Spring AI: After Building Real Projects With Both, Here&#8217;s What Actually Matters It was a Wednesday &#8230;</desc>
+    </bookmark>
 </xbel>
