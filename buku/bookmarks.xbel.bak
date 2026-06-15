@@ -513,4 +513,28 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>I Started With Spring AI. I Ended Up Using LangChain4j. Here&#8217;s Why. | by Gaddam.Naveen | May, 2026 | Medium</title>
         <desc>I Started With Spring AI. I Ended Up Using LangChain4j. Here&#8217;s Why. Free Link LangChain4j vs Spring AI: After Building Real Projects With Both, Here&#8217;s What Actually Matters It was a Wednesday &#8230;</desc>
     </bookmark>
+    <bookmark href="https://vijaydeepak.medium.com/e6acbab613b1?sk=be9de208149ed2da4bdd5e66ccd0b301" TAGS="ai,dev">
+        <title>&#128640; The One Command That Finally Makes AI Coding Tools Feel Local, Open, and Effortless | by Vijayasekhar Deepak | Artificial Intelligence in Plain English</title>
+        <desc>AI + OPENSOURCE &#128640; The One Command That Finally Makes AI Coding Tools Feel Local, Open, and Effortless Ollama launch Not a Member? Read for FREE here. &#8220;The future of AI-assisted development &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gopi_ck/6748e7d9efa8?sk=9ed4625b6c0540a94345f662f1ba54ce" TAGS="backend,code,dev">
+        <title>How to Become a Complete Backend Developer | by Gopi C K | Jun, 2026 | Medium</title>
+        <desc>Learn how to become a complete backend developer with this practical roadmap covering Java, Spring Boot, APIs, databases, authentication, Docker, deployment, system design, and backend architecture in a simple and beginner friendly way.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@tricky16122000/6-best-mcp-servers-tools-for-python-developers-4a3bac224961?sk=584874115957618b9893df4d1e48c60f" TAGS="ai,dev,mcp,python">
+        <title>6 Best MCP Servers &amp; Tools for Python Developers | by Aysha R | Pythonic AF | Medium</title>
+        <desc>6 Best MCP Servers &amp; Tools for Python Developers The stuff I actually trust after breaking things so you don&#8217;t have to I didn&#8217;t learn about MCP servers from a blog post. I learned the hard way &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://sachinkasana.medium.com/node-vs-bun-vs-deno-what-actually-runs-in-production-2026-guide-a3552c18ce91?sk=c4f9da5782ab574bf14fb0c31e390b30" TAGS="dev,javascript">
+        <title>Node vs Bun vs Deno: What Actually Runs in Production (2026 Guide) | by Sachin Kasana | JavaScript in Plain English</title>
+        <desc>Node vs Bun vs Deno: What Actually Runs in Production (2026 Guide) Every new JavaScript runtime shows up with the same promise: Faster than Node. Cleaner than Node. Modern by default. And every few &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/python-requests-vs-httpx-vs-aiohttp-i-benchmarked-all-3-on-real-traffic-b1987e9ab624?sk=9520b7a7be64bba86c504145744570d5" TAGS="dev,python">
+        <title>Python Requests vs httpx vs aiohttp. I Benchmarked All 3 on Real Traffic | Stackademic</title>
+        <desc>I benchmarked Python Requests, httpx, and aiohttp on 1,000 real API calls sequential, concurrent, timeout handling, and memory. Here&#x27;s the data, the winner, and the one that actually shocked me.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@csvaibhavpasrija/3209ceab8773?sk=2050698824ccdf7a99cf5096c2c1ff4a" TAGS="dev,javascript">
+        <title>Node.js vs Deno vs Bun: Complete Comparison | JavaScript in Plain English</title>
+        <desc>Compare Node.js, Deno, and Bun in this complete 2026 guide. Learn differences in performance, security, TypeScript support, ecosystem, and scalability</desc>
+    </bookmark>
 </xbel>
