@@ -537,4 +537,20 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Node.js vs Deno vs Bun: Complete Comparison | JavaScript in Plain English</title>
         <desc>Compare Node.js, Deno, and Bun in this complete 2026 guide. Learn differences in performance, security, TypeScript support, ecosystem, and scalability</desc>
     </bookmark>
+    <bookmark href="https://blog.stackademic.com/stop-writing-basic-database-configs-5-advanced-spring-boot-patterns-that-impress-in-code-reviews-b52ade3f2d08?sk=484bb4e8f9179758ca6b773f7679a9a6" TAGS="dev,java,spring">
+        <title>Stop Writing Basic Database Configs: 5 Advanced Spring Boot Patterns That Impress in Code Reviews | by HabibWahid | Stackademic</title>
+        <desc>Stop Writing Basic Database Configs: 5 Advanced Spring Boot Patterns That Impress in Code Reviews Basic connection strings get your app running. These configurations get you promoted. Learn what &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-validate-left-joins-across-slowly-changing-dimensions-8858b74bdcfb?sk=e1a1e4ef481bcf417afd7155ee2b3b22" TAGS="dev,sql">
+        <title>How to Write SQL Queries That Validate LEFT JOINs Across Slowly Changing Dimensions | by Rohan Dutt | Dev Genius</title>
+        <desc>How to Write SQL Queries That Validate LEFT JOINs Across Slowly Changing Dimensions Practical checks to ensure historical joins stay accurate across versioned dimension tables &#8212; Non Member: Pls &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/we-replaced-500-tomcat-threads-with-virtual-threads-the-results-shocked-us-12cd9afe4a15?sk=b96ddaf58948a8ca77fd70d75d7feead" TAGS="dev">
+        <title>We Replaced 500 Tomcat Threads with Virtual Threads &#8212; The Results Shocked Us | by Gaddam.Naveen | Jun, 2026 | Medium</title>
+        <desc>We Replaced 500 Tomcat Threads with Virtual Threads &#8212; The Results Shocked Us The Spring Boot Scaling Trick Most Developers Still Don&#8217;t Know Free Link Building a Spring Boot Application with Java &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/9f628082e0d0?sk=1152af90f390a66eae0a567d7f4829b6" TAGS="dev,llm,rag">
+        <title>Run a Useful Local LLM in 30 Minutes (Coding, RAG, Voice) | by Anubhav | Data Science Collective | Jun, 2026 | Medium</title>
+        <desc>Run a Useful Local LLM in 30 Minutes (Coding, RAG, Voice) It runs entirely on your machine: no subscription, no internet. About 8 minutes to set up, then build the part you&#8217;d actually use: a coding &#8230;</desc>
+    </bookmark>
 </xbel>
