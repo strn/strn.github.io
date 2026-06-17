@@ -537,4 +537,64 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Node.js vs Deno vs Bun: Complete Comparison | JavaScript in Plain English</title>
         <desc>Compare Node.js, Deno, and Bun in this complete 2026 guide. Learn differences in performance, security, TypeScript support, ecosystem, and scalability</desc>
     </bookmark>
+    <bookmark href="https://blog.stackademic.com/stop-writing-basic-database-configs-5-advanced-spring-boot-patterns-that-impress-in-code-reviews-b52ade3f2d08?sk=484bb4e8f9179758ca6b773f7679a9a6" TAGS="dev,java,spring">
+        <title>Stop Writing Basic Database Configs: 5 Advanced Spring Boot Patterns That Impress in Code Reviews | by HabibWahid | Stackademic</title>
+        <desc>Stop Writing Basic Database Configs: 5 Advanced Spring Boot Patterns That Impress in Code Reviews Basic connection strings get your app running. These configurations get you promoted. Learn what &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-validate-left-joins-across-slowly-changing-dimensions-8858b74bdcfb?sk=e1a1e4ef481bcf417afd7155ee2b3b22" TAGS="dev,sql">
+        <title>How to Write SQL Queries That Validate LEFT JOINs Across Slowly Changing Dimensions | by Rohan Dutt | Dev Genius</title>
+        <desc>How to Write SQL Queries That Validate LEFT JOINs Across Slowly Changing Dimensions Practical checks to ensure historical joins stay accurate across versioned dimension tables &#8212; Non Member: Pls &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/we-replaced-500-tomcat-threads-with-virtual-threads-the-results-shocked-us-12cd9afe4a15?sk=b96ddaf58948a8ca77fd70d75d7feead" TAGS="dev">
+        <title>We Replaced 500 Tomcat Threads with Virtual Threads &#8212; The Results Shocked Us | by Gaddam.Naveen | Jun, 2026 | Medium</title>
+        <desc>We Replaced 500 Tomcat Threads with Virtual Threads &#8212; The Results Shocked Us The Spring Boot Scaling Trick Most Developers Still Don&#8217;t Know Free Link Building a Spring Boot Application with Java &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/9f628082e0d0?sk=1152af90f390a66eae0a567d7f4829b6" TAGS="dev,llm,rag">
+        <title>Run a Useful Local LLM in 30 Minutes (Coding, RAG, Voice) | by Anubhav | Data Science Collective | Jun, 2026 | Medium</title>
+        <desc>Run a Useful Local LLM in 30 Minutes (Coding, RAG, Voice) It runs entirely on your machine: no subscription, no internet. About 8 minutes to set up, then build the part you&#8217;d actually use: a coding &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-dont-collapse-when-one-table-grows-10-cea22c7d515d?sk=c4d63e06654b2389e1e70d6c47dcad58" TAGS="design,dev,sql">
+        <title>How to Write SQL Queries That Don&#8217;t Collapse When One Table Grows 10&#215; | by Rohan Dutt | Medium</title>
+        <desc>How to Write SQL Queries That Don&#8217;t Collapse When One Table Grows 10&#215; Design patterns that keep queries stable under rapid data growth &#8212; Non Member: Pls take a look here! Coffee in hand, Slack &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/these-python-one-liners-replaced-40-lines-of-my-code-im-still-mad-9ed79521adfb?sk=7c953d9697c74cd86e5bdfc22ca4e83d" TAGS="code,dev,python">
+        <title>These Python One-Liners Replaced 40 Lines of My Code. I&#8217;m Still Mad. | by inprogrammer | Jun, 2026 | Medium</title>
+        <desc>These Python One-Liners Replaced 40 Lines of My Code. I&#8217;m Still Mad. Three months ago, a senior engineer reviewed my pull request. She didn&#8217;t say anything bad. She just quietly replaced 40 lines &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@tricky16122000/5-things-i-always-do-before-pushing-python-code-81fad6ab94e0?sk=d7fac2055611d89f381a19fac136830e" TAGS="code,dev,python">
+        <title>5 Things I Always Do Before Pushing Python Code | by Aysha R | Python in Plain English</title>
+        <desc>5 Things I Always Do Before Pushing Python Code How I stopped embarrassing myself in code reviews and how you can too. It happened after yet another code review comment that said, &#8220;Did you even run &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://gargaryan82000.medium.com/88dbf620d4a5?sk=e24c7d1c5215d52fadd3a846a0b732a5" TAGS="code,dev,javascript">
+        <title>Node.js in 2026: The Modern Stack That Changed Everything | by Aryan Garg | JavaScript in Plain English</title>
+        <desc>Node.js in 2026: The Modern Stack That Changed Everything Native TypeScript Stripping, HTTP/3, AI Integration, and the Built-in Features That Are Redefining Backend Development For Non-Medium &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/fa67a926b5f9?sk=aec21e32fbeac2b556d4b84f6bca9032" TAGS="ai,dev,python,voice">
+        <title>Build a Real-Time Voice Agent in 30 Minutes (With Interruption Handling) | by Anubhav | Data Science Collective | May, 2026 | Medium</title>
+        <desc>Build a Real-Time Voice Agent in 30 Minutes (With Interruption Handling) A practical Python architecture for mic capture, speaker playback, Gemini Live streaming, tool calls, and instant audio &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/my-fastapi-app-was-slow-this-one-fix-made-it-80-faster-1f3b3905e20d?sk=eef45e313a8d3fb5a1ceec8cf82b42ff" TAGS="dev,python">
+        <title>My FastAPI App Was Slow. This One Fix Made It 80%&#160;Faster. | Stackademic</title>
+        <desc>My FastAPI app slowed down in production for no obvious reason. Here is the exact blocking call that caused it and the two-line fix that made it 80% faster.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/simple-css-tricks-to-make-your-forms-look-pro-a2b262bddda8?sk=ed44a90f01a4f8ed2a093aafd2a32a44" TAGS="css,dev,html">
+        <title>How to Style Forms With CSS (Pro UI) | Medium</title>
+        <desc>Make your HTML forms look clean and professional with easy CSS tips. No Bootstrap or UI library needed.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/write-a-catalyst/docker-alternatives-in-2026-d677376a6076?sk=fa8daa6ffe6cd2920c12e5e46bca5ac8" TAGS="dev,devops,docker">
+        <title>&#128640; Docker Alternatives in 2026. Migration, Compose Replacements&#8230; | by DevOps voice | Write A Catalyst | Medium</title>
+        <desc>&#128640; Docker Alternatives in 2026 Migration, Compose Replacements, Kubernetes Runtimes &amp; CI/CD &#8212; Complete Guide Non-member= Click! &#128204; Table of Contents What Is the Problem with Docker? What Are &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/i-found-a-fastapi-bug-that-was-slowing-my-app-by-80-a9992a7c3af8?sk=065ec5397846dc34172a47f3675a2d70" TAGS="dev,python">
+        <title>I Found a FastAPI Bug That Was Slowing My App by 80% | Stackademic</title>
+        <desc>My FastAPI app looked fine in development. In production it was running at 640ms response times under normal load. No deployment had happened, nothing had changed, it just kept getting slower. This is the exact bug I found, why it is invisible until you measure it properly..</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/i-compared-4-python-vector-databases-one-replaced-pinecone-76e00c57ab03?sk=f5e9853120e8a2c05fcc8be606aee565" TAGS="dev,python">
+        <title>I Compared 4 Python Vector Databases. One Replaced&#160;Pinecone | Stackademic</title>
+        <desc>I tested four popular Python vector databases on performance, scalability, cost, and ease of use. This hands-on comparison reveals which option can replace Pinecone and when you should choose each solution for your AI applications.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@tricky16122000/every-python-built-in-function-explained-22e4087dd2db?sk=0b749b9c739a007cebfdccef96881240" TAGS="code,dev,python">
+        <title>Every Python Built In Function Explained | by Aysha R | Python in Plain English</title>
+        <desc>Every Python Built In Function Explained For People Who Don&#8217;t Have Time to Be Confused Most Python beginners meet built in functions the same way people meet their neighbors &#8212; by accident &#8230;</desc>
+    </bookmark>
 </xbel>
