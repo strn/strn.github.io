@@ -597,4 +597,20 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Every Python Built In Function Explained | by Aysha R | Python in Plain English</title>
         <desc>Every Python Built In Function Explained For People Who Don&#8217;t Have Time to Be Confused Most Python beginners meet built in functions the same way people meet their neighbors &#8212; by accident &#8230;</desc>
     </bookmark>
+    <bookmark href="https://sachinkasana.medium.com/8-llm-cost-optimization-techniques-every-ai-engineer-should-know-a45a1cb1d838?sk=e78e627c2c34b6c07fec17160f2d1592" TAGS="agentic,ai,dev">
+        <title>8 LLM Cost Optimization Techniques Every AI Engineer Should Know | by Sachin Kasana | Jun, 2026 | Medium</title>
+        <desc>8 LLM Cost Optimization Techniques Every AI Engineer Should Know Most AI applications waste thousands of dollars every month on unnecessary tokens, oversized prompts, and expensive model calls. Here &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@umairali.khan/how-i-enhanced-doclings-image-interpretation-capabilities-641ce017bce5?sk=efea525b59e03df1554a60291b4d3a32" TAGS="ai,dev,ocr,python,rag">
+        <title>How I Enhanced Docling&#8217;s Parsing With Image Interpretation | Data Science Collective</title>
+        <desc>I created a vision-enhanced document parser and RAG&#160;chunker</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@developerawam/run-ai-locally-with-llama-cpp-no-limits-no-internet-no-cost-83177dc242ff?sk=01ad9a49cd9b1f943e5d1b4a9563f94e" TAGS="ai,dev,llama.cpp">
+        <title>Run AI Locally with llama.cpp &#8212; No Limits, No Internet, No Cost | by Developer Awam | CodeX | Jun, 2026 | Medium</title>
+        <desc>Run AI Locally with llama.cpp &#8212; No Limits, No Internet, No Cost All the AI you need, running on your own laptop. No monthly bills, no data leaving your machine, no rate limits. Ever hit an OpenAI &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://github.com/OpenCut-app/OpenCut" TAGS="ai,dev,video">
+        <title>GitHub - OpenCut-app/OpenCut: The open-source CapCut alternative &#183; GitHub</title>
+        <desc>The open-source CapCut alternative. Contribute to OpenCut-app/OpenCut development by creating an account on GitHub.</desc>
+    </bookmark>
 </xbel>
