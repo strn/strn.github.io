@@ -613,4 +613,32 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>GitHub - OpenCut-app/OpenCut: The open-source CapCut alternative &#183; GitHub</title>
         <desc>The open-source CapCut alternative. Contribute to OpenCut-app/OpenCut development by creating an account on GitHub.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/10-git-commands-that-separate-senior-developers-from-everyone-else-dda9ca5641a7?sk=c1b3862df7a83c0c778a5e1d3f321f19" TAGS="dev,git">
+        <title>10 Git Commands That Separate Senior Developers From Everyone Else | by Gaddam.Naveen | Stackademic</title>
+        <desc>10 Git Commands That Separate Senior Developers From Everyone Else if you are not a medium member then Click here to read free Git is not just a version control tool &#8212; it is the backbone of modern &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@csvaibhavpasrija/aa9e310323d5?sk=a6ef65768f18aea4df32d2b9933c3d9b" TAGS="ai,code,dev">
+        <title>Top 5 AI Tools for Programmers in 2026 | CodeX</title>
+        <desc>Discover the top 5 AI tools for programmers in 2026 that accelerate coding, debugging, testing, and DevOps workflows.</desc>
+    </bookmark>
+    <bookmark href="https://alielmali.medium.com/how-to-scale-a-local-ai-system-where-you-upload-documents-40128df16927?sk=0b2c0d73450d3f89a611373c4ab6ab57" TAGS="agentic,ai,dev">
+        <title>How to Scale a Local AI System Where You Upload Documents? A Real-World Worklog on Collection-Aware RAG, Shadow Routing, and Production-Safe AI Engineering | by Ali Elmal&#305; | Become Better | May, 2026 | Medium</title>
+        <desc>How to Scale a Local AI System Where You Upload Documents? A Real-World Worklog on Collection-Aware RAG, Shadow Routing, and Production-Safe AI Engineering The real-life engineering story of scaling &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://tarzzotech.medium.com/1bd221349130?sk=b94a5e406aa161a7299db7b5f5f065fe" TAGS="dev,image,ollama">
+        <title>Build Local AI Image Generation with Ollama (No Cloud, No API Keys) | by Vijayasekhar Deepak | Artificial Intelligence in Plain English</title>
+        <desc>AI Image Gen Build Local AI Image Generation with Ollama (No Cloud, No API Keys) A Hands-On Guide for You Not a Member? Read for FREE here. A few days ago, image generation meant one thing: Cloud &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://sachinkasana.medium.com/vectorless-rag-building-retrieval-systems-without-embeddings-or-vector-databases-dda9aab4a016?sk=63afc97f39c295c8eabc57652c6d5a1b" TAGS="ai,dev,rag">
+        <title>Vectorless RAG: Building Retrieval Systems Without Embeddings or Vector Databases | by Sachin Kasana | CodeToDeploy | May, 2026 | Medium</title>
+        <desc>Vectorless RAG: Building Retrieval Systems Without Embeddings or Vector Databases Most RAG tutorials follow the same architecture: Convert documents into embeddings Store vectors in a vector &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/e6eb4958dcad?sk=4acf9ce3ddfe1f13b181fd8f35f680b9" TAGS="ai,dev,javascript,llm,ocr">
+        <title>LiteParse bets that LLMs already know how to read a table, so it stopped converting them | by Pankaj Pandey | Medium</title>
+        <desc>LiteParse bets that LLMs already know how to read a table, so it stopped converting them LlamaIndex open-sourced the core parsing engine behind LlamaParse, and instead of detecting document structure &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/i-fixed-my-python-logging-with-3-tools-here-is-how-b6f45e613083?sk=f9f90480c67a31112638211936fbad9a" TAGS="code,dev,python">
+        <title>I Fixed My Python Logging With 3 Tools. Here Is How. | Medium</title>
+        <desc>I replaced Python&#x27;s default logging setup with three tools: Loguru for development, Structlog for production JSON logging, and Sentry for error monitoring. The result was a 60% drop in debugging time across three production projects.</desc>
+    </bookmark>
 </xbel>
