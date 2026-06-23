@@ -641,4 +641,12 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>I Fixed My Python Logging With 3 Tools. Here Is How. | Medium</title>
         <desc>I replaced Python&#x27;s default logging setup with three tools: Loguru for development, Structlog for production JSON logging, and Sentry for error monitoring. The result was a 60% drop in debugging time across three production projects.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@Deep-concept/5066b3117f69?sk=0ad035b133408a04d8d0ad943e7834fc" TAGS="ai,concepts,dev">
+        <title>30 Core Agentic Engineering Concepts Every Developer Should Know | by Deep concept | Let&#8217;s Code Future | Jun, 2026 | Medium</title>
+        <desc>&#8220;&#8221; is published by Deep concept in Let&#8217;s Code Future.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/fc1dfa17948d?sk=e1f3d9cf734ee7d64127789dd012609a" TAGS="agentic,ai,dev">
+        <title>The Agentic AI Engineer Roadmap for 2026: Skills, Stack, and Order | by Anubhav | Data Science Collective | Jun, 2026 | Medium</title>
+        <desc>The Agentic AI Engineer Roadmap for 2026: Skills, Stack, and Order 10 skills that actually matter, the stack to learn them on, the order to learn them in, and the four things you should skip even &#8230;</desc>
+    </bookmark>
 </xbel>
