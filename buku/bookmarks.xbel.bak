@@ -649,4 +649,20 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>The Agentic AI Engineer Roadmap for 2026: Skills, Stack, and Order | by Anubhav | Data Science Collective | Jun, 2026 | Medium</title>
         <desc>The Agentic AI Engineer Roadmap for 2026: Skills, Stack, and Order 10 skills that actually matter, the stack to learn them on, the order to learn them in, and the four things you should skip even &#8230;</desc>
     </bookmark>
+    <bookmark href="https://github.com/baidu/Unlimited-OCR" TAGS="ai,ocr">
+        <title>GitHub - baidu/Unlimited-OCR: Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. &#183; GitHub</title>
+        <desc>Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. - baidu/Unlimited-OCR</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/33e8cb27e9d1?sk=2cd644916b6c368c3d26ef6671daf3ab" TAGS="ai,dev,rag">
+        <title>A-RAG: Give the Model Search Tools and Let It Retrieve Its Own Answers | by Pankaj Pandey | Medium</title>
+        <desc>A-RAG: Give the Model Search Tools and Let It Retrieve Its Own Answers Traditional RAG picks chunks before the model sees the question. If the algorithm picks wrong, the model is stuck. A-RAG hands &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://yadavdivy296.medium.com/mcp-is-dead-why-this-protocol-breaks-in-production-and-how-to-fix-it-5499db11ef3e?sk=75c0724c9ca88811cd8d1df2607c1345" TAGS="ai,dev,mcp">
+        <title>MCP Is Dead: Why This Protocol Breaks in Production(And How to Fix It) | by Divy Yadav | AI Engineering Simplified | Jun, 2026 | Medium</title>
+        <desc>MCP is Dead.MCP is everywhere in AI, but do you actually need it? This article breaks down why MCP can become unnecessary complexity, when it adds real value, and why many production AI systems are better off with direct APIs and native tool calling.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-artificial-intelligence/creating-an-advanced-ai-agent-from-scratch-with-python-in-2025-part-1-ce74a23f6514?sk=39314d5421bdf26306838a5ecc438745" TAGS="agentic,ai,dev,python">
+        <title>Creating an Advanced AI Agent From Scratch with Python in 2026: Part 1 | by Hamza Boulahia | Towards AI</title>
+        <desc>Creating an Advanced AI Agent From Scratch with Python in 2026: Part 1 Build Intelligent Tool-Using Agents Without Frameworks Using Python, Pydantic, and the ReAct Pattern Non-members link If you ask &#8230;</desc>
+    </bookmark>
 </xbel>

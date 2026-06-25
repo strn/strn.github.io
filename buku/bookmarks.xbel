@@ -665,4 +665,20 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Creating an Advanced AI Agent From Scratch with Python in 2026: Part 1 | by Hamza Boulahia | Towards AI</title>
         <desc>Creating an Advanced AI Agent From Scratch with Python in 2026: Part 1 Build Intelligent Tool-Using Agents Without Frameworks Using Python, Pydantic, and the ReAct Pattern Non-members link If you ask &#8230;</desc>
     </bookmark>
+    <bookmark href="https://github.com/deepseek-ai/DeepSeek-OCR-2" TAGS="ai,dev,ocr">
+        <title>GitHub - deepseek-ai/DeepSeek-OCR-2: Visual Causal Flow &#183; GitHub</title>
+        <desc>Visual Causal Flow. Contribute to deepseek-ai/DeepSeek-OCR-2 development by creating an account on GitHub.</desc>
+    </bookmark>
+    <bookmark href="https://sachinkasana.medium.com/building-self-correcting-ai-agents-with-mcp-4daed41df85f?sk=232a3a83baf25419273e5fb4d6a7ea66" TAGS="agentic,ai,dev,mcp">
+        <title>Building Self-Correcting AI Agents with MCP | by Sachin Kasana | CodeToDeploy | Jun, 2026 | Medium</title>
+        <desc>Building Self-Correcting AI Agents with MCP Most AI agents fail for the same reason junior developers fail. They try something once. If it works, great. If it doesn&#8217;t, they either stop or produce a &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/lets-code-future/i-work-with-ai-agents-every-day-here-are-5-lessons-nobody-tells-you-62e94b43bde9?sk=750297f8573e84dc32aa29ceeb13a7e9" TAGS="agentic,ai,dev">
+        <title>I Work With AI Agents Every Day &#8212; Here Are 5 Lessons Nobody Tells You | by Deep concept | Let&#8217;s Code Future | Jun, 2026 | Medium</title>
+        <desc>I Work With AI Agents Every Day &#8212; Here Are 5 Lessons Nobody Tells You 5 small changes that can completely change the way you work with AI agents. Hey devs, Hope your day is going well. Nonmembers &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://levelup.gitconnected.com/model-context-protocol-explained-why-every-ai-developer-needs-to-know-mcp-in-2026-bf0ed0d1f845?sk=cd74a306ee64e743a971ff282907ec4b" TAGS="agentic,ai,dev,mcp">
+        <title>Model Context Protocol Explained: Why Every AI Developer Needs to Know MCP in 2026 | by Vivedha Elango | Level Up Coding</title>
+        <desc>Model Context Protocol Explained: Why Every AI Developer Needs to Know MCP in 2026 Understanding the MCP architecture, server Life Cycle, and a guide to build your first MCP server Non-members can &#8230;</desc>
+    </bookmark>
 </xbel>
