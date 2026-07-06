@@ -709,4 +709,64 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Building a RAG Pipeline for 10M+ Documents With Near-Zero Hallucination | by Fareed Khan | Jun, 2026 | Level Up Coding</title>
         <desc>&#8220;&#8221; is published by Fareed Khan in Level Up Coding.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/6ba59f55d2ad?sk=65d3487fb0a082068e07f2039db6d168" TAGS="ai,dev,ocr">
+        <title>MinerU: The Most Accurate Open-Source Document Parser Just Became Production-Ready | by Pankaj | Jun, 2026 | Medium</title>
+        <desc>MinerU: The Most Accurate Open-Source Document Parser Just Became Production-Ready In three months, MinerU dropped its AGPL license, shipped a 1.2B-parameter model that parses charts inside tables &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@rohanmistry231/the-12-data-architecture-patterns-every-data-engineer-should-master-in-2026-3598315879c0?sk=3cea296d18429b4bd29a2e0d98c75807" TAGS="concepts,dev">
+        <title>The 12 Data Architecture Patterns Every Data Engineer Should Master in 2026 | by Rohan Mistry | Data Science Collective | Jun, 2026 | Medium</title>
+        <desc>The 12 Data Architecture Patterns Every Data Engineer Should Master in 2026 From Lakehouse and Medallion to Data Mesh and Event-Driven systems &#8212; understand the architectures behind modern data &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-sql-techniques-for-reducing-unnecessary-full-table-scans-and-query-execution-time-fb1cded9cbbd?sk=c9297341b57d6168a668f0505f1d9998" TAGS="dev,sql">
+        <title>10 SQL Techniques for Reducing Unnecessary Full Table Scans and Query Execution Time | by Rohan Dutt | Jun, 2026 | Medium</title>
+        <desc>10 SQL Techniques for Reducing Unnecessary Full Table Scans and Query Execution Time Optimizer-focused strategies that eliminate costly scans, improve index usage, and dramatically reduce query &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://pawannatekar220.medium.com/12-free-platforms-to-deploy-your-website-in-2026-9fc312a118ec?sk=8fd85c27bc7d427b383d162b2a844389" TAGS="dev,web">
+        <title>12 Free Platforms to Deploy Your Website in 2026 | by Pawan Natekar | Jun, 2026 | Towards Dev</title>
+        <desc>12 Free Platforms to Deploy Your Website in 2026 (Pros, Cons &amp; Best Use Cases) Non members can read here Building a website has never been easier. Whether you&#8217;re creating a personal portfolio, a &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@tricky16122000/10-python-one-liners-youll-actually-use-38c0740bef12?sk=e362bed24ec2ed5b6709baca6e50101a" TAGS="code,dev,python">
+        <title>10 Python One Liners You&#8217;ll Actually Use | by Aysha R | Pythonic AF | Medium</title>
+        <desc>10 Python One Liners You&#8217;ll Actually Use The small Python tricks that aren&#8217;t just clever, they&#8217;re practical There&#8217;s a weird culture around Python one liners. Some of them are useful. Some of &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/lets-code-future/30-llm-evaluation-concepts-every-engineer-should-know-before-shipping-ai-apps-9bc1273e1d27?sk=38270a7356b38d3f67808b5438d96a61" TAGS="concepts,dev">
+        <title>30 LLM Evaluation Concepts Every Engineer Should Know Before Shipping AI Apps | by Deep concept | Let&#8217;s Code Future | Jul, 2026 | Medium</title>
+        <desc>&#8220;&#8221; is published by Deep concept in Let&#8217;s Code Future.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/but-it-works-on-my-machine/layered-architecture-vs-hexagonal-architecture-which-one-should-you-pick-for-spring-7ef599975b79?sk=58a527d6acf2bd553eed31fd31135833" TAGS="architecture,dev">
+        <title>Layered Architecture vs. Hexagonal Architecture: Which One Should You Pick for Spring? | by Ahmet Emre DEM&#304;R&#350;EN | @Override | Jun, 2026 | Medium</title>
+        <desc>Layered Architecture vs. Hexagonal Architecture: Which One Should You Pick for Spring? Making the right architectural choice for your Spring Boot project In this article, we&#8217;ll compare two popular &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/how-bloom-filters-protect-databases-from-millions-of-invalid-requests-99ffbe27e7f7?sk=c17b1340a47ef9fd464bd60141e732c4" TAGS="concepts,database,dev">
+        <title>How Bloom Filters Protect Databases from Millions of Invalid Requests | by Gaddam.Naveen | Jun, 2026 | Medium</title>
+        <desc>How Bloom Filters Protect Databases from Millions of Invalid Requests One Data Structure That Can Cut Database Traffic by 90% Free Link The Bug That Taught Me to Stop Trusting the Database (And Start &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@noahblogwriter2025/89611579f32a?sk=31e5fc4ecaf429bce6d39e4c13cd3bbb" TAGS="concepts,dev,postgres,sql">
+        <title>PostgreSQL Isn&#8217;t Slow &#8212; It&#8217;s Tired Of Covering For Your Design | Medium</title>
+        <desc>PostgreSQL usually isn&#8217;t the bottleneck. It&#8217;s the catch-all tables and mixed responsibilities we pile on it. Here&#8217;s how to redesign your schema and queries.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pranithnaikpranit/e5436d32f1dc?sk=2a5b97ac73602dc4457a4285af5c1483" TAGS="ai,dev">
+        <title>Open-Source AI Is Becoming Unstoppable | by Pranit naik | No Time | Jun, 2026 | Medium</title>
+        <desc>Open-source AI is quietly rewriting who controls intelligence. Discover open source AI, AI models 2026, decentralized AI, and the future of AI.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/activated-thinker/the-hidden-trick-that-makes-ai-apps-10x-faster-73e22554bac9?sk=f6898244f95bb106b0d20d3bca319dc7" TAGS="ai,concepts,dev">
+        <title>The Hidden Trick That Makes AI Apps 10x Faster | by Shreyas Naphad | Activated Thinker | Medium</title>
+        <desc>The Hidden Trick That Makes AI Apps 10x Faster Almost nobody talks about it &#128073;For Non-Members link to the full story Let me ask you something. Have you ever noticed this? You build a chatbot using &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-artificial-intelligence/machine-learning-explained-like-youre-10-b1721023e37c?sk=0da9e7819edf5d06c2687a74fb83cd99" TAGS="concepts,dev">
+        <title>Machine Learning Explained Like You&#8217;re 10 | by Shreyas Naphad | Towards AI</title>
+        <desc>Machine Learning Explained Like You&#8217;re 10 Everything you need to learn For Non-Members link to the full story Warning: If you keep reading past this paragraph, you are going to end up learning the &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@tricky16122000/how-to-learn-machine-learning-like-a-genius-and-not-waste-time-aaffb33a5512?sk=d31619b6841be9c1ca295d4ae07a0232" TAGS="code,concepts,dev">
+        <title>Medium</title>
+        <desc>How to Learn Machine Learning Like a GENIUS and Not Waste Time Most people don&#8217;t fail because ML is hard. They fail because they spend months learning things they don&#8217;t need yet. Most people who &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/15-python-ai-agent-tools-that-save-20-hours-every-week-feb-2026-ff2646928fe2?sk=4d416d6abfeba4042bbb56d98e6680f0" TAGS="agentic,ai,dev,python">
+        <title>15 Python AI Agent Tools That Save 20+ Hours Weekly | Stackademic</title>
+        <desc>Discover 15 Python AI agent tools for 2026 that cut development time by 20+ hours weekly. From LangGraph to Langfuse, these are production-tested picks.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/skillstuff/9-coding-habits-i-learned-from-senior-engineers-eaff0937e100?sk=6bfc2df6de263dcd76ef0d7521e3bff3" TAGS="code,concepts,dev">
+        <title>9 Coding Habits I Learned From Senior Engineers | by CodeByUmar | Skill Stuff | Jun, 2026 | Medium</title>
+        <desc>Learn 9 senior engineer coding habits that help you write cleaner, safer code, review better, handle errors, and build maintainable software systems.</desc>
+    </bookmark>
 </xbel>
