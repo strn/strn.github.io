@@ -769,4 +769,32 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>9 Coding Habits I Learned From Senior Engineers | by CodeByUmar | Skill Stuff | Jun, 2026 | Medium</title>
         <desc>Learn 9 senior engineer coding habits that help you write cleaner, safer code, review better, handle errors, and build maintainable software systems.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/i-built-a-production-rag-system-without-langchain-here-is-how-15cd5927dfab?sk=e2c8338d0d682a0affff24d6910e5c8f" TAGS="ai,dev,python,rag">
+        <title>Medium</title>
+        <desc>I used LangChain for my RAG system for three months. Every time something broke in production I was debugging LangChain internals instead of my own code. So I rebuilt the entire pipeline in pure Python using OpenAI, pgvector, and PostgreSQL.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@sauravsinghsisodiya/8-advanced-data-pipeline-patterns-for-high-scale-systems-c9e182a45ae7?sk=3f3259d5ca191532b45e79a7ea944325" TAGS="concepts,database,dev">
+        <title>8 Advanced Data Pipeline Patterns for High-Scale Systems | Towards Data Engineering</title>
+        <desc>Learn 8 battle-tested data pipeline patterns used by Netflix, Uber &amp; LinkedIn &#8212; Lambda, CDC, Sagas, Outbox, and more. With real trade-offs and code examples.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-techniques-for-using-temporary-tables-effectively-in-stored-procedures-d4979bad02b0?sk=ed7616c1e182500f07f23f98a9208511" TAGS="concepts,database,dev">
+        <title>Medium</title>
+        <desc>10 Techniques for Using Temporary Tables Effectively in Stored Procedures Proven ways to control scope, optimize performance, and prevent tempdb contention in complex stored procedures &#8212; Non &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@junfeng0828/d22d6a945b54?sk=0335442b4e12b64a7c9470fd6031f070" TAGS="agentic,ai,dev,mcp">
+        <title>Medium</title>
+        <desc>Understand Prompt/Agent/MCP in 10 Minutes! Plain Language + Real-Life Examples to Ditch AI Jargon Confusion My articles are open to everyone; non-member readers can read theull article by clicking &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://jaredblaine.medium.com/7a8abb352e8e?sk=5b44b1fb8468ae2ae84520d16cdbfd14" TAGS="concepts,dev">
+        <title>Medium</title>
+        <desc>Tired of endless meetings and burnout? High-performing teams share 7 invisible habits that you won&#x27;t find in any handbook. Learn their secrets to crushing goals.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@nandoseptian/the-postgresql-features-i-wish-someone-had-shown-me-three-years-ago-8084a8705819?sk=7bd0567e78a81b20d9d4346ab6959b70" TAGS="dev,postgres,sql">
+        <title>The PostgreSQL Features I Wish Someone Had Shown Me Three Years Ago | by Nando Septian Husni | Medium</title>
+        <desc>The PostgreSQL Features I Wish Someone Had Shown Me Three Years Ago Spoiler: I was operating a Ferrari in first gear. Access Free It was 9:14 AM on a Tuesday when our biggest client called. Not &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://deasadiqbal.medium.com/best-open-source-model-for-coding-6cb84e186926?sk=f4fd4e8e19f1640562c4be664f1deb2b" TAGS="ai,dev,llm">
+        <title>Medium</title>
+        <desc>Discover the best open source model for coding like GLM-5.2, DeepSeek V4-Pro, and Qwen to scale your engineering.</desc>
+    </bookmark>
 </xbel>
