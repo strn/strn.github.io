@@ -797,4 +797,12 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>Discover the best open source model for coding like GLM-5.2, DeepSeek V4-Pro, and Qwen to scale your engineering.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@speedcraft21/how-netflix-handles-260-million-concurrent-streams-without-buffering-cbbaad6c81ca?sk=924c1fe76dcbdf4305be066e098655bb" TAGS="concepts,dev">
+        <title>How Netflix Handles 260 Million Concurrent Streams Without Buffering | by The Speedcraft Lab | Jul, 2026 | Medium</title>
+        <desc>How Netflix Handles 260 Million Concurrent Streams Without Buffering Most of the hard problem is solved before you press play. A few weeks ago my Wi-Fi dipped in the middle of an episode. The picture &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-patterns-for-storing-hierarchical-data-nested-sets-vs-adjacency-lists-2ff2b4912a19?sk=f6d4c13f655d641b38118ac2f975162f" TAGS="code,concepts,dev">
+        <title>Medium</title>
+        <desc>10 Patterns for Storing Hierarchical Data: Nested Sets vs. Adjacency Lists Trade-offs, performance implications, and query strategies for modeling hierarchies in relational databases &#8212; Non Member &#8230;</desc>
+    </bookmark>
 </xbel>
