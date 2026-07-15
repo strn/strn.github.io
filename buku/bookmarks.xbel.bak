@@ -805,4 +805,20 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>10 Patterns for Storing Hierarchical Data: Nested Sets vs. Adjacency Lists Trade-offs, performance implications, and query strategies for modeling hierarchies in relational databases &#8212; Non Member &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/i-was-using-ai-wrong-until-i-learned-these-developer-tricks-68f3a6890c81?sk=96739bf1ceae632e26e067b0409a10b9" TAGS="agentic,ai,dev">
+        <title>Medium</title>
+        <desc>Most developers prompt AI the same way they Google. That&#x27;s why the results feel shallow. Here are prompting patterns that changed how I use AI tools daily.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-partitioning-techniques-that-actually-speed-up-sql-queries-a94d3f57b306?sk=616e79b190718d25545f1525d722b6ac" TAGS="dev,postgres,sql">
+        <title>10 Partitioning Techniques That Actually Speed Up SQL Queries | by Rohan Dutt | Medium</title>
+        <desc>10 Partitioning Techniques That Actually Speed Up SQL Queries Practical partitioning strategies that reduce scan size, improve &#8212; Non Member: Pls take a look here! Partitioning techniques that &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://secret-dev.medium.com/beyond-rag-how-googles-open-knowledge-format-okf-is-replacing-the-vector-database-2ffb5bc2f8eb?sk=34b04c0a1f0f63f261982270299ec391" TAGS="ai,concepts,dev">
+        <title>Medium</title>
+        <desc>Beyond RAG: How Google&#8217;s Open Knowledge Format (OKF) is Replacing the Vector Database For the last three years, the default engineering response to any enterprise AI context problem was automated &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-essential-data-masking-techniques-for-gdpr-compliance-in-sql-82147837e262?sk=35acc547077cd4c2d222a17a8768e61c" TAGS="concepts,dev,postgres,sql">
+        <title>Medium</title>
+        <desc>10 Essential Data Masking Techniques for GDPR Compliance in SQL Practical SQL techniques to anonymize sensitive data while preserving analytical value and regulatory compliance &#8212; Non Member: Pls &#8230;</desc>
+    </bookmark>
 </xbel>

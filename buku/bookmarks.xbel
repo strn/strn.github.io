@@ -813,4 +813,12 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>10 Partitioning Techniques That Actually Speed Up SQL Queries | by Rohan Dutt | Medium</title>
         <desc>10 Partitioning Techniques That Actually Speed Up SQL Queries Practical partitioning strategies that reduce scan size, improve &#8212; Non Member: Pls take a look here! Partitioning techniques that &#8230;</desc>
     </bookmark>
+    <bookmark href="https://secret-dev.medium.com/beyond-rag-how-googles-open-knowledge-format-okf-is-replacing-the-vector-database-2ffb5bc2f8eb?sk=34b04c0a1f0f63f261982270299ec391" TAGS="ai,concepts,dev">
+        <title>Medium</title>
+        <desc>Beyond RAG: How Google&#8217;s Open Knowledge Format (OKF) is Replacing the Vector Database For the last three years, the default engineering response to any enterprise AI context problem was automated &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-essential-data-masking-techniques-for-gdpr-compliance-in-sql-82147837e262?sk=35acc547077cd4c2d222a17a8768e61c" TAGS="concepts,dev,postgres,sql">
+        <title>Medium</title>
+        <desc>10 Essential Data Masking Techniques for GDPR Compliance in SQL Practical SQL techniques to anonymize sensitive data while preserving analytical value and regulatory compliance &#8212; Non Member: Pls &#8230;</desc>
+    </bookmark>
 </xbel>
