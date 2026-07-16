@@ -821,4 +821,8 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>10 Essential Data Masking Techniques for GDPR Compliance in SQL Practical SQL techniques to anonymize sensitive data while preserving analytical value and regulatory compliance &#8212; Non Member: Pls &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/i-built-a-tiny-gpt-from-scratch-in-under-40-lines-of-python-heres-the-exact-tutorial-2a0f461233e5?sk=7f07d79928a8d336fd7fd0e00073c16d" TAGS="ai,dev,python">
+        <title>Medium</title>
+        <desc>I Built a Tiny GPT From Scratch in Under 40 Lines of Python. Here&#8217;s the Exact Tutorial. Every explainer video about GPT tells you the same thing: &#8220;it predicts the next token.&#8221; Fine. But &#8230;</desc>
+    </bookmark>
 </xbel>
