@@ -825,4 +825,36 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>I Built a Tiny GPT From Scratch in Under 40 Lines of Python. Here&#8217;s the Exact Tutorial. Every explainer video about GPT tells you the same thing: &#8220;it predicts the next token.&#8221; Fine. But &#8230;</desc>
     </bookmark>
+    <bookmark href="https://mvineetsharma.medium.com/sql-performance-tips-every-data-analyst-should-know-e4f3080f4e6e?sk=c2eb161670cdc4481d46dcdc322abbe7" TAGS="dev,sql">
+        <title>Medium</title>
+        <desc>SQL Performance Tips &#8212; Every Data Analyst Should Know SQL rarely fails loudly. It degrades quietly &#8212; dashboards refresh slower, APIs timeout occasionally, and eventually the database becomes &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://thanushansiva100.medium.com/882290b305a2?sk=2c4a82ea1accb618de3c97041b4119f3" TAGS="dev,math">
+        <title>Medium</title>
+        <desc>Discover the ancient digit-by-digit square root algorithm, why it works, and how geometry turns a mysterious calculation into elegant arithmetic.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-sql-techniques-to-improve-query-performance-with-subquery-unnesting-1bc5f137eb83?sk=860f9d3ae9518872eb5d0f02fd41159e" TAGS="concepts,dev,sql">
+        <title>Medium</title>
+        <desc>10 SQL Techniques to Improve Query Performance with Subquery Unnesting Query rewrite patterns that help optimizers eliminate nested execution and accelerate data retrieval &#8212; Non Member: Pls take a &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://suparnachowdhury.medium.com/c770654e68f6?sk=fe811e7bfb3a1e9cdd83307b1cb41c79" TAGS="concepts,dev,sql">
+        <title>Medium</title>
+        <desc>Learn the 13 essential SQL patterns behind common interview questions, including window functions, joins, recursive CTEs, aggregation, subqueries, and advanced MySQL techniques.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/10-techniques-for-handling-many-to-many-relationships-without-killing-prods-performance-9262dc6c4054?sk=4810a3c20ffcc7e58b346a74a4fcf6d9" TAGS="concepts,dev,postgres,sql">
+        <title>Medium</title>
+        <desc>10 Techniques for Handling Many-to-Many Relationships Without Killing Prod&#8217;s Performance Proven design and query patterns to manage complex relationships without blowing up joins or latency &#8212; Non &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://code.likeagirl.io/inner-join-vs-left-join-in-sql-whats-the-difference-c72ade418649?sk=daaaa08d2c4d5bff3f7c2f00d3399e16" TAGS="concepts,dev,sql">
+        <title>Medium</title>
+        <desc>INNER JOIN vs LEFT JOIN in SQL: What&#8217;s the difference? No Medium account? No problem &#8212; read the full story &#128073; here &#128072; I still remember the days when my brain felt completely fried trying to &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-artificial-intelligence/sql-vs-nosql-understand-databases-in-5-minutes-6701bf5b7932?sk=f5e1d207703109c12cccf793539054cb" TAGS="concepts,database,dev,sql">
+        <title>Medium</title>
+        <desc>SQL vs NoSQL: Understand Databases in 5 Minutes 5 types of databases explained For Non-Members link to the full story You must have heard everyone say &#8220;learn database&#8221;. Courses say it. Job &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/e35f00a71138?sk=e6e7c5a005efaa40deee05d5844823e4" TAGS="ai,concepts,dev">
+        <title>Medium</title>
+        <desc>90% of engineers are falling behind in the AI era. The skills gap, what&#x27;s actually changing, and the concrete steps to stay relevant.</desc>
+    </bookmark>
 </xbel>
