@@ -857,4 +857,24 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>90% of engineers are falling behind in the AI era. The skills gap, what&#x27;s actually changing, and the concrete steps to stay relevant.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/authentication-concepts-every-developer-gets-wrong-c09ace851e8b?sk=ca8add4f16ad110c37d36f56dd6d97a3" TAGS="dev">
+        <title>Medium</title>
+        <desc>Learn authentication the practical way. Understand JWT, sessions, OAuth2, OpenID Connect (OIDC), API keys, SAML, and SSO with simple examples.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anas-issath/34b84a3d050a?sk=a4291a00895ae417cfdefb94cff4e480" TAGS="concepts,dev">
+        <title>Medium</title>
+        <desc>Master hexagonal architecture in Django: implement ports and adapters, invert dependencies, test without infrastructure. Clean architecture patterns.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/what-i-learned-from-beginner-css-mistakes-2f3dcdb4e3a1?sk=da7ffa199ad4e881aeead70a09f5500d" TAGS="css,dev">
+        <title>Medium</title>
+        <desc>Learn the most common beginner CSS mistakes and fix layout issues with simple, real-world examples.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/fastapi-background-tasks-were-silently-failing-here-is-the-fix-e734740b5f11?sk=8529258df31e39467fe777577669d60e" TAGS="dev,fastapi,python">
+        <title>Medium</title>
+        <desc>My FastAPI application was processing orders correctly but customers were not receiving confirmation emails. No errors in the logs, no exceptions being raised, no indication anything was wrong.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-detect-cardinality-shock-waves-in-production-workloads-77b19d1ab295?sk=785fb879b8fba5d20aebaf8a91fa12ed" TAGS="concepts,dev,sql">
+        <title>Medium</title>
+        <desc>How to Write SQL Queries That Detect Cardinality Shock Waves in Production Workloads Query patterns to surface sudden row explosion or collapse before they break performance and metrics &#8212; Non &#8230;</desc>
+    </bookmark>
 </xbel>
