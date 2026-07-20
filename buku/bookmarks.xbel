@@ -877,4 +877,12 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>How to Write SQL Queries That Detect Cardinality Shock Waves in Production Workloads Query patterns to surface sudden row explosion or collapse before they break performance and metrics &#8212; Non &#8230;</desc>
     </bookmark>
+    <bookmark href="https://codefarm0.medium.com/cab5a3b0abae?sk=159e6addee6d9287e4738bc4343091c7" TAGS="code,dev">
+        <title>Medium</title>
+        <desc>System Design Interview: How Would You Let Users Upload Huge Files Even If the Internet Disconnects Midway? Uploading a file sounds simple. Select file. Click Upload. Wait for completion. But things &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@tricky16122000/10-powerful-python-modules-youre-probably-not-using-b7001d15884c?sk=492fbb2a1689345af226eefc0ef25211" TAGS="code,dev,python">
+        <title>Medium</title>
+        <desc>10 Powerful Python Modules You&#8217;re Probably Not Using Less boilerplate, fewer dependencies, and several useful tools already sitting inside Python Python&#8217;s standard library is ridiculously &#8230;</desc>
+    </bookmark>
 </xbel>
