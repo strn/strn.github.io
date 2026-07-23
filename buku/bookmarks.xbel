@@ -885,4 +885,12 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>10 Powerful Python Modules You&#8217;re Probably Not Using Less boilerplate, fewer dependencies, and several useful tools already sitting inside Python Python&#8217;s standard library is ridiculously &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/best-python-web-scraping-tools-2026-updated-87ef4a0b21ff?sk=8684d77a5cec9cf461e05ad2c2682065" TAGS="code,dev,python">
+        <title>Medium</title>
+        <desc>Tired of getting blocked while scraping? These 5 Python tools bypass anti-bot systems with 99% success. Tested on 500+ sites. Complete 2026 guide.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/data-science-collective/unlimited-ocr-rag-revolutionize-complex-data-extraction-open-source-f4199677ee55?sk=3da87a5343fa46db4b6115c66eed85f3" TAGS="ai,dev,ocr">
+        <title>Medium</title>
+        <desc>Unlimited OCR + RAG: Revolutionize Complex Data Extraction (Open-Source) During the weekend, I scrolled through Twitter to see what was happening in the AI community. Once again, Baidu has drawn &#8230;</desc>
+    </bookmark>
 </xbel>
