@@ -889,12 +889,16 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Medium</title>
         <desc>Tired of getting blocked while scraping? These 5 Python tools bypass anti-bot systems with 99% success. Tested on 500+ sites. Complete 2026 guide.</desc>
     </bookmark>
-    <bookmark href="https://medium.com/data-science-collective/unlimited-ocr-rag-revolutionize-complex-data-extraction-open-source-f4199677ee55?sk=3da87a5343fa46db4b6115c66eed85f3" TAGS="ai,dev,ocr">
-        <title>Medium</title>
-        <desc>Unlimited OCR + RAG: Revolutionize Complex Data Extraction (Open-Source) During the weekend, I scrolled through Twitter to see what was happening in the AI community. Once again, Baidu has drawn &#8230;</desc>
-    </bookmark>
     <bookmark href="https://medium.com/@pranithnaikpranit/9f6d39cf2292?sk=dea841bd172ac6d9b39ac49815a1a090" TAGS="ai,dev">
         <title>12 AI Skills You Should Learn in 2026</title>
         <desc>Build future-ready AI skills and discover the best AI career roadmap for 2026, including Prompt Engineering, AI Agents, RAG, APIs, and LLMOps.</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/91ba71830d6a?sk=5821e7ab6014902baaef2a7ba6aeae5f" TAGS="ai,dev,mcp,python">
+        <title>MCP Tutorial: What Is Model Context Protocol and How to Build a Server in Python | Data Science Collective</title>
+        <desc>Write one Python server. Plug it into Claude Code, Cursor, and Claude Desktop in an afternoon</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/data-science-collective/unlimited-ocr-rag-revolutionize-complex-data-extraction-open-source-f4199677ee55?sk=3da87a5343fa46db4b6115c66eed85f3" TAGS="ai,ocr,rag">
+        <title>Unlimited OCR + RAG: Revolutionize Complex Data Extraction (Open-Source) | by Gao Dalie (&#39640;&#36948;&#28872;) | Data Science Collective | Jun, 2026 | Medium</title>
+        <desc>Unlimited OCR + RAG: Revolutionize Complex Data Extraction (Open-Source) During the weekend, I scrolled through Twitter to see what was happening in the AI community. Once again, Baidu has drawn &#8230;</desc>
     </bookmark>
 </xbel>
