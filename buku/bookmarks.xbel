@@ -905,4 +905,16 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>The Best AI for Coding? It Depends on One Thing No One Tells You</title>
         <desc>The Best AI for Coding? It Depends on One Thing No One Tells You The &#8220;Best AI for Coding&#8221; Isn&#8217;t What You Think (Especially If You&#8217;re Learning) Free Link? If you&#8217;ve recently started coding &#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@umeshcapg/maven-4-is-finally-here-the-biggest-overhaul-to-javas-build-system-in-15-years-beb9b80573a2" TAGS="dev,java">
+        <title>Maven 4 Is Finally Here: The Biggest Overhaul to Java&#8217;s Build System in 15 Years - Freedium</title>
+        <desc>For more than a decade, Maven has been the backbone of Java development.</desc>
+    </bookmark>
+    <bookmark href="https://toonconverter.online/" TAGS="ai data format,claude optimization,csv converter,csv to toon,data converter,dev,gpt-4 optimization,json converter,json to toon,llm prompts,llm token reduction,token counter,token optimization,token-efficient serialization,token-oriented object notation,toon,toon converter,toon format,xml converter,xml to toon,yaml converter,yaml to toon">
+        <title>TOON Converter - Convert JSON, CSV, XML, YAML to TOON Format</title>
+        <desc>Free online tool to convert between JSON, CSV, XML, YAML and TOON format. Optimize your data for LLM prompts with token-efficient TOON serialization.</desc>
+    </bookmark>
+    <bookmark href="https://www.lmsys.org/blog/2026-06-04-higgs-audio-v3-tts/" TAGS="ai,dev,tts">
+        <title>Higgs Audio v3 TTS on SGLang-Omni: Real-Time, Controllable Speech for Voice Agents - LMSYS Org</title>
+        <desc>Today we are announcing end-to-end serving for Higgs Audio v3 TTS on SGLang-Omni. Higgs Audio v3 TTS is Boson AI&#x27;s text-to-speech model for conversational voice agents: it generates natural and expres...</desc>
+    </bookmark>
 </xbel>
