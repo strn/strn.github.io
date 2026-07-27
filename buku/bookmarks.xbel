@@ -917,4 +917,16 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Higgs Audio v3 TTS on SGLang-Omni: Real-Time, Controllable Speech for Voice Agents - LMSYS Org</title>
         <desc>Today we are announcing end-to-end serving for Higgs Audio v3 TTS on SGLang-Omni. Higgs Audio v3 TTS is Boson AI&#x27;s text-to-speech model for conversational voice agents: it generates natural and expres...</desc>
     </bookmark>
+    <bookmark href="https://giacomopedemonte.medium.com/running-transformer-models-without-a-gpu-overcoming-the-flash-attn-dependency-08f785675641" TAGS="ai,dev">
+        <title>Running Transformer Models Without a GPU: Overcoming the flash_attn Dependency</title>
+        <desc>Running Transformer Models Without a GPU: Overcoming the flash_attn Dependency While diving into the world of machine learning models, I stumbled upon a common issue faced by many developers &#8212; &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://xhinker.medium.com/building-custom-audio-inference-for-higgs-audio-v3-tts-a-hands-on-guide-with-transformers-c339d25daeb0" TAGS="ai,code,dev,python,tts">
+        <title>Building Custom Audio Inference for Higgs Audio v3 TTS &#8212; A Hands-On Guide with Transformers</title>
+        <desc>A practical walkthrough of how modern neural text-to-speech works under the hood &#8212; from 8 codebooks and delay patterns to autoregressive&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@bytefer/a-34-5m-ocr-model-just-beat-a-235b-giant-d4f81beeb7f0" TAGS="ai,dev,ocr">
+        <title>A 34.5M OCR Model Just Beat a 235B Giant - Freedium</title>
+        <desc>A compact, high-accuracy OCR model supporting 50 languages, flexible model sizes, efficient inference, and cross-platform deployment.</desc>
+    </bookmark>
 </xbel>
