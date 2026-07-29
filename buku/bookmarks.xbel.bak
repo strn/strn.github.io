@@ -929,4 +929,12 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>A 34.5M OCR Model Just Beat a 235B Giant - Freedium</title>
         <desc>A compact, high-accuracy OCR model supporting 50 languages, flexible model sizes, efficient inference, and cross-platform deployment.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/but-it-works-on-my-machine/how-ai-helps-detect-n-1-queries-early-b5e13e37c78c?sk=1da3422fd09f748a911d45214df910ed" TAGS="ai,dev,sql">
+        <title>How AI Helps Detect N+1 Queries Early</title>
+        <desc>How AI Helps Detect N+1 Queries Early Ever debugged a slow endpoint only to find hundreds of identical, redundant database calls? That&#8217;s the dreaded N+1 query problem, a silent performance killer &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@umeshcapg/10-fastapi-best-practices-every-backend-developer-should-know-in-2026-dc389dbf4281" TAGS="code,dev,python">
+        <title>10 FastAPI Best Practices Every Backend Developer Should Know in 2026</title>
+        <desc>FastAPI has become one of the most popular Python frameworks for building high-performance APIs. Its automatic OpenAPI documentation&#8230;</desc>
+    </bookmark>
 </xbel>
