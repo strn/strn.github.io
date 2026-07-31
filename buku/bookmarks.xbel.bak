@@ -937,4 +937,16 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>10 FastAPI Best Practices Every Backend Developer Should Know in 2026</title>
         <desc>FastAPI has become one of the most popular Python frameworks for building high-performance APIs. Its automatic OpenAPI documentation&#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/javarevisited/interview-how-to-generate-unique-ids-for-billions-of-users-ea1a2e8604cb" TAGS="dev">
+        <title>Interview: How to Generate Unique IDs for Billions of Users?</title>
+        <desc>Another classic system design question. Walking from auto-increment IDs through snowflake algorithms, all the way to production-grade&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/10-kafka-mistakes-that-are-probably-breaking-your-system-right-now-2ebf84fa7180?sk=ac023546862ffecd8dc31c8cbeb3972f" TAGS="dev">
+        <title>10 Kafka Mistakes That Are Probably Breaking Your System Right Now</title>
+        <desc>10 Kafka Mistakes That Are Probably Breaking Your System Right Now Free Link Kafka is working. Your events are flowing. Your consumers are running. Your logs look clean. So everything is fine&#8230; &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/i-fixed-cors-for-years-without-understanding-it-293c8ea0eb2f" TAGS="dev,http">
+        <title>CORS Errors Explained</title>
+        <desc>Understand how CORS works, why browsers block cross-origin requests, how preflight (OPTIONS) requests work, and how to debug common CORS errors with real-world examples.</desc>
+    </bookmark>
 </xbel>
