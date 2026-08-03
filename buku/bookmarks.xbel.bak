@@ -949,4 +949,20 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>CORS Errors Explained</title>
         <desc>Understand how CORS works, why browsers block cross-origin requests, how preflight (OPTIONS) requests work, and how to debug common CORS errors with real-world examples.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@developerawam/llamastash-run-local-ai-faster-without-manual-setup-as-fast-as-llama-cpp-as-easy-as-ollama-24c69b149959?sk=52ac067ef5e62d7d881ddb7184caebc6" TAGS="ai,dev,ollama">
+        <title>LlamaStash: Run Local AI Faster Without Manual Setup &#8212; As Fast as llama.cpp, As Easy as Ollama</title>
+        <desc>LlamaStash: Run Local AI Faster Without Manual Setup &#8212; As Fast as llama.cpp, As Easy as Ollama If you&#8217;ve already read about llama.cpp running blazing fast with no limits, no internet, and no &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://secret-dev.medium.com/beyond-the-hype-why-googles-open-knowledge-format-is-not-the-rag-killer-add704eddcb3?sk=a335cec8b34f4e7c3fa9c0468ff48e72" TAGS="ai,dev">
+        <title>RAG Killer Really? Why Google&#8217;s Open Knowledge Format is Not the &quot;RAG Killer&quot;</title>
+        <desc>RAG Killer Really? Why Google&#8217;s Open Knowledge Format is Not the &quot;RAG Killer&quot; Building a Dual-Engine Context System in .NET 9 to Combine Semantic Search with Structural Precision If you&#8217;ve been &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/but-it-works-on-my-machine/the-distributed-monolith-trap-how-to-identify-and-fix-it-before-its-too-late-dd678b834af6?sk=837df32c670c8783d9af135a1ab75635" TAGS="concepts,dev">
+        <title>The &#8220;Distributed Monolith&#8221; Trap: How to Identify and Fix It Before It&#8217;s Too Late</title>
+        <desc>The &#8220;Distributed Monolith&#8221; Trap: How to Identify and Fix It Before It&#8217;s Too Late A practical guide to recognizing and breaking free from distributed monolith patterns in microservices &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@singhharshhs586/8341e3b70cd1?sk=ced069186b00fa90d6ca15f382b3f332" TAGS="code,dev,python">
+        <title>Python Decorators Explained Using Simple Examples</title>
+        <desc>Lean Python decorators with simple examples. The beginner-friendly guide explains how decorators work, why they&#x27;re useful, and how to implement them in real Python code</desc>
+    </bookmark>
 </xbel>
