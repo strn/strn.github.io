@@ -965,4 +965,16 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Python Decorators Explained Using Simple Examples</title>
         <desc>Lean Python decorators with simple examples. The beginner-friendly guide explains how decorators work, why they&#x27;re useful, and how to implement them in real Python code</desc>
     </bookmark>
+    <bookmark href="https://github.com/firecrawl/pdf-inspector" TAGS="dev,ocr,pdf,rust">
+        <title>firecrawl/pdf-inspector: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</title>
+        <desc>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. - firecrawl/pdf-inspector</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/a5b01b02ce79" TAGS="agentic,ai,dev,python">
+        <title>How to Build an AI Agent in Pure Python: State Machines, Tool Loops, and Verification</title>
+        <desc>A practical guide to building a debuggable AI agent in pure Python with explicit state, strict tool contracts, bounded loops, and answer verification.</desc>
+    </bookmark>
+    <bookmark href="https://code.likeagirl.io/how-to-become-an-ai-engineer-in-2026-the-complete-learning-roadmap-d21e5748a0aa?sk=9c05bf5ba27cc53294520790c61299d1" TAGS="ai,dev">
+        <title>How to Become an AI Engineer in 2026: The Complete Learning Roadmap</title>
+        <desc>&#8220;&#8221; is published by Chandana in Code Like A Girl.</desc>
+    </bookmark>
 </xbel>

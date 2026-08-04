@@ -977,4 +977,8 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>How to Become an AI Engineer in 2026: The Complete Learning Roadmap</title>
         <desc>&#8220;&#8221; is published by Chandana in Code Like A Girl.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@aedemirsen/stop-confusing-collections-and-streams-in-java-heres-the-real-difference-0f2b2833adad?sk=68a97d7db4675aa974c7b8e831d8f0cd" TAGS="code,dev,java">
+        <title>Stop Confusing Collections and Streams in Java: Here&#8217;s the Real Difference</title>
+        <desc>Stop Confusing Collections and Streams in Java: Here&#8217;s the Real Difference Have you ever found yourself staring at a Java codebase, wondering whether to reach for a List or fire up a Stream to &#8230;</desc>
+    </bookmark>
 </xbel>
