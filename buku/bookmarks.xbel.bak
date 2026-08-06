@@ -981,4 +981,20 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Stop Confusing Collections and Streams in Java: Here&#8217;s the Real Difference</title>
         <desc>Stop Confusing Collections and Streams in Java: Here&#8217;s the Real Difference Have you ever found yourself staring at a Java codebase, wondering whether to reach for a List or fire up a Stream to &#8230;</desc>
     </bookmark>
+    <bookmark href="https://github.com/firecrawl/anydoc" TAGS="code,dev">
+        <title>firecrawl/anydoc: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.</title>
+        <desc>Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. - firecrawl/anydoc</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@codefarm0/payment-deducted-but-order-failed-system-design-deep-dive-on-the-saga-pattern-and-distributed-025b27cb2e0a?sk=0820601212785ad7bb017c88f357c1ad" TAGS="concepts,dev">
+        <title>Payment Deducted But Order Failed: System Design Deep Dive on the Saga Pattern and Distributed Transactions</title>
+        <desc>Payment Deducted But Order Failed: System Design Deep Dive on the Saga Pattern and Distributed Transactions System Design Real Scenarios &#8212; A Popular Interview Question That Tests the Saga Pattern &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://github.com/stairwaytowonderland/resume-md-to-ats-converter" TAGS="dev,pdf">
+        <title>A tool to convert your Markdown resume or CV into an ATS-friendly Word document that looks clean and professional while preserving your carefully crafted content.</title>
+        <desc>:rocket: A tool to convert your Markdown resume or cv into an ATS-friendly Word document that looks clean and professional while preserving your carefully crafted content. - stairwaytowonderland/resume-md-to-ats-converter</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@rohanmistry231/7-authentication-architectures-every-developer-must-know-effd154d3310?sk=664d20e0cd4832a77514553805f9ef16" TAGS="concepts,dev">
+        <title>7 Authentication Architectures Every Developer Must Know</title>
+        <desc>OAUTH &#8226; JWT &#8226; OIDC &#8226; SAML &#8226; SSO &#8226; RBAC &#8226; MFA 7 Authentication Architectures Every Developer Must Know Understand how modern authentication systems fit together. I&#8217;ve watched developers &#8230;</desc>
+    </bookmark>
 </xbel>
