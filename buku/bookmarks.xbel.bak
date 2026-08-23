@@ -997,4 +997,8 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>7 Authentication Architectures Every Developer Must Know</title>
         <desc>OAUTH &#8226; JWT &#8226; OIDC &#8226; SAML &#8226; SSO &#8226; RBAC &#8226; MFA 7 Authentication Architectures Every Developer Must Know Understand how modern authentication systems fit together. I&#8217;ve watched developers &#8230;</desc>
     </bookmark>
+    <bookmark href="https://alielmali.medium.com/computers-dont-know-words-everything-i-learned-while-setting-up-local-ai-b0b16ed14e6f?sk=8106ba6f9d15d4e94f341b042b12db2b" TAGS="ai,concepts,dev">
+        <title>Computers Don&#8217;t Know Words &#8212; Everything I Learned While Setting Up Local AI</title>
+        <desc>Computers Don&#8217;t Know Words &#8212; Everything I Learned While Setting Up Local AI Embeddings, vectors, cosine similarity, and BGE-M3 &#8212; from scratch, through the story of a real-world setup [If you &#8230;</desc>
+    </bookmark>
 </xbel>
