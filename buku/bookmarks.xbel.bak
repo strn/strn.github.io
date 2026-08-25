@@ -989,9 +989,9 @@ Learn how it works, how to switch, and when to use it.</desc>
         <title>Payment Deducted But Order Failed: System Design Deep Dive on the Saga Pattern and Distributed Transactions</title>
         <desc>Payment Deducted But Order Failed: System Design Deep Dive on the Saga Pattern and Distributed Transactions System Design Real Scenarios &#8212; A Popular Interview Question That Tests the Saga Pattern &#8230;</desc>
     </bookmark>
-    <bookmark href="https://github.com/stairwaytowonderland/resume-md-to-ats-converter" TAGS="dev,pdf">
-        <title>A tool to convert your Markdown resume or CV into an ATS-friendly Word document that looks clean and professional while preserving your carefully crafted content.</title>
-        <desc>:rocket: A tool to convert your Markdown resume or cv into an ATS-friendly Word document that looks clean and professional while preserving your carefully crafted content. - stairwaytowonderland/resume-md-to-ats-converter</desc>
+    <bookmark href="https://github.com/stairwaytowonderland/resume-md-to-ats-converter" TAGS="cv,dev,markdown,pdf,resume">
+        <title>A tool to convert your Markdown resume or CV into an ATS-friendly Word document that looks clean and professional while preserving your carefully crafted content</title>
+        <desc>:rocket: A tool to convert your Markdown resume or cv into an ATS-friendly Word document that looks clean and professional while preserving your carefully crafted content</desc>
     </bookmark>
     <bookmark href="https://medium.com/@rohanmistry231/7-authentication-architectures-every-developer-must-know-effd154d3310?sk=664d20e0cd4832a77514553805f9ef16" TAGS="concepts,dev">
         <title>7 Authentication Architectures Every Developer Must Know</title>
@@ -1000,5 +1000,38 @@ Learn how it works, how to switch, and when to use it.</desc>
     <bookmark href="https://alielmali.medium.com/computers-dont-know-words-everything-i-learned-while-setting-up-local-ai-b0b16ed14e6f?sk=8106ba6f9d15d4e94f341b042b12db2b" TAGS="ai,concepts,dev">
         <title>Computers Don&#8217;t Know Words &#8212; Everything I Learned While Setting Up Local AI</title>
         <desc>Computers Don&#8217;t Know Words &#8212; Everything I Learned While Setting Up Local AI Embeddings, vectors, cosine similarity, and BGE-M3 &#8212; from scratch, through the story of a real-world setup [If you &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/syntest/run-your-local-ai-as-copilot-in-vs-code-using-gemma4-b0edeef13696?sk=cfed7c918be84a22b1d68ec3e994af06" TAGS="agentic,ai,copilot,vscode">
+        <title>&#128293;Run Your Local AI as Copilot in VS Code Using Gemma4</title>
+        <desc>&#128293;Run Your Local AI as Copilot in VS Code Using Gemma4 Run Your Local AI as Copilot in VS Code Using Gemma 4 Same completions. Same chat panel. Same agent mode. Zero tokens leave your laptop. Let &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/i-replaced-my-python-security-stack-with-3-tools-it-worked-53033db399c9?sk=eb380911dabf52f410f9428b84ac3b2e" TAGS="python">
+        <title>I Replaced My Python Security Stack With 3 Tools. It Worked.</title>
+        <desc>I replaced my entire Python security workflow with just three automated tools.
+Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans. After six weeks across three production projects, the stack caught 22 security issues including two CVEs rated above 7.0 that had been sitting undetected for 47 days.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/becoming-for-better/i-migrated-my-own-ai-assistant-to-telegram-local-llm-open-webui-bot-4b63ab757217?sk=c6c05665df3386910c000f1e9918fafa" TAGS="ai,dev,telegram">
+        <title>Designing a Personal AI Assistant: Telegram + Open WebUI + Qwen 14B</title>
+        <desc>Designing a Personal AI Assistant: Telegram + Open WebUI + Qwen 14B The story of building a system like ChatGPT, but one that&#8217;s entirely my own, controllable, and equipped with a permanent &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/if-you-understand-these-6-genai-terms-youre-ahead-of-most-people-16cae03b3da3?sk=d51d54877d0581b9e1a398c07e334d90" TAGS="ai,dev">
+        <title>If You Understand These 6 GenAI Terms, You&#8217;re Ahead of Most People</title>
+        <desc>If You Understand These 6 GenAI Terms, You&#8217;re Ahead of Most People You&#8217;ll see these terms everywhere For Non-Members link to the full story Lately I have noticed a very common pattern. Whenever &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@inprogrammer/ox-alpha-just-appeared-out-of-nowhere-the-free-ai-model-with-a-1m-token-context-window-dc94942c827d?sk=c52580f4b3f589afe367224ea5323f58" TAGS="agentic,ai,dev">
+        <title>Ox Alpha Just Appeared Out of Nowhere: The Free AI Model With a 1M Token Context Window</title>
+        <desc>Ox Alpha Just Appeared Out of Nowhere: The Free AI Model With a 1M Token Context Window Accurate as of August 22, 2026, two days into Ox Alpha&#8217;s free preview. Specs, benchmarks, and pricing can &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/data-science-collective/how-to-use-deepseek-harness-better-than-99-of-people-dc5e1b97a811?sk=732a641817c97864ffa0984a9ddb1bcb" TAGS="agentic,ai,dev">
+        <title>How to Use DeepSeek Harness Better Than 99% of People</title>
+        <desc>How to Use DeepSeek Harness Better Than 99% of People Yesterday was destined to be a magical day that would go down in history, as DeepSeek unleashed two major surprises at once! DeepSeek released &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://blog.maxclax.com/before-you-spend-a-fortune-on-a-laptop-for-local-ai-see-what-24gb-can-do-16-works-too-507e9c9b5de5" TAGS="ai,dev,local">
+        <title>Before You Spend a Fortune on a Laptop for Local AI, See What 24GB Can Do &#8212; 16 Works Too</title>
+        <desc>Local AI feels like it needs a huge, pricey machine. It doesn&#8217;t &#8212; the engine under Ollama, driven directly, runs a 30B agent on 24GB.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/i-mapped-every-prompting-technique-i-actually-use-8ca2b74fd761?sk=9e899872dbfa70d71cfe3c0a3615dc41" TAGS="agentic,ai,dev">
+        <title>AI Prompting Techniques: Zero-Shot, RAG, ReAct &amp; More</title>
+        <desc>Learn practical AI prompting techniques, from zero-shot and few-shot prompting to RAG, ReAct, reasoning, and AI agents.</desc>
     </bookmark>
 </xbel>
