@@ -1034,4 +1034,28 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>AI Prompting Techniques: Zero-Shot, RAG, ReAct &amp; More</title>
         <desc>Learn practical AI prompting techniques, from zero-shot and few-shot prompting to RAG, ReAct, reasoning, and AI agents.</desc>
     </bookmark>
+    <bookmark href="https://github.com/debpalash/VoiceStudio" TAGS="ai,code,dev,python,tts">
+        <title>VoiceStudio is the open-source, fully-local ElevenLabs alternative &#8212; voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages</title>
+        <desc>VoiceStudio is the open-source, fully-local ElevenLabs alternative &#8212; voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. - debpalash/VoiceStudio</desc>
+    </bookmark>
+    <bookmark href="https://github.com/guillaumemeyer/watermarks-remover" TAGS="ai,code,dev,watermark">
+        <title>Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD &#183; GitHub</title>
+        <desc>Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD - guillaumemeyer/watermarks-remover</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@bytefer/this-ocr-model-just-killed-page-by-page-ocr-one-shot-parsing-across-dozens-of-pages-1e388770e24b" TAGS="ai,dev,ocr">
+        <title>This OCR Model Just Killed Page-by-Page OCR: One-Shot Parsing Across Dozens of Pages</title>
+        <desc>With Long-Horizon Parsing and Efficient Attention, It Pushes OCR Beyond Text Extraction and Toward Document Intelligence.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@harishpillai1994/ollama-on-steroids-with-opencode-a-headless-multi-agent-coding-workflow-687dc8ba71de?sk=8c2c51510b45ee73e7661d471b6f2600" TAGS="ai,dev,ollama">
+        <title>Ollama on Steroids with OpenCode: A Headless Multi Agent Coding Workflow</title>
+        <desc>Ollama on Steroids with OpenCode: A Headless Multi Agent Coding Workflow How I used OpenCode, Ollama, MiniMax, and GLM to build a reproducible coding loop with planning, implementation, review &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/how-do-you-prompt-ai-to-build-your-projects-there-are-7-levels-3745c38a75c1?sk=f8c5ad80e43a72fa1bf42d832e7c77e4" TAGS="agentic,ai,dev">
+        <title>7 Levels of AI Coding: From Vibe Coding to AI Agents</title>
+        <desc>Explore 7 levels of AI coding, from vibe coding and test-first development to specs, multi-agent teams, and autonomous coding agents.</desc>
+    </bookmark>
+    <bookmark href="https://github.com/MadsLorentzen/ai-job-search" TAGS="ai,cv,dev,resume">
+        <title>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. &#183; GitHub</title>
+        <desc>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. - MadsLorentzen/ai-job-search</desc>
+    </bookmark>
 </xbel>
