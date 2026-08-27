@@ -1058,4 +1058,40 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. &#183; GitHub</title>
         <desc>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. - MadsLorentzen/ai-job-search</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/why-levenshtein-distance-in-sql-is-more-powerful-than-you-think-and-how-to-master-it-5715efd316ea?sk=0fc28050409bc843ed54c365b42d6baa" TAGS="dev,postgres,sql">
+        <title>Why Levenshtein Distance in SQL Is More Powerful Than You Think (And How to Master It)</title>
+        <desc>Why Levenshtein Distance in SQL Is More Powerful Than You Think (And How to Master It) Turn messy databases into perfect matches with this battle-tested SQL superpower &#8212; Non Member: Pls take a look &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://sachinkasana.medium.com/how-to-build-a-self-improving-ai-agent-that-actually-gets-better-over-time-69ad063ae6f3?sk=c18e4cb253fe4fe0c1e3c0dff19148d2" TAGS="agentic,ai,dev">
+        <title>How to Build a Self-Improving AI Agent That Actually Gets Better Over Time</title>
+        <desc>How to Build a Self-Improving AI Agent That Actually Gets Better Over Time Most AI agents repeat the same mistakes forever. Here&#8217;s how production AI systems learn from experience using memory &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/javarevisited/become-a-senior-at-git-with-these-100-tips-23cfa984a4a0?sk=ffa36e2cb8844aaeae77f2bfa40663c4" TAGS="code,dev,git">
+        <title>Become a Senior at Git with These 100 Tips</title>
+        <desc>&#8220;&#8221; is published by Mammad Yahyayev in Javarevisited.</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/ai-agents-explained-in-5-minutes-f1a8ba56def2?sk=da1b4398c530a60ba401fb0f812e9f3e" TAGS="agentic,ai,dev">
+        <title>AI Agents Explained in 5 Minutes. A complete beginner&#8217;s guide to how an</title>
+        <desc>AI Agents Explained in 5 Minutes A complete beginner&#8217;s guide to how an agent works For Non-Members link to the full story The number of people I personally know who use ChatGPT just to chat is &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://ramakrishna-01.medium.com/design-patterns-every-java-developer-should-know-758d069eda91?sk=568682d9b9879f358727f53b7c3b6df3" TAGS="code,dev,java,pattern">
+        <title>Design Patterns Every Java Developer Should Know</title>
+        <desc>Design Patterns Every Java Developer Should Know A Practical Guide to Understanding Design Patterns Without Making Your Code Complicated If you are not a Medium member, then Click here to read &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://pub.towardsai.net/9-agentic-harness-architectures-every-ai-developer-must-know-13842150e8bc" TAGS="agentic,ai,dev">
+        <title>9 Agentic Harness Architectures Every AI Developer Must Know - Freedium</title>
+        <desc>There are nine ways to wire an AI agent together, explained in plain English, with visuals.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/but-it-works-on-my-machine/realistic-integration-testing-with-testcontainers-forget-mocks-kafka-redis-postgres-4e2d1cada7d2?sk=5fefd3b540858eb49c31546feba33ea7" TAGS="code,dev,java,postgres">
+        <title>Realistic Integration Testing with Testcontainers: Forget Mocks (Kafka, Redis, Postgres)</title>
+        <desc>Realistic Integration Testing with Testcontainers: Forget Mocks (Kafka, Redis, Postgres) Write integration tests that actually catch bugs &#8212; spin up real Kafka, Redis, and Postgres with &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://vijayasekhar-deepak.beehiiv.com/p/things-you-can-do-with-hermes-agent-opencode" TAGS="ai,artificial intelligence,code,dev,software engineering,technology">
+        <title>Things You Can Do with Hermes Agent +&#160;OpenCode</title>
+        <desc>The Ultimate Open-Source AI Developer Stack in&#160;2026</desc>
+    </bookmark>
+    <bookmark href="https://codefarm0.medium.com/designing-a-debit-card-processing-system-pin-authentication-bank-integration-real-time-balance-5c07a4f76ffd?sk=f79ebaeb3b04540f97cc494f3ea81a5b" TAGS="code,design,dev">
+        <title>Designing a Debit Card Processing System: PIN Authentication, Bank Integration &amp; Real-Time Balance Checks</title>
+        <desc>&#8220;&#8221; is published by Arvind Kumar.</desc>
+    </bookmark>
 </xbel>
