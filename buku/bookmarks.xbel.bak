@@ -1094,4 +1094,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Designing a Debit Card Processing System: PIN Authentication, Bank Integration &amp; Real-Time Balance Checks</title>
         <desc>&#8220;&#8221; is published by Arvind Kumar.</desc>
     </bookmark>
+    <bookmark href="https://grimoire.carcano.ch/blog/packaging-a-python-wheel-as-rpm/" TAGS="code,dev,python">
+        <title>Packaging a Python Wheel as RPM</title>
+        <desc>Packaging a full featured Python project into two RPM packages,one with the modules of the Python package, the other with an example script that implements them</desc>
+    </bookmark>
+    <bookmark href="https://grimoire.carcano.ch/blog/python-full-featured-project/" TAGS="code,dev,python">
+        <title>Python Full Project - Code it stylish</title>
+        <desc>A Python full featured project that shows how to properly structure it facing complex topics such as standard logging, iterable and sortable objects, unit tests</desc>
+    </bookmark>
+    <bookmark href="https://grimoire.carcano.ch/blog/python-setup-tools/" TAGS="code,dev,python">
+        <title>Python Setup Tools - sdist bdist and wheel and push toPyPI</title>
+        <desc>Build Python sdist, bdist and wheel distribution packages using setuptools and push them on PyPI using twine, using a clean and tidy style</desc>
+    </bookmark>
 </xbel>
