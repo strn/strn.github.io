@@ -1106,4 +1106,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Python Setup Tools - sdist bdist and wheel and push toPyPI</title>
         <desc>Build Python sdist, bdist and wheel distribution packages using setuptools and push them on PyPI using twine, using a clean and tidy style</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/codetodeploy/if-you-dont-know-these-design-patterns-in-the-ai-era-you-ll-slowly-fall-behind-7646ed5eb709" TAGS="ai,concepts,dev">
+        <title>If You Don&#8217;t Know These Design Patterns in the AI Era, You&#8217;ll Slowly Fall Behind</title>
+        <desc>Something uncomfortable is happening in software engineering right now.</desc>
+    </bookmark>
 </xbel>

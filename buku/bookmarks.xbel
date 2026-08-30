@@ -1110,4 +1110,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>If You Don&#8217;t Know These Design Patterns in the AI Era, You&#8217;ll Slowly Fall Behind</title>
         <desc>Something uncomfortable is happening in software engineering right now.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/beyond-localhost/the-future-of-ai-agents-isnt-better-prompts-it-s-graph-engineering-7fa21e51cc1a?sk=ef6200cc326ffc602db321a75fc7d7c0" TAGS="ai,concepts,dev">
+        <title>The Future of AI Agents Isn&#8217;t Better Prompts. It&#8217;s Graph Engineering</title>
+        <desc>The Future of AI Agents Isn&#8217;t Better Prompts. It&#8217;s Graph Engineering. Why the next generation of AI agents will stop solving the same problem twice. Every AI Agent Has the Same Problem Today&#8217;s &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/lets-code-future/18-core-agentic-ai-patterns-explained-in-20-minutes-b7c082c07f3c?sk=8c5bfdc2a2f70ec132676667dcef86b7" TAGS="agentic,ai,concepts,dev">
+        <title>18 Top Agentic AI Patterns in 2026</title>
+        <desc>&#8220;&#8221; is published by Deep concept in Let&#8217;s Code Future.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/becoming-for-better/ai-that-talks-using-your-own-data-a-step-by-step-guide-5bc0178a31c5?sk=ec6bb4860db91a5f02445367b5af4eb0" TAGS="ai,dev">
+        <title>&#8220;AI That Talks Using Your Own Data: A Step-by-Step Guide&#8221;</title>
+        <desc>&#8220;AI That Talks Using Your Own Data: A Step-by-Step Guide&#8221; Three computers at home, zero subscription fees, and one night &#8212; that&#8217;s how I set up a local AI system that interacts with my own &#8230;</desc>
+    </bookmark>
 </xbel>
