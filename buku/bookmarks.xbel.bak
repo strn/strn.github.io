@@ -1122,4 +1122,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>&#8220;AI That Talks Using Your Own Data: A Step-by-Step Guide&#8221;</title>
         <desc>&#8220;AI That Talks Using Your Own Data: A Step-by-Step Guide&#8221; Three computers at home, zero subscription fees, and one night &#8212; that&#8217;s how I set up a local AI system that interacts with my own &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@Deep-concept/18-core-system-design-patterns-explained-in-just-20-minutes-6cd1efbdb83d?sk=17a5ce5eec92fc98e04a9b3d3532796d" TAGS="code,concepts,dev">
+        <title>Every Important System Design Patterns Explained 20 Minutes</title>
+        <desc>&#8220;&#8221; is published by Deep concept in Let&#8217;s Code Future.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/data-science-collective/the-llm-landscape-part-2-the-starters-guide-to-local-deployment-9c21c36d475a" TAGS="ai,dev">
+        <title>The LLM Landscape Part 2: The Starter&#8217;s Guide to Local Deployment</title>
+        <desc>The LLM software stack is evolving rapidly. Over the past year, I have explored and tested a wide range of tools and workflows for running&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/data-science-collective/the-llm-landscape-part-1-the-starters-guide-to-context-window-management-9c77aff15dc5" TAGS="ai,dev">
+        <title>The LLM Landscape Part 1: The Starter&#8217;s Guide to Context Window Management</title>
+        <desc>This starter&#x27;s guide focuses on one of the most important LLM challenges: context window management for building real-world LLM&#8230;</desc>
+    </bookmark>
 </xbel>
