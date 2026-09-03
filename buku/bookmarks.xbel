@@ -1134,4 +1134,28 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>The LLM Landscape Part 1: The Starter&#8217;s Guide to Context Window Management</title>
         <desc>This starter&#x27;s guide focuses on one of the most important LLM challenges: context window management for building real-world LLM&#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/baidus-unlimited-ocr-the-3b-model-that-reads-40-pages-in-a-single-pass-6e23baeba7a8?sk=571902984fbcc59c6d53ab1366b1b3ab" TAGS="ai,dev,ocr">
+        <title>Baidu&#8217;s Unlimited-OCR: The 3B Model That Reads 40 Pages in a Single Pass</title>
+        <desc>Baidu&#8217;s Unlimited-OCR: The 3B Model That Reads 40 Pages in a Single Pass Every document parser we have covered processes one page at a time and forgets the last one. Baidu&#8217;s new open-source model &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://habtesoft.medium.com/12-claude-code-commands-most-developers-never-use-8e5b75825387?sk=788119f5a2f8c94fe0010d296d5dfd9d" TAGS="ai,claude,dev">
+        <title>12 Claude Code Commands Most Developers Never Use</title>
+        <desc>12 Claude Code Commands Most Developers Never Use Most people learn Claude Code the same way: run claude, type a prompt, watch it work, repeat. That covers maybe a fifth of what the tool actually &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://dailypythonpro.medium.com/the-modern-python-project-layout-that-saved-my-production-code-1966ec0237f9?sk=ae89261e1300020e304a54ad04dd1f0b" TAGS="code,concepts,dev,python">
+        <title>The Modern Python Project Layout That Saved My Production Code</title>
+        <desc>The Modern Python Project Layout That Saved My Production Code A clean, production-tested blueprint using uv, pyproject.toml, and the src/ layout. Starting a new Python project usually feels &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@sidshehria/i-used-git-wrong-for-years-407ba94dc034" TAGS="dev,git">
+        <title>I used Git Wrong for years</title>
+        <desc>I was wasting the potential of Git for years and then I came to know&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/a5b01b02ce79?sk=79f7402309abe749165ab7a2d262c080" TAGS="agentic,ai,code,dev,python">
+        <title>How to Build an AI Agent in Pure Python: State Machines, Tool Loops, and Verification</title>
+        <desc>A practical guide to building a debuggable AI agent in pure Python with explicit state, strict tool contracts, bounded loops, and answer verification.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://levelup.gitconnected.com/stop-writing-this-python-code-6-libraries-that-do-it-better-2d06502aa2da" TAGS="dev,python">
+        <title>Stop Writing This Python Code&#8202;&#8212;&#8202;6 Libraries That Do It Better</title>
+        <desc>Python libraries that quietly eliminate the boilerplate, bugs, and bad habits senior engineers stopped writing years ago.</desc>
+    </bookmark>
 </xbel>
