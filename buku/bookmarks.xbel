@@ -216,7 +216,7 @@ Learn how it works, how to switch, and when to use it.</desc>
         <desc>Run and train AI models locally with Unsloth Studio.</desc>
     </bookmark>
     <bookmark href="https://medium.com/@sumit.ai/9324f47bada8?sk=f3c020c4f58d0ad32f0e4495eeb25f1a" TAGS="ai,dev,tts">
-        <title>I Just Cloned My Voice in 3 Seconds: On My Laptop. | by Sumit Pandey | Towards Deep Learning</title>
+        <title>I Just Cloned My Voice in 3 Seconds: On My Laptop.</title>
         <desc>NeuTTS Air: world&#x27;s first realistic on-device voice AI&#8202;-&#8202;3-second cloning, GGUF, runs on CPUs, and sounds shockingly human.</desc>
     </bookmark>
     <bookmark href="https://github.com/neuphonic/neutts" TAGS="ai,dev,llm,tts">
@@ -1157,5 +1157,81 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
     <bookmark href="https://freedium-mirror.cfd/https://levelup.gitconnected.com/stop-writing-this-python-code-6-libraries-that-do-it-better-2d06502aa2da" TAGS="dev,python">
         <title>Stop Writing This Python Code&#8202;&#8212;&#8202;6 Libraries That Do It Better</title>
         <desc>Python libraries that quietly eliminate the boilerplate, bugs, and bad habits senior engineers stopped writing years ago.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://ai.plainenglish.io/how-to-become-an-ai-engineer-in-2026-a-complete-roadmap-7ff63195063f" TAGS="ai,dev">
+        <title>How to Become an AI Engineer in 2026: A Complete Roadmap</title>
+        <desc>A step-by-step 2026 AI engineer roadmap covering Python, math, ML, deep learning, RAG, MCP, AI agents, and LLMOps&#8202;&#8212;&#8202;with curated&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://billacode.medium.com/ai-in-simple-terms-what-is-an-agent-harness-c093f02547e2" TAGS="agentic,ai,dev">
+        <title>AI in Simple terms: What is an Agent harness</title>
+        <desc>Hi Guys, In this article I&#8217;m going to simply describe what an AI harness is. Everybody is so overwelmed with so many buzz words So this&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://www.towardsdeeplearning.com/12-open-source-projects-that-you-must-know-when-building-agents-for-production-f22634dc37cb" TAGS="agentic,ai,dev">
+        <title>12 Open-Source Projects That You Must Know When Building Agents For Production</title>
+        <desc>Coding agents made the first half of software delivery cheap. A model can produce a convincing feature before you have finished making&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://vijayasekhar-deepak.medium.com/week-2-5-open-source-github-repositories-every-ai-engineer-should-explore-in-2026-9392a6185af7" TAGS="agentic,ai,dev,github">
+        <title>Week 2: 5 Open-Source GitHub Repositories Every AI Engineer Should Explore in 2026</title>
+        <desc>Not a Member? Read for FREE here.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://levelup.gitconnected.com/all-you-want-for-agentic-memory-design-b038012e06fc" TAGS="agentic,ai,dev">
+        <title>All You Want For Agentic Memory Design</title>
+        <desc>How top AI teams at Anthropic and GitHub actually design memory layers: the four-store pattern, production database decisions, and Python&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/beyond-localhost/how-ai-agents-actually-work-8-internal-steps-every-ai-engineer-should-know-bb4c65a4b729?sk=8df9b18c656169aa33d990f6bfd6857d" TAGS="agentic,ai,dev">
+        <title>How AI Agents Actually Work: 8 Internal Steps Every AI Engineer Should Know</title>
+        <desc>How AI Agents Actually Work: 8 Internal Steps Every AI Engineer Should Know From Prompt to Planning, Memory, Tools, Reasoning, Reflection, and Final Response. You type a prompt. A few seconds later &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/skillstuff/i-stopped-asking-ai-for-complete-features-heres-what-i-do-instead-7cd4bd67359a" TAGS="agentic,ai,dev">
+        <title>I Stopped Asking AI for Complete Features. Here&#8217;s What I Do Instead</title>
+        <desc>AI became more useful when I stopped treating it like a feature factory and started using it to clarify decisions, expose risks, and&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/from-tokens-to-agents-20-ai-concepts-every-developer-must-know-5105e0d25604?sk=37f2d4a62a0d266a5ef89aa6456c320b" TAGS="agentic,ai,dev">
+        <title>From Tokens to Agents: 20 AI Concepts Every Developer Must Know</title>
+        <desc>&#8220;&#8221; is published by Gaddam.Naveen.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/it-chronicles/the-real-cost-of-an-ai-coding-assistant-40330af8b0c8" TAGS="agentic,ai,dev">
+        <title>The Real Cost of an AI Coding Assistant </title>
+        <desc>GitHub Copilot went from charging per prompt to per token, and the bill turned out to be about me</desc>
+    </bookmark>
+    <bookmark href="https://ai.plainenglish.io/building-ai-agents-learn-these-7-architecture-patterns-first-621bf46047d0?sk=66fd2829b9e045e303f2cba06cc3039a" TAGS="agentic,ai,dev">
+        <title>Building AI Agents? Learn These 7 Architecture Patterns First</title>
+        <desc>Building AI Agents? Learn These 7 Architecture Patterns First From RAG and memory to planning, reflection, and knowledge graphs, these are the architecture patterns powering production AI systems &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/2323d654ea46?sk=b4256ec39fb13abcc3bdcce162a72d4f" TAGS="agentic,ai,dev">
+        <title>How I&#8217;d Learn to Build AI Agents in 2026 (The 8-Week Path)</title>
+        <desc>How I&#8217;d Learn to Build AI Agents in 2026 (The 8-Week Path) The tutorials get you an agent that works once. This is the plan for one that works twice. Read the article for free here. Getting an &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/skillstuff/8-code-smells-senior-engineers-notice-immediately-b52b76717552?sk=dab1c4a09f7bf19ffd5a58eb8f7a3c3e" TAGS="code,concepts,dev">
+        <title>8 Code Smells Senior Engineers Notice Immediately | by CodeByUmar | Skill Stuff | Jul, 2026 | Medium</title>
+        <desc>8 Code Smells Senior Engineers Notice Immediately The most dangerous code smells are not always ugly. They are the small signs that a future change will require more understanding, coordination, and &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/data-science-collective/googles-new-sdlc-guide-draws-a-hard-line-between-vibe-coding-and-agentic-engineering-29ee5514c48c" TAGS="code,dev,sdlc">
+        <title>Google&#8217;s New SDLC Guide Draws a Hard Line Between Vibe Coding and Agentic Engineering - Freedium</title>
+        <desc>How Google&#8217;s new SDLC framework replaces vibe coding with structured agentic engineering for safer, more reliable AI-powered software&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://elshad-karimov.medium.com/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-a566bd3f9869" TAGS="ai,claude,code,dev">
+        <title>I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That Changed Everything.</title>
+        <desc>&#127775; Special Offer for My Readers &#127775;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/data-science-collective/what-is-the-best-embedding-model-for-rag-in-2026-b8b236344dac?sk=8047af62f5fa88f495ceda7434df0e9a" TAGS="ai,dev,rag">
+        <title>Best Embedding Model for RAG in 2026: 6 Workloads, 6 Picks (And Why You&#x27;re Overpaying)</title>
+        <desc>Voyage-4, Qwen3-Embedding, voyage-code-3, and more, compared by workload. The 2025 defaults cost twice what they should. Six picks for six use cases, plus three outdated claims debunked.</desc>
+    </bookmark>
+    <bookmark href="https://blog.stackademic.com/database-standards-used-by-leading-internet-companies-the-rules-that-keep-production-databases-490ec8516d4f?sk=479fa5a5e299ee9d66b7918b6768a973" TAGS="database,dev">
+        <title>Database Standards Used by Leading Internet Companies: The Rules That Keep Production Databases Healthy | by Umesh Kumar Yadav | Aug, 2026 | Stackademic</title>
+        <desc>Database Standards Used by Leading Internet Companies: The Rules That Keep Production Databases Healthy From table design to SQL optimization, good database standards can save years of painful &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@bytefer/the-free-open-source-alternative-to-elevenlabs-is-finally-here-d50171168ad4" TAGS="ai,dev,tts">
+        <title>The Free, Open-Source Alternative to ElevenLabs Is Finally Here</title>
+        <desc>600+ languages. Zero-shot voice cloning. Design any voice from text. 40&#215; faster inference. The next generation of AI speech is here.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/13859378f56a?sk=0542bdedf2d4661ff24795f6bb255c7f" TAGS="agentic,ai,dev">
+        <title>CLAUDE.md vs AGENTS.md vs SKILL.md (2026): Which Agent Context File Owns What</title>
+        <desc>Confused about which Claude Code config file does what? This guide explains CLAUDE.md, AGENTS.md, and SKILL.md &#8212; when to use each and how they load</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@junfeng0828/cff64f2dadd8?sk=d4bcc4d9bcc3bf50573b5cdba936322e" TAGS="dev,java">
+        <title>JDK 8 &#8594; 17 &#8594; 21 &#8594; 25: The Key Leaps Across Four LTS Generations, Explained at Once</title>
+        <desc>&#8220;&#8221; is published by Dylan Smith in Javarevisited.</desc>
     </bookmark>
 </xbel>
