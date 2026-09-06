@@ -1234,4 +1234,20 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>JDK 8 &#8594; 17 &#8594; 21 &#8594; 25: The Key Leaps Across Four LTS Generations, Explained at Once</title>
         <desc>&#8220;&#8221; is published by Dylan Smith in Javarevisited.</desc>
     </bookmark>
+    <bookmark href="https://habtesoft.medium.com/the-10-most-important-ai-concepts-explained-in-10-minutes-aea5f2336676?sk=9bcdd6eeda9891f9f9fefefd2efea6f8" TAGS="ai,concepts,dev">
+        <title>The 10 Most Important AI Concepts, Explained in 10 Minutes</title>
+        <desc>The 10 Most Important AI Concepts, Explained in 10 Minutes Most people who try to learn how AI works give up at the vocabulary. Tokens, embeddings, attention, fine-tuning, RAG: the terms pile up &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@UdaykiranEstari/openwiki-in-production-a-realistic-setup-review-guide-23edce255b09?sk=ed61b04dab83270d95cb880ab569f762" TAGS="ai,dev,openwiki">
+        <title>OpenWiki Setup Guide: Build AI-Ready Codebase Documentation You Can Trust</title>
+        <desc>Engineering Practices OpenWiki Setup Guide: Build AI-Ready Codebase Documentation You Can Trust Stop treating AI docs as magic generators. Start operating a reviewed, git-native memory supply &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gopi_ck/3ae1b3dbde20?sk=fa8fbaacaad83855e9233e7a7ed5ffce" TAGS="ai,concepts,dev">
+        <title>5 AI Coding Tools Developers Are Using That Nobody Talks About</title>
+        <desc>Explore 5 underrated AI coding tools developers should know in 2026, including Aider, Cline, Continue, Ollama, and OpenCode, plus practical tips for safe AI coding.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/auto-improving-software-what-coding-agents-now-maintain-without-us-2f94029b1ac2?sk=2a1dabfa39b80b967227740b5110e039" TAGS="agentic,ai,code,dev">
+        <title>Auto-Improving Software: What Coding Agents Now Maintain Without Us</title>
+        <desc>Auto-Improving Software: What Coding Agents Now Maintain Without Us Stripe&#8217;s autonomous agents ship 1,300 production pull requests a week with no human-written code. The same dynamic that produces &#8230;</desc>
+    </bookmark>
 </xbel>
