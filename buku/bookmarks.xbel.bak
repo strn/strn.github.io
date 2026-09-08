@@ -1258,4 +1258,24 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>GitHub - hardness1020/awesome-agent-architecture: Learn AI agents from scratch.</title>
         <desc>Learn AI agents from scratch. Contribute to hardness1020/awesome-agent-architecture development by creating an account on GitHub.</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://blog.stackademic.com/9-python-tools-that-give-solo-developers-an-unfair-advantage-c8f4f089431e" TAGS="code,dev,python">
+        <title>9 Python Tools That Give Solo Developers an Unfair Advantage</title>
+        <desc>Solo developers lose because they cannot write &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://vijayasekhar-deepak.beehiiv.com/p/graphify-vs-gitnexus-vs-codegraph" TAGS="ai,artificial intelligence,concepts,dev,software engineering,technology">
+        <title>Graphify vs GitNexus vs CodeGraph</title>
+        <desc>Which AI Code Knowledge Graph Should Developers Choose in&#160;2026?</desc>
+    </bookmark>
+    <bookmark href="https://vijayasekhar-deepak.medium.com/graphify-vs-gitnexus-vs-codegraph-5b1acb19fd5e">
+        <title>Graphify vs GitNexus vs CodeGraph</title>
+        <desc>AI + OpenSource Graphify vs GitNexus vs CodeGraph Which AI Code Knowledge Graph Should Developers Choose in 2026? Not a Member? Read for FREE here. Your AI coding assistant isn&#8217;t getting smarter &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/beyond-localhost/9-agentic-patterns-every-developer-should-know-before-building-with-llms-e8d46eb68853?sk=c23c47a64267d476ac4c4ff0095792db" TAGS="ai,dev,llm">
+        <title>9 Agentic Patterns Every Developer Should Know Before Building with LLMs</title>
+        <desc>9 Agentic Patterns Every Developer Should Know Before Building with LLMs You called an LLM API. It worked. Now comes the hard part: building something reliable with it. This is where most AI projects &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/e1cb3abbd42f?sk=45bc8e0d811c0d88e8528d6d1fc122f2" TAGS="agentic,ai,dev,hermes">
+        <title>Hermes Agent: When the AI Lives on a Server Instead of in Our Editor</title>
+        <desc>Hermes Agent: When the AI Lives on a Server Instead of in Our Editor Most agents we use day-to-day are tethered to an IDE or a terminal window. Hermes runs on its own machine, persists across &#8230;</desc>
+    </bookmark>
 </xbel>
