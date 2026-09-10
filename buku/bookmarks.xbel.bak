@@ -1274,4 +1274,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Hermes Agent: When the AI Lives on a Server Instead of in Our Editor</title>
         <desc>Hermes Agent: When the AI Lives on a Server Instead of in Our Editor Most agents we use day-to-day are tethered to an IDE or a terminal window. Hermes runs on its own machine, persists across &#8230;</desc>
     </bookmark>
+    <bookmark href="https://www.dataleadsfuture.com/deepseek-v4-cant-read-images-i-made-it-read/" TAGS="ai,code,dev,image">
+        <title>DeepSeek-V4 Can&#x27;t Read Images? I Made It Read</title>
+        <desc>Don&#x27;t wait for a multimodal DeepSeek-v4 model, you can use it now to read images.</desc>
+    </bookmark>
 </xbel>
