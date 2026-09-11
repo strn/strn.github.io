@@ -1278,4 +1278,12 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>DeepSeek-V4 Can&#x27;t Read Images? I Made It Read</title>
         <desc>Don&#x27;t wait for a multimodal DeepSeek-v4 model, you can use it now to read images.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@vndpal/0cfdc693196e?sk=43fa204d42b3a6bb9d6c29b387f0b460" TAGS="code,concepts,dev">
+        <title>7 Warning Signs Your Codebase Is Becoming Legacy and How to Fix It</title>
+        <desc>7 Warning Signs Your Codebase Is Becoming Legacy and How to Fix It Spot them early. Fix them now. Save yourself a rewrite later. Most advice about legacy code starts in the wrong place. It tells you &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/beyond-localhost/most-backend-developers-can-build-apis-but-very-few-understand-what-breaks-in-production-f5b0e8c7f887?sk=939a39adf66804d621953c02d1eb2f70" TAGS="api,code,dev">
+        <title>&#128640; Most Backend Developers Can Build APIs &#8212; But Very Few Understand What Breaks in Production</title>
+        <desc>&#128640; Most Backend Developers Can Build APIs &#8212; But Very Few Understand What Breaks in Production Most backend developers can build APIs. CRUD endpoints. Auth flows. Database integrations. Everything &#8230;</desc>
+    </bookmark>
 </xbel>
