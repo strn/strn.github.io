@@ -1286,4 +1286,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>&#128640; Most Backend Developers Can Build APIs &#8212; But Very Few Understand What Breaks in Production</title>
         <desc>&#128640; Most Backend Developers Can Build APIs &#8212; But Very Few Understand What Breaks in Production Most backend developers can build APIs. CRUD endpoints. Auth flows. Database integrations. Everything &#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@yadavdivy296/7-advanced-rag-architectures-every-ai-developer-must-know-1980249a1391" TAGS="ai,dev,rag">
+        <title>7 Advanced RAG Architectures Every AI Developer Must Know: A Complete Guide</title>
+        <desc>The version of RAG most tutorials teach you is already the weakest one</desc>
+    </bookmark>
 </xbel>
