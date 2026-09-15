@@ -1294,4 +1294,40 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>RAG for Tools: Tool Retrieval for AI Agents</title>
         <desc>AI agents should not see every tool all the time. Tool retrieval selects relevant MCP tools, APIs, and actions before the model reasons, reducing context cost and wrong tool calls.</desc>
     </bookmark>
+    <bookmark href="https://blog.stackademic.com/10-ai-engineering-concepts-developers-usually-learn-too-late-420ab56f4e5f?sk=2e5f56bb126dd3c8d89896b8a608ba9d" TAGS="ai,concepts,dev">
+        <title>10 AI Engineering Concepts Developers Usually Learn Too Late</title>
+        <desc>Learn the AI engineering concepts developers need after LLM basics: structured outputs, tool calling, evals, RAG quality, security, and observability.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@nuno.roberto/i-stopped-chatting-with-claude-code-and-started-engineering-with-it-45ab701cf5b1" TAGS="ai,claude,code,dev">
+        <title>I Stopped Chatting With Claude Code and Started Engineering With It</title>
+        <desc>Your terminal isn&#8217;t a chat window. It&#8217;s an operating system for AI-assisted development, and most people haven&#8217;t figured that out yet.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/data-science-collective/what-is-an-ai-agent-really-and-how-to-build-your-first-one-in-30-minutes-eb339510de2d?sk=369e3c93d642c74700a0bb6ed206c7a5" TAGS="agentic,ai,dev">
+        <title>What Is an AI Agent, Really? (And How to Build Your First One in 30 Minutes)</title>
+        <desc>What Is an AI Agent, Really? (And How to Build Your First One in 30 Minutes) Your First AI Agent: A Hands-On Guide from Scratch If you&#8217;ve been anywhere near the tech world lately, you&#8217;ve heard &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/ai-engineering-compass/ai-is-changing-software-development-but-not-in-the-way-most-developers-think-9e441286e044?sk=da56466bfcdffb7c7569e65e14bb2f19" TAGS="ai,dev">
+        <title>AI Is Changing Software Development &#8212; But Not in the Way Most Developers Think</title>
+        <desc>AI Is Changing Software Development &#8212; But Not in the Way Most Developers Think The biggest shift isn&#8217;t that AI will write all our code. It&#8217;s that developers are starting to build software where &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/javarevisited/20-concepts-that-every-ai-engineer-should-learn-473480419807?sk=93a28945f902e725850bed5bb23a9da0" TAGS="ai,concepts,dev">
+        <title>20 Concepts that Every AI Engineer Should Learn</title>
+        <desc>20 Concepts that Every AI Engineer Should Learn From Prompt Engineering to Multi-Agent Systems Artificial Intelligence is moving faster than most developers can track. A year ago, knowing how to call &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://blog.gopenai.com/memory-in-ai-agents-why-your-agent-forgets-everything-and-how-to-fix-it-250150317ff1?sk=3420f64831ec992e164a4d08eec60f1a" TAGS="agentic,ai,dev">
+        <title>Memory in AI Agents: Why Your Agent Forgets Everything (And How to Fix It)</title>
+        <desc>Here&#8217;s a conversation that plays out constantly once teams move an agent from a demo into something real users actually touch. Monday: a user tells your support agent their account is on the Pro&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://github.com/HKUDS/RAG-Anything" TAGS="ai,dev,rag">
+        <title>RAG-Anything: All-in-One RAG Framework</title>
+        <desc>&quot;RAG-Anything: All-in-One RAG Framework&quot;. Contribute to HKUDS/RAG-Anything development by creating an account on GitHub.</desc>
+    </bookmark>
+    <bookmark href="https://github.com/github/spec-kit" TAGS="ai,concepts,dev,sdlc">
+        <title>GitHub - github/spec-kit: &#128171; Toolkit to help you get started with Spec-Driven Development</title>
+        <desc>&#128171; Toolkit to help you get started with Spec-Driven Development - github/spec-kit</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/codetodeploy/developing-your-personal-agentic-system-step-by-step-7331d3cae744?sk=48ff9f385190c323183e53a26448fd4c" TAGS="agentic,code,dev">
+        <title>Developing Your Personal Agentic System Step by Step</title>
+        <desc>Developing Your Personal Agentic System Step by Step A practical guide to designing an AI workflow engine with planning, memory, tools, verification, and human control. Most people start with a &#8230;</desc>
+    </bookmark>
 </xbel>

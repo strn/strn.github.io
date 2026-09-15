@@ -1290,4 +1290,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>7 Advanced RAG Architectures Every AI Developer Must Know: A Complete Guide</title>
         <desc>The version of RAG most tutorials teach you is already the weakest one</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/bebaf25e0711?sk=760027c9e295657157b1e121608f8ccb" TAGS="agentic,ai,dev,rag">
+        <title>RAG for Tools: Tool Retrieval for AI Agents</title>
+        <desc>AI agents should not see every tool all the time. Tool retrieval selects relevant MCP tools, APIs, and actions before the model reasons, reducing context cost and wrong tool calls.</desc>
+    </bookmark>
 </xbel>
