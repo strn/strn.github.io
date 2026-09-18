@@ -1330,4 +1330,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Developing Your Personal Agentic System Step by Step</title>
         <desc>Developing Your Personal Agentic System Step by Step A practical guide to designing an AI workflow engine with planning, memory, tools, verification, and human control. Most people start with a &#8230;</desc>
     </bookmark>
+    <bookmark href="https://techwithram.medium.com/build-your-first-ai-agent-in-30-minutes-no-phd-required-353ddc612243?sk=92f0fcb30c770bbba0fba222adf4d7c2" TAGS="agentic,ai,dev">
+        <title>Build Your First AI Agent in 30 Minutes, No PhD Required</title>
+        <desc>Build Your First AI Agent in 30 Minutes, No PhD Required Free users can read the full story here. You&#8217;ve seen the demos. A chatbot that answers from your docs. An agent that browses the web and &#8230;</desc>
+    </bookmark>
 </xbel>
