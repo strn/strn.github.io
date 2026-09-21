@@ -1334,4 +1334,20 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Build Your First AI Agent in 30 Minutes, No PhD Required</title>
         <desc>Build Your First AI Agent in 30 Minutes, No PhD Required Free users can read the full story here. You&#8217;ve seen the demos. A chatbot that answers from your docs. An agent that browses the web and &#8230;</desc>
     </bookmark>
+    <bookmark href="https://python.plainenglish.io/8-python-libraries-that-automate-real-actions-not-just-files-5bdd9b485659?sk=63ea253d13c60598453e002fef1aac31" TAGS="dev,python">
+        <title>8 Python Libraries That Automate Real Actions, Not Just Files</title>
+        <desc>8 Python Libraries That Automate Real Actions, Not Just Files Not spreadsheets or PDFs this time. Browsers clicking themselves, messages sending on schedule, jobs that run while you sleep. I actually &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/algomart/10-python-libraries-id-install-before-writing-a-single-line-of-code-in-2026-2a39aab5e3d4" TAGS="code,dev,python">
+        <title>10 Python Libraries I&#8217;d Install Before Writing a Single Line of Code in 2026</title>
+        <desc>There was a time when being a productive Python developer meant knowing the standard library extremely well.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://thilo-hermann.medium.com/stop-sending-your-llm-calls-out-naked-2d4316a10831" TAGS="ai,dev,llm">
+        <title>Stop Sending Your LLM Calls Out Naked</title>
+        <desc>The gateway you skipped is the incident report you&#8217;ll write later.</desc>
+    </bookmark>
+    <bookmark href="https://blog.vijayasekhardeepak.com/turn-your-entire-codebase-into-an-ai-queryable-knowledge-graph-7efc2473f30c?sk=ec41887b58a4d77f3295ddfdec6722d0" TAGS="ai,code,dev">
+        <title>Turn Your Entire Codebase Into an AI-Queryable Knowledge Graph</title>
+        <desc>AI Skills Turn Your Entire Codebase Into an AI-Queryable Knowledge Graph Not a Member? Read for FREE here. There&#8217;s a moment every developer eventually hits. You open a large project after a few &#8230;</desc>
+    </bookmark>
 </xbel>
