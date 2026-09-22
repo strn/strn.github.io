@@ -1350,4 +1350,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Turn Your Entire Codebase Into an AI-Queryable Knowledge Graph</title>
         <desc>AI Skills Turn Your Entire Codebase Into an AI-Queryable Knowledge Graph Not a Member? Read for FREE here. There&#8217;s a moment every developer eventually hits. You open a large project after a few &#8230;</desc>
     </bookmark>
+    <bookmark href="https://levelup.gitconnected.com/agent-harness-a-no-bs-guide-8f69e3c0a3da?sk=70748051e7a19aa3d94e4d5499e26a8d" TAGS="agentic,ai,dev">
+        <title>Agent Harness &#8212; A complete guide. There isn&#8217;t much more to understanding&#8230;</title>
+        <desc>Agent Harness &#8212; A complete guide There isn&#8217;t much more to understanding Agent Harness than what&#x27;s in here! When we started interacting with LLMs back in 2023, life was simple. We simply asked a &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/illumination/i-was-using-ai-coding-tools-wrong-and-heres-how-you-can-avoid-0115e8140193?sk=3d9436dbeca8ebf1e733ac8775cea606" TAGS="ai,dev">
+        <title>I was using AI Coding Tools Wrong, and here&#8217;s how YOU can avoid!</title>
+        <desc>Personal experience and learning about the best way of leveraging the full potential of the AI Coding Tools for better efficiency, output and productivity.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/the-prompt-trick-that-actually-fixes-ai-hallucinations-in-code-edf9a6107dd3?sk=b3d4e46f04cb08efe7bd2bc236c4de68" TAGS="ai,code,dev">
+        <title>The Prompt Trick That Reduces AI Hallucinations in Code</title>
+        <desc>A simple prompt engineering technique that helps ChatGPT, Claude, and Gemini expose hidden assumptions before coding reducing costly AI mistakes and hallucinations.</desc>
+    </bookmark>
 </xbel>

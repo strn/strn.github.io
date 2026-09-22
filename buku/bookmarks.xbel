@@ -1362,4 +1362,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>The Prompt Trick That Reduces AI Hallucinations in Code</title>
         <desc>A simple prompt engineering technique that helps ChatGPT, Claude, and Gemini expose hidden assumptions before coding reducing costly AI mistakes and hallucinations.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/533e9386a633?sk=b69cf9d4efc61408ad5d0abb5468f854" TAGS="ai,dev,ollama">
+        <title>Ollama Alternatives in 2026: What to Move To, and What Breaks When You Do</title>
+        <desc>Ollama Alternatives in 2026: What to Move To, and What Breaks When You Do Your models port over untouched. Four settings do not, and none of them fail loudly. Read the article for free here. ollama &#8230;</desc>
+    </bookmark>
 </xbel>
