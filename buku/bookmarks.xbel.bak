@@ -1366,4 +1366,24 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Ollama Alternatives in 2026: What to Move To, and What Breaks When You Do</title>
         <desc>Ollama Alternatives in 2026: What to Move To, and What Breaks When You Do Your models port over untouched. Four settings do not, and none of them fail loudly. Read the article for free here. ollama &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/3f6a138ef117?sk=7b00fa2117bc5f076eb3167e22901b75" TAGS="ai,dev,rag">
+        <title>Modern RAG in 2026: The Components That Actually Matter</title>
+        <desc>Modern RAG in 2026: The Components That Actually Matter A production-first breakdown of the real RAG stack: ingestion, parsing, metadata, chunking, retrieval, reranking, citations, freshness, evals &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/data-science-collective/ai-assisted-coding-in-2026-is-a-skill-heres-how-to-actually-get-good-at-it-02c98eb77948?sk=f09f29be4575c6d465e3bb38b3d58db3" TAGS="ai,code,dev">
+        <title>AI-Assisted Coding in 2026 is a Skill. Here&#8217;s How to Actually Get Good at It.</title>
+        <desc>AI-Assisted Coding in 2026 is a Skill. Here&#8217;s How to Actually Get Good at It. The workflows that actually work, the risks people ignore, and how to build real skill with AI-assisted coding Not a &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/749a19532252?sk=7d6c9786d268ed87b00bdf5e3838dfc1" TAGS="ai,dev,rag">
+        <title>turbovec for RAG: A Practical Guide to Faster, Smaller Vector Search</title>
+        <desc>turbovec for RAG: A Practical Guide to Faster, Smaller Vector Search turbovec uses Google Research&#8217;s TurboQuant algorithm to compress RAG embeddings by 16&#215; and outperform FAISS on ARM by 12&#8211;20% &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://levelup.gitconnected.com/jev-clearly-explained-3203d6d48de3?sk=8c01893eaa14673c589e1c03f7ae766a" TAGS="ai,dev,jev">
+        <title>Jev Clearly Explained. Teaching a Model to Answer With a&#8230;</title>
+        <desc>&#8220;&#8221; is published by Fareed Khan in Level Up Coding.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@theexplainer/11-claude-code-techniques-that-will-completely-change-how-you-build-with-ai-f4ba70ba5e87?sk=56bd6978f6d37dda635361a6e706619c" TAGS="ai,claude,code,dev">
+        <title>11 Claude Code Techniques That Will Completely Change How You Build With AI</title>
+        <desc>11 Claude Code Techniques That Will Completely Change How You Build With AI From CLAUDE.md and Skills to sub-agents and context management, these are the workflows that take Claude Code beyond simple &#8230;</desc>
+    </bookmark>
 </xbel>
