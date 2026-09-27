@@ -1386,4 +1386,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>11 Claude Code Techniques That Will Completely Change How You Build With AI</title>
         <desc>11 Claude Code Techniques That Will Completely Change How You Build With AI From CLAUDE.md and Skills to sub-agents and context management, these are the workflows that take Claude Code beyond simple &#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://levelup.gitconnected.com/how-to-run-an-llm-locally-what-i-learned-after-trying-several-models-138a84c76b07" TAGS="ai,dev,llm">
+        <title>How to Run an LLM Locally: What I Learned After Trying Several Models - Freedium</title>
+        <desc>I have spent weekend running different LLMs locally on consumer hardware. Here&#8217;s what actually worked, what didn&#8217;t, and where local models&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://agentnativedev.medium.com/outperforming-claude-code-and-codex-for-local-llm-workflows-5de0e2b1add5?sk=717cd6edd59bc52e36cceb2a0732d2e0" TAGS="ai,claude,dev,llm">
+        <title>Outperforming Claude Code and Codex for Local LLM Workflows</title>
+        <desc>How about orchestrating a codebase on 5GB VRAM using a local Qwen3.5-35B-A3B (~25-30 tokens/sec through llama.cpp, 65k context, remaining layers offloaded to system RAM)? Even better, when two&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@anubhavgoyal101/eb7e72cbf91f?sk=cd5f7df9f98b1ff2c208279e20e68846" TAGS="ai,claude,code,dev">
+        <title>8 Essential Claude Code Skills You Need to Set Up in 2026</title>
+        <desc>The 8 custom skills that make Claude Code actually useful. How to create them, where to put them, and what each one should do.</desc>
+    </bookmark>
 </xbel>
