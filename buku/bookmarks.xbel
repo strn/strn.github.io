@@ -1398,4 +1398,48 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>8 Essential Claude Code Skills You Need to Set Up in 2026</title>
         <desc>The 8 custom skills that make Claude Code actually useful. How to create them, where to put them, and what each one should do.</desc>
     </bookmark>
+    <bookmark href="https://github.com/k2-fsa/OmniVoice" TAGS="ai,dev,llm,tts">
+        <title>High-Quality Voice Cloning TTS for 600+ Languages</title>
+        <desc>High-Quality Voice Cloning TTS for 600+ Languages. Contribute to k2-fsa/OmniVoice development by creating an account on GitHub.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/the-generalist-specialist/rag-vs-c-rag-stopping-ai-hallucinations-before-they-cost-you-c0dd62936bf4?sk=5ff8b9e919bbf2287e5eeebbba423ad7" TAGS="ai,dev,rag">
+        <title>RAG Vs C-RAG: Stopping AI Hallucinations Before They Cost You</title>
+        <desc>RAG Vs C-RAG: Stopping AI Hallucinations Before They Cost You How reranking, self&#8209;review, and automated fact&#8209;checks make RAG safe for engineering and compliance workflows If you don&#8217;t have &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://towardsdev.com/agentic-ai-coding-best-practices-in-2026-from-vibe-coding-to-real-engineering-fc3ca30d5884?sk=4696c569beadcf7be583485f66d0fbe7" TAGS="agentic,ai,dev">
+        <title>Agentic AI Coding Best Practices in 2026 &#8212; From Vibe Coding to Real Engineering</title>
+        <desc>Agentic AI Coding Best Practices in 2026 &#8212; From Vibe Coding to Real Engineering AI-generated code can look perfect and work great &#8212; until you need to change it six months later. That&#8217;s the real &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@UdaykiranEstari/claude-code-beginner-to-advanced-part-3-the-think-plan-execute-framework-48dc31659fc0?sk=cf3530a4e8b908234cade1da03e394f9" TAGS="ai,claude,code,dev">
+        <title>Claude Code&#8217;s Hidden Orchestration Stack: Think &#8594; Plan &#8594; Execute</title>
+        <desc>Claude Code&#8217;s Hidden Orchestration Stack: Think &#8594; Plan &#8594; Execute From reactive assistant to autonomous partner &#8212; the four-layer system that makes thinking, planning, and delegation compound &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://ai.plainenglish.io/how-i-actually-use-claude-code-as-a-senior-engineer-part-2-2d608537bcd3?sk=f2ed196db75adda8a663d93f2ff1cd41" TAGS="agentic,ai,claude,code,dev">
+        <title>How I Actually Use Claude Code as a Senior Engineer: Part 2</title>
+        <desc>How I Actually Use Claude Code as a Senior Engineer: Part 2 Fan out Agents, Real Scenarios for MCP, Mode Switching, Session Size Read this story for free here In the first part of this series, I &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://nexus-ai.aayushostwal.com/#install" TAGS="agentic,ai,ai agents,ai engineering,dev,developer platform,devops automation,mcp,multi-agent orchestration,nexus">
+        <title>Nexus | AI Agents Platform</title>
+        <desc>Nexus is a futuristic developer ecosystem to discover, orchestrate, and compose AI agents, skills, workflows, and automation pipelines.</desc>
+    </bookmark>
+    <bookmark href="https://ai.plainenglish.io/how-i-actually-use-claude-code-as-a-senior-engineer-ab58c81c5a0d?sk=cd6022d6db137b59cce6e773328d6621" TAGS="ai,claude,code,dev">
+        <title>How I Actually Use Claude Code as a Senior Engineer</title>
+        <desc>How I Actually Use Claude Code as a Senior Engineer Persistent memory, MCPs, project-scoped context, skills, and the workflows that genuinely save me time. Read this article for free here Read the &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@theipocmwanderer/b8984294a88e?sk=e1efc74868adf4b982c0fcc7e39faa93" TAGS="ai,claude,code,dev">
+        <title>Claude Code: The Ultimate Guide to Turning Your Terminal into a Superpower</title>
+        <desc>Claude Code: The Ultimate Guide to Turning Your Terminal into a Superpower Extend your IDE capabilities right inside your terminal Not a Medium Member? Read it for free here I built tools and &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-mcp-servers-every-local-ai-developer-should-install-3d80ddb24001" TAGS="ai,dev,mcp">
+        <title>10 MCP Servers Every Local AI Developer Should Install</title>
+        <desc>Connect your local AI to files, databases, Git, browsers, and more with these essential MCP servers.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/the-tech-trek-by-tech-chick/4f0670d39398?sk=bd27d76936c26baf56770dce08ed08d1" TAGS="ai,claude,code,dev">
+        <title>Claude Code Mastery: Most Developers Are Using Claude Code Wrong</title>
+        <desc>Claude Code Mastery: Most Developers Are Using Claude Code Wrong I thought Claude Code was a coding assistant. Then I discovered it was an entire engineering operating system! Not a Medium member? &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/codefarm-java-ecosystem/how-mcp-works-18a64f47d5ac?sk=6804b30f008107b83f564c087b1f2d36" TAGS="ai,dev,mcp">
+        <title>How MCP Works. The Protocol That Could Become the&#8230;</title>
+        <desc>How MCP Works The Protocol That Could Become the USB-C of AI Systems Over the past few years, Large Language Models have become remarkably capable. They can: write code analyze documents explain &#8230;</desc>
+    </bookmark>
 </xbel>
