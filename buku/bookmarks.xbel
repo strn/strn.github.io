@@ -1442,4 +1442,40 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>How MCP Works. The Protocol That Could Become the&#8230;</title>
         <desc>How MCP Works The Protocol That Could Become the USB-C of AI Systems Over the past few years, Large Language Models have become remarkably capable. They can: write code analyze documents explain &#8230;</desc>
     </bookmark>
+    <bookmark href="https://dailypythonpro.medium.com/9-built-in-python-modules-that-replace-pypi-dependencies-1fb50ca9718b?sk=7e832a1a276e3a4221da63c9ea1d06b9" TAGS="dev,python">
+        <title>9 Built-In Python Modules That Replace PyPI Dependencies</title>
+        <desc>9 Built-In Python Modules That Replace PyPI Dependencies How I shaved megabytes off my container images and simplified our codebase using Python&#8217;s underappreciated standard library. A few months &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/these-6-python-libraries-made-me-look-like-a-genius-559430f72d1e?sk=54dcff8b7ff9e56c5e003ae9c0858dbf" TAGS="dev,python">
+        <title>These 6 Python Libraries Made Me Look Like a Genius</title>
+        <desc>These 6 Python Libraries Made Me Look Like a Genius Automation Isn&#8217;t Cheating , It&#8217;s Just Smart Engineering &#8220;Want to get started with Python from beginning to Expert?&#8221; click &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-engineering-simplified/12-ai-terms-you-need-to-know-before-calling-yourself-an-ai-engineer-e8750c4f69d1" TAGS="ai,dev">
+        <title>12 AI Terms You Need to Know Before Calling Yourself an AI Engineer</title>
+        <desc>No jargon, no fluff. Just the words you&#8217;ll hear in every AI engineering interview and every PR review, explained the way I wish I&#8217;d first&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/towards-data-engineering/the-simplest-roadmap-to-learn-ai-by-the-end-of-2026-3c7b6d2c613e" TAGS="ai,dev">
+        <title>The Simplest Roadmap to Learn AI By the End of 2026</title>
+        <desc>Most people will spend the next 2 years consuming AI content. A small group will build with AI. That second group will quietly take the&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@umairali.khan/how-to-supercharge-claude-code-with-loops-ae148fdbb096?sk=2cefd99a905a8292920a5550d475f541" TAGS="ai,claude,dev">
+        <title>How to Get Great Results From Claude Code With Loop Engineering</title>
+        <desc>How to Get Great Results From Claude Code With Loop Engineering Move beyond step-by-step prompting and build workflows where Claude Code can code, test, fix, and verify with less manual &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@vndpal/10-ai-concepts-that-sound-hard-but-are-surprisingly-simple-d4e323464188?sk=ec391e53e40d557f360ee97a1d51b7ef" TAGS="ai,concepts,dev">
+        <title>10 AI Concepts That Sound Hard but Are Surprisingly Simple</title>
+        <desc>10 AI Concepts That Sound Hard but Are Surprisingly Simple You have heard these concepts a hundred times. Here is what they actually mean. I have been shipping LLM features for a while. But I still &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/create-your-first-agentic-ai-with-crewai-in-5-minutes-a-beginners-guide-6171c8186241?sk=653a67fdbe10032faaf28908f202dacd" TAGS="agentic,ai,dev,python">
+        <title>Create Your First Agentic AI with CrewAI in 5 Minutes: A Beginner&#8217;s Guide</title>
+        <desc>Create Your First Agentic AI with CrewAI in 5 Minutes: A Beginner&#8217;s Guide Discover how to build an agentic AI system in under 5 minutes using CrewAI. This beginner-friendly guide covers setting up &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://nitingavhane.medium.com/12-prompts-that-turn-vibe-code-into-production-code-because-44-of-ai-code-still-fails-security-938251513bf7" TAGS="ai,dev,prompt">
+        <title>12 prompts that turn vibe code into production code (because 44% of AI code still fails security&#8230;</title>
+        <desc>Hi everyone, I am Nitin Gavhane and In this blog I&#8217;m sharing the 12 prompts I use to clean up a vibe-coded app before it goes anywhere near&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-modern-cli-tools-you-should-try-in-2026-18ce4e16c28e" TAGS="dev,tools">
+        <title>10 Modern CLI Tools You Should Try in 2026</title>
+        <desc>As developers, we&#8217;re always looking for ways to make everyday work easier. CLI tools are a useful part of that, especially when you spend a&#8230;</desc>
+    </bookmark>
 </xbel>
