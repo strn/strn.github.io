@@ -1478,4 +1478,24 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>10 Modern CLI Tools You Should Try in 2026</title>
         <desc>As developers, we&#8217;re always looking for ways to make everyday work easier. CLI tools are a useful part of that, especially when you spend a&#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/codexa/12-python-libraries-that-quietly-replace-your-messy-helper-code-3596e36fe7f9?sk=31d6b22963d06d31f6bf4a1abce8293a" TAGS="code,dev,python">
+        <title>12 Python Libraries That Quietly Replace Your Messy Helper Code</title>
+        <desc>12 Python Libraries That Quietly Replace Your Messy Helper Code Every Python project grows a utils.py full of small, fragile helpers. The Complete Python Guide (free, no signup wall) Every core &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://ai.plainenglish.io/10-ai-tools-everyone-will-be-using-in-six-months-but-almost-nobodys-found-yet-735a5471ea22" TAGS="ai,dev,tools">
+        <title>10 AI Tools Everyone Will Be Using in Six Months, But Almost Nobody&#8217;s Found Yet</title>
+        <desc>You&#8217;re going to see these in someone&#8217;s toolkit next year and wonder why you didn&#8217;t hear about them first. Here&#8217;s your head start.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://generativeai.pub/8-new-ai-terms-you-should-know-to-be-ahead-of-90-of-people-b898cc0ebd1a" TAGS="ai,concepts,dev">
+        <title>8 New AI Terms You Should Know to Be Ahead of 90% of People</title>
+        <desc>A few more AI terms to know beyond tokens, prompts, and hallucinations.</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/12-python-libraries-developers-are-quietly-switching-to-in-2026-cfc4350f55ad?sk=51ae3553d5c06f76aeee1d013c76a847" TAGS="dev,python,tools">
+        <title>12 Python Libraries Developers Are Quietly Switching To In 2026</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Python in Plain English.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-mcp-servers-that-can-replace-entire-developer-tools-54dcf3147cfb" TAGS="ai,dev,mcp">
+        <title>10 MCP Servers That Can Replace Entire Developer Tools</title>
+        <desc>Why open another dashboard when your coding agent can do the work for you?</desc>
+    </bookmark>
 </xbel>
