@@ -1498,4 +1498,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>10 MCP Servers That Can Replace Entire Developer Tools</title>
         <desc>Why open another dashboard when your coding agent can do the work for you?</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-things-you-can-do-with-mcp-servers-56125d707c9e" TAGS="ai,dev,mcp">
+        <title>10 Things You Can Do With MCP Servers</title>
+        <desc>Things that you might not even know MCP can do.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-mcp-servers-you-probably-havent-tried-yet-798af99af106" TAGS="ai,dev,mcp">
+        <title>10 MCP Servers You Probably Haven&#8217;t Tried Yet</title>
+        <desc>I went beyond the usual MCP recommendations to find tools worth trying.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/f8970e37b97d?sk=2ab91d089db2d1809ab9d741f0294be5" TAGS="agentic,ai,dev">
+        <title>How to Write an AGENTS.md or CLAUDE.md That Actually Helps Your Coding Agent</title>
+        <desc>How to Write an AGENTS.md or CLAUDE.md That Actually Helps Your Coding Agent Most coding agents read a repo-level Markdown file before they start working. When that file is too long, vague, or &#8230;</desc>
+    </bookmark>
 </xbel>
