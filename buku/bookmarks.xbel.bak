@@ -1510,4 +1510,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>How to Write an AGENTS.md or CLAUDE.md That Actually Helps Your Coding Agent</title>
         <desc>How to Write an AGENTS.md or CLAUDE.md That Actually Helps Your Coding Agent Most coding agents read a repo-level Markdown file before they start working. When that file is too long, vague, or &#8230;</desc>
     </bookmark>
+    <bookmark href="https://huggingface.co/datalab-to/indra-ocr" TAGS="ai,dev,ocr">
+        <title>datalab-to/indra-ocr &#183; Hugging Face</title>
+        <desc>We&#8217;re on a journey to advance and democratize artificial intelligence through open source and open science.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-mcp-servers-that-show-what-mcp-can-really-do-73dcc877852a" TAGS="ai,dev,mcp">
+        <title>10 MCP Servers That Show What MCP Can Really Do</title>
+        <desc>I found 10 MCP servers that take AI far beyond coding and chat.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-hidden-mcp-servers-that-are-actually-useful-710762bbf858" TAGS="ai,dev,mcp">
+        <title>10 Hidden MCP Servers That Are Actually Useful</title>
+        <desc>If you search for the best MCP servers, you will probably see the same names over and over again.</desc>
+    </bookmark>
 </xbel>
