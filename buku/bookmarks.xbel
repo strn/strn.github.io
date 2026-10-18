@@ -1526,4 +1526,48 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>10 Python Libraries That Turn Raw Business Data Into Instant Websites, Maps, And Reports</title>
         <desc>10 Python Libraries That Turn Raw Business Data Into Instant Websites, Maps, And Reports No accounts, no API keys, no waiting on anyone&#8217;s approval. Every single one of these runs the moment you hit &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/why-is-everyone-talking-about-jev-is-this-the-next-competitor-to-llms-f82617d023be?sk=d4d8a0cc805c1da3972940c4bec357a4" TAGS="ai,dev,jev">
+        <title>Why Is Everyone Talking About Jev? Is This the Next Competitor to LLMs?</title>
+        <desc>Why Is Everyone Talking About Jev? Is This the Next Competitor to LLMs? What If the Most Useful AI Model Doesn&#8217;t Generate Text? free Jev is taking a different path from ChatGPT-style AI: instead of &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/10-github-repositories-that-will-make-you-dangerous-at-ai-agents-ff6e1b70e36a?sk=2872a79af74344a98c40d590dc54bab7" TAGS="agentic,ai,dev">
+        <title>10 GitHub Repositories That Will Make You Dangerous at AI Agents</title>
+        <desc>10 GitHub Repositories That Will Make You Dangerous at AI Agents Courses, runnable projects, agent tutorials and production playbooks, all open source and free There&#8217;s a version of learning AI &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://liu-111.medium.com/top-10-pre-commit-hooks-every-repository-should-have-70abfc7e874e" TAGS="dev,git">
+        <title>Top 10 Pre-Commit Hooks Every Repository Should Have</title>
+        <desc>Hi everyone, welcome back. Today, I will be going over ten pre-commit hooks &#8212; checks that run automatically before a commit lands, catching&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@linuxcertguru/7-ai-powered-cli-tools-to-supercharge-your-linux-terminal-in-2026-13fb494f8734" TAGS="ai,cli,dev">
+        <title>7 AI-Powered CLI Tools to Supercharge Your Linux Terminal in 2026</title>
+        <desc>7 AI-Powered CLI Tools to Supercharge Your Linux Terminal in 2026 AI in 2026 is not just for chatbots and image generation. It has become a practical productivity tool for developers, sysadmins, and &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/12-python-libraries-that-quietly-run-production-systems-that-most-tutorials-never-mention-f6a550a7e48e?sk=3e6618bf2efb708d6833408e33895f01" TAGS="dev,python">
+        <title>12 Python Libraries That Quietly Run Production Systems (That Most Tutorials Never Mention)</title>
+        <desc>12 Python Libraries That Quietly Run Production Systems (That Most Tutorials Never Mention) Every one of these solves a real problem companies pay engineers to solve. Every code block below is &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://ai.plainenglish.io/one-small-text-file-got-91-000-github-stars-heres-why-it-made-me-rethink-how-i-use-ai-9c0f73a73f16?sk=cd49aa19b4fa7f0113c2bebd69b33dc4" TAGS="ai,claude,dev">
+        <title>One Small Text File Got 91,000 GitHub Stars. Here&#8217;s Why It Made Me Rethink How I Use AI</title>
+        <desc>One Small Text File Got 91,000 GitHub Stars. Here&#8217;s Why It Made Me Rethink How I Use AI No code. No app. No fancy tools. Just four simple rules in a plain text file, and they showed me what most of &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/codetodeploy/i-kept-delaying-learning-ai-until-i-built-a-chatbot-for-free-in-my-terminal-579b7a609efa?sk=33bc1a0c92f0942a213550a8f7ccf07b" TAGS="agentic,ai,dev">
+        <title>&#128640; I Kept Delaying Learning AI&#8230; Until I Built a Chatbot for FREE in My Terminal</title>
+        <desc>&#128640; I Kept Delaying Learning AI&#8230; Until I Built a Chatbot for FREE in My Terminal For the longest time, I kept telling myself: &#8220;I&#8217;ll start learning AI properly&#8230; once I buy an API key.&#8221; And &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/algomart/9-python-engineering-tools-that-help-you-build-faster-safer-and-more-reliable-software-0373119e9111" TAGS="code,dev,python">
+        <title>9 Python Engineering Tools That Help You Build Faster, Safer, and More Reliable Software</title>
+        <desc>Python makes it easy to get started. A few lines of code can automate a repetitive task, process thousands of records, or power an API.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-ai-developer-tools-you-probably-havent-heard-of-yet-5c4986efa7aa" TAGS="ai,dev,python,tools">
+        <title>10 AI Developer Tools You Probably Haven&#8217;t Heard Of Yet</title>
+        <desc>10 lesser-known tools that can make coding, AI agents, testing, automation, and developer workflows a lot easier.</desc>
+    </bookmark>
+    <bookmark href="https://ramakrishna-01.medium.com/oauth-2-0-explained-like-im-mentoring-a-junior-developer-like-you-part-1-0f0645c3e566?sk=7765931e2c2fd8b79a9f9ae02edf41b2" TAGS="dev,oauth">
+        <title>OAuth 2.0 Explained Like I&#8217;m Mentoring a Junior Developer Like You: Part 1</title>
+        <desc>OAuth 2.0 Explained Like I&#8217;m Mentoring a Junior Developer Like You: Part 1 The Guide I Wish Someone Had Given Me When I Started Backend Development If you are not a medium member, then click here &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@itaispector1/stop-using-claude-code-without-ponytail-it-beats-karpathys-famous-4-line-claude-md-dcdcde6a02e1" TAGS="ai,claude,code,dev">
+        <title>Stop Using Claude Code Without Ponytail (It Beats Karpathy&#8217;s Famous 4 Line CLAUDE.md)</title>
+        <desc>A 100 line prompt got 157,000 GitHub stars, got debunked by a CTO with seven words, rebuilt its own benchmark, and then passed an&#8230;</desc>
+    </bookmark>
 </xbel>
