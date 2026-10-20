@@ -1593,4 +1593,28 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>5 MCP Servers I Would Install Before Building an AI Agent</title>
         <desc>These five MCP servers can give your AI agents some seriously useful abilities.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@techlatest.net/20-things-you-can-automate-with-hermes-agent-a-complete-guide-to-tools-integrations-and-e274ae52f3ec" TAGS="agentic,ai,dev,hermes">
+        <title>20 Things You Can Automate with Hermes Agent: A Complete Guide to Tools, Integrations, and Real-World Workflows</title>
+        <desc>&#8220;&#8221; is published by Parvez Mohammed @ Techlatest.net.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/beyond-localhost/10-ai-developer-tools-you-should-try-before-everyone-else-does-a10530d814ce?sk=35e78bcaf4d8056089a1b3fa7c616d3d" TAGS="ai,dev,tools">
+        <title>10 AI Developer Tools You Should Try Before Everyone Else Does</title>
+        <desc>10 AI Developer Tools You Should Try Before Everyone Else Does Every few months, a new AI tool quietly changes how developers work. Someone shares a GitHub repository. A developer posts a demo on X &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@huzaifameh1925/5-mcp-servers-that-give-claude-its-own-workspace-a26c038524ea" TAGS="ai,claude,dev,mcp">
+        <title>5 MCP Servers That Give Claude Its Own Workspace</title>
+        <desc>An inbox, a computer, a browser, a notebook and a desk. Not yours, instead its own.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/cross-commit/12-github-repos-going-viral-this-week-that-are-actually-worth-installing-801abf9e0d6d" TAGS="ai,dev,github">
+        <title>12 GitHub Repos Going Viral This Week That Are Actually Worth Installing</title>
+        <desc>This week&#8217;s GitHub Trending is mostly built for AI agents. Here are the twelve repos worth your time, what each one does, and the command&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@sandunlakshan213/10-modern-cli-tools-worth-adding-to-your-workflow-c3eb2c19f4a1" TAGS="cli,dev">
+        <title>10 Modern CLI Tools Worth Adding to Your Workflow</title>
+        <desc>The best CLI tools aren&#8217;t just about adding more commands to your terminal. They&#8217;re about making your everyday tasks faster, cutting out&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://github.com/Ansub/tv-detox" TAGS="ai,claude,dev,github">
+        <title>GitHub - Ansub/tv-detox: Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up &#183; GitHub</title>
+        <desc>Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up - Ansub/tv-detox</desc>
+    </bookmark>
 </xbel>

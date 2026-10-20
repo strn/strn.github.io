@@ -1570,4 +1570,27 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Stop Using Claude Code Without Ponytail (It Beats Karpathy&#8217;s Famous 4 Line CLAUDE.md)</title>
         <desc>A 100 line prompt got 157,000 GitHub stars, got debunked by a CTO with seven words, rebuilt its own benchmark, and then passed an&#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-hidden-mcp-servers-that-are-actually-worth-using-e79a5325971b" TAGS="ai,dev,mcp">
+        <title>10 Hidden MCP Servers That Are Actually Worth Using</title>
+        <desc>10 underrated MCP servers that make AI agents more useful.</desc>
+    </bookmark>
+    <bookmark href="https://towardsdev.com/5-open-source-self-hosted-ai-assistants-you-can-run-to-automate-your-developer-workday-38acc747a23b?sk=48d84dfe58353e68f55321121439d0f7" TAGS="agentic,ai,dev">
+        <title>5 Open-Source, Self-Hosted AI Assistants You Can Run to Automate Your Developer Workday</title>
+        <desc>5 Open-Source, Self-Hosted AI Assistants You Can Run to Automate Your Developer Workday From a morning pull request digest to refactors that run while you do something else, here are five assistants &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://liu-111.medium.com/top-10-diagramming-tools-for-developers-79eb947d11f0" TAGS="dev">
+        <title>Top 10 Diagramming Tools for Developers</title>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-underrated-mcp-servers-developers-should-know-c7fb316c5a86" TAGS="ai,dev,mcp">
+        <title>10 Underrated MCP Servers Developers Should Know</title>
+        <desc>These MCP servers can help your AI agent understand code, test APIs, debug builds, and do much more than just write code.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://kgabeci.medium.com/10-free-ai-tools-that-are-genuinely-better-than-the-paid-ones-65e0d7794c29" TAGS="ai,dev,tools">
+        <title>10 Free AI Tools That Are Genuinely Better Than the Paid Ones</title>
+        <desc>I pay for several AI tools. Some of them are worth it. Some of them have free alternatives that are honestly better.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/5-mcp-servers-i-would-install-before-building-an-ai-agent-500d05248563" TAGS="ai,dev,mcp">
+        <title>5 MCP Servers I Would Install Before Building an AI Agent</title>
+        <desc>These five MCP servers can give your AI agents some seriously useful abilities.</desc>
+    </bookmark>
 </xbel>
