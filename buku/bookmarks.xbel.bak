@@ -1617,4 +1617,36 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>GitHub - Ansub/tv-detox: Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up &#183; GitHub</title>
         <desc>Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up - Ansub/tv-detox</desc>
     </bookmark>
+    <bookmark href="https://levelup.gitconnected.com/building-dynamic-workflows-a-new-agentic-system-d304abd20dd0?sk=838a695e36e1db3bdff9ec91627c015c" TAGS="agentic,ai,dev">
+        <title>Building Dynamic Workflows: A New Agentic System</title>
+        <desc>&#8220;&#8221; is published by Fareed Khan in Level Up Coding.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@CodeWithYog/f711552157c8?sk=8d218f1e18758c12ad52ae21d7bd0fab" TAGS="agentic,ai,dev">
+        <title>Spec-Driven Development With Coding Agents: The Workflow I Wish I Had Earlier</title>
+        <desc>Spec-Driven Development With Coding Agents: The Workflow I Wish I Had Earlier AI can write code fast. The harder job is keeping the project consistent after the tenth prompt, the next feature, and &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-things-you-should-never-do-with-ai-agents-2730c6152d18" TAGS="agentic,ai,dev">
+        <title>10 Things You Should Never Do With AI Agents</title>
+        <desc>Simple security rules every developer should know before giving AI agents access to their files, tools, and accounts.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@cdcore/you-can-make-any-model-jev-but-theres-a-catch-5c5534ea88c1" TAGS="ai,dev,jev">
+        <title>You Can Make Any Model Jev, But There&#8217;s a Catch</title>
+        <desc>I thought the first example would be easy. I asked a local model about releasing research code and data, got an almost-certain answer, and&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@huzaifameh1925/5-free-github-repos-that-make-your-ai-coding-agent-write-better-code-7ae1b49ce367?sk=d70d1b1ee625e9fdbcccaddff58cb0a9" TAGS="ai,code,dev">
+        <title>5 Free GitHub Repos That Make Your AI Coding Agent Write Better Code</title>
+        <desc>5 Free GitHub Repos That Make Your AI Coding Agent Write Better Code Ask an AI coding agent for a date picker and you often get a new dependency, a wrapper component, and a config file nobody asked &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://ai.plainenglish.io/10-hidden-ai-tools-youll-wish-you-knew-about-sooner-42c1dc5258f8?sk=e117efbb2711d0482637c50ff4ed2a04" TAGS="ai,dev,tools">
+        <title>10 Hidden AI Tools You&#8217;ll Wish You Knew About Sooner</title>
+        <desc>10 Hidden AI Tools You&#8217;ll Wish You Knew About Sooner Real use cases, honest limits, and exactly what is free and what costs money READ HERE FOR FREE :- FRIENDS LINK For a long time, my approach to &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@itaispector1/free-jev-alternatives-the-best-one-isnt-the-one-with-25-000-github-stars-d99738cea681" TAGS="ai,dev,jev">
+        <title>Free Jev Alternatives: The Best One Isn&#8217;t the One With 25,000 GitHub Stars </title>
+        <desc>TypeSafe&#8217;s Jev is closed and hosted, so the open clones arrived within a day. I lined up every free option I could verify against the same&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://levelup.gitconnected.com/i-barely-read-my-ais-code-anymore-here-s-what-i-check-instead-d0ca8e4573af" TAGS="ai,dev">
+        <title>I Barely Read My AI&#8217;s Code Anymore. Here&#8217;s What I Check Instead &#129429;</title>
+        <desc>One AI rewrite ran 150 times faster on one test and lost 99% of its messages on another. After 24 years in software, here is where my&#8230;</desc>
+    </bookmark>
 </xbel>
