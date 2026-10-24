@@ -1649,4 +1649,28 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>I Barely Read My AI&#8217;s Code Anymore. Here&#8217;s What I Check Instead &#129429;</title>
         <desc>One AI rewrite ran 150 times faster on one test and lost 99% of its messages on another. After 24 years in software, here is where my&#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-free-ai-tools-that-replace-paid-ones-99543309621a" TAGS="ai,dev,tools">
+        <title>10 Free AI Tools That Replace Paid Ones</title>
+        <desc>Powerful free alternatives to save money on your favorite AI tools.</desc>
+    </bookmark>
+    <bookmark href="https://javascript.plainenglish.io/building-ai-powered-web-apps-using-javascript-no-backend-needed-868b72a0afdf?sk=08a94ebc5467b5f664407d94d65b414d" TAGS="ai,dev,javascript,web">
+        <title>Building AI-Powered Web Apps Using JavaScript</title>
+        <desc>Building AI-Powered Web Apps Using JavaScript in 2026</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/9-python-libraries-that-do-the-hard-part-for-you-21f18be6cc4f?sk=74d492168297aba5b5618872be76b0d3" TAGS="dev,python,tools">
+        <title>9 Python Libraries That Do the Hard Part for You</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/codexa/10-python-libraries-that-make-hard-problems-feel-easy-fb037d9ad8bb?sk=cc661cf371c8d1bad11b0ad257c0dcbb" TAGS="code,dev,python">
+        <title>10 Python Libraries That Make Hard Problems Feel Easy</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Codexa.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://blog.stackademic.com/9-tiny-python-libraries-that-replace-your-longest-helper-functions-341327ba0516#4-python-slugify-replaces-slug-rules" TAGS="dev,python,tools">
+        <title>9 Tiny Python Libraries That Replace Your Longest Helper Functions</title>
+        <desc>Keep the behavior. Stop maintaining the plumbing.</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/10-python-libraries-nobody-puts-on-lists-cfa69ff46a00?sk=d2c731ea20b3d7085ed6dcadb75d47e0" TAGS="dev,python">
+        <title>10 Python Libraries Nobody Puts on Lists</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Python in Plain English.</desc>
+    </bookmark>
 </xbel>
