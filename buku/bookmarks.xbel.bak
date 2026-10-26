@@ -1673,4 +1673,92 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>10 Python Libraries Nobody Puts on Lists</title>
         <desc>&#8220;&#8221; is published by Abdul Ahad in Python in Plain English.</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/the-tech-trek-by-tech-chick/harness-engineering-building-reliable-ai-agents-part-2-191bb181fa04" TAGS="agentic,ai,dev">
+        <title>Harness Engineering: Building Reliable AI Agents &#8212; Part 2</title>
+        <desc>How context management, guardrails, verification, and recovery turn a working AI agent into one you can actually trust.</desc>
+    </bookmark>
+    <bookmark href="https://ai.plainenglish.io/20-agentic-engineering-concepts-every-ai-engineer-should-know-83c46b6788b9?sk=4b33cf786a2011718ec12e04437c5ef4" TAGS="agentic,ai,dev">
+        <title>20 Agentic Engineering Concepts Every AI Engineer Should Know</title>
+        <desc>20 Agentic Engineering Concepts Every AI Engineer Should Know A working glossary for engineers tired of building agents they don&#8217;t fully understand The first thing I shipped and called an &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/codefarm-java-ecosystem/how-to-design-an-ai-agent-2e20eb234802?sk=ba6cece23307a99e6fad2e54f66783de" TAGS="agentic,ai,dev">
+        <title>How to Design an AI Agent. Why Building a Reliable Agent Is Harder Than Building an Intelligent One</title>
+        <desc>How to Design an AI Agent Why Building a Reliable Agent Is Harder Than Building an Intelligent One The AI industry spends a lot of time talking about intelligence. We discuss: larger models better &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/702bf16dd085?sk=46af89a9d068e065f1aa29162d03ce95" TAGS="ai,dev,rag">
+        <title>RAG + Google OKF: Building a Trustworthy Knowledge Layer for AI Agents</title>
+        <desc>RAG + Google OKF: Building a Trustworthy Knowledge Layer for AI Agents Vector search can retrieve the right document and still leave an agent with conflicting answers. Here is how RAG, Open Knowledge &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gopi_ck/c3866a4a9d53?sk=52f9f81ba238c5e1834c0d9ce7f0065d" TAGS="agentic,ai,concepts,dev">
+        <title>7 AI Agent Architectures Every Developer Should Understand in 2026</title>
+        <desc>Learn 7 AI agent architectures shaping 2026, including tool calling, planning, memory, multi-agent systems, human approval, sandboxing, and evaluation.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gopi_ck/4e69a1718cbf?sk=df6eb7c9930ccefb5e880ae277d8a8f7" TAGS="concepts,dev">
+        <title>Stop Following Tutorials: Build These 5 Backend Projects Instead</title>
+        <desc>Build 5 practical backend projects to master REST APIs, database transactions, caching, message queues, authorization, and production-ready system design.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/using-ai-well-is-a-skill-10-habits-built-mine-61389decaeb6?sk=1cec62ecc91403b001ed56bdb57aa668" TAGS="agentic,ai,code,dev">
+        <title>AI Coding Habits: 10 Rules I Follow With Agents</title>
+        <desc>Learn 10 practical AI coding habits for better planning, documentation, testing, and safer deployments with coding agents. From my personal experience.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-claude-code-features-most-developers-ignore-31e90cc9cfd2" TAGS="ai,claude,dev">
+        <title>10 Claude Code Features Most Developers Ignore</title>
+        <desc>10 powerful Claude Code features that can transform how you build, test, and manage code.</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/7-authentication-architectures-every-developer-must-know-effd154d3310?sk=664d20e0cd4832a77514553805f9ef16" TAGS="auth,dev">
+        <title>7 Authentication Architectures Every Developer Must Know</title>
+        <desc>OAUTH &#8226; JWT &#8226; OIDC &#8226; SAML &#8226; SSO &#8226; RBAC &#8226; MFA 7 Authentication Architectures Every Developer Must Know Understand how modern authentication systems fit together. I&#8217;ve watched developers &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://www.designsystemscollective.com/how-to-build-a-design-system-in-a-weekend-for-solo-devs-and-small-teams-4e82838742ce" TAGS="css,design,dev">
+        <title>How to Build a Design System in a Weekend (For Solo Devs and Small Teams)</title>
+        <desc>You don&#8217;t need a team of 20 or a six-month roadmap. You need one focused weekend and a CSS file.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/the-agent-harness-why-a-better-model-wont-fix-your-production-agent-58e50e272e5c?sk=3a7bd049aa5c1c70a06f0d0844293969" TAGS="agentic,ai,dev,harness">
+        <title>The Agent Harness: Why a Better Model Won&#8217;t Fix Your Production Agent</title>
+        <desc>The Agent Harness: Why a Better Model Won&#8217;t Fix Your Production Agent When an agent works in the demo but fails in production, a stronger model rarely fixes it, because the gap is almost never the &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@theipocmwanderer/6877fac886a7?sk=da85b56f503724a4a84a0dcba50449f2" TAGS="agentic,ai,dev,harness">
+        <title>Harness Engineering: Building Reliable AI Agents &#8212; Part 1</title>
+        <desc>Harness Engineering: Building Reliable AI Agents &#8212; Part 1 What harness engineering is all about and how execution loops, tools, and feedback turn a language model into an agent that actually gets &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@theipocmwanderer/a1b67b564912?sk=b077c06f69706e70c43fd641a562b44e" TAGS="agentic,ai,dev,harness">
+        <title>Harness Engineering: Building Reliable AI Agents &#8212; Part 3</title>
+        <desc>Harness Engineering: Building Reliable AI Agents &#8212; Part 3 How tracing, observability, and evaluations help you understand failures and build more reliable AI agents. Not a Medium member? Read it &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/codetodeploy/llms-can-reason-jev-can-decide-heres-how-to-build-better-ai-agents-9a25cac7dc40?sk=09f9195045e7fe7456c324ee627d30b7" TAGS="agentic,ai,dev,jev">
+        <title>LLMs Can Reason. Jev Can Decide. Here&#8217;s How to Build Better AI Agents.</title>
+        <desc>LLMs Can Reason. Jev Can Decide. Here&#8217;s How to Build Better AI Agents. Building a production-oriented AI support system with Jev, TypeScript, structured decisions, and deterministic workflow &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://codefarm0.medium.com/tokens-embeddings-and-tokenization-explained-dfdfcfd4eada?sk=07f20197c850d9562c792268150762a9" TAGS="ai,concepts,dev">
+        <title>Tokens, Embeddings, and Tokenization Explained</title>
+        <desc>Tokens, Embeddings, and Tokenization Explained The Foundation Every AI Engineer Must Understand Most developers start learning AI from the wrong layer. They jump directly into: ChatGPT APIs RAG &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/b927a6a39484?sk=43143c09dc6865a19ee5a79ace566cb9" TAGS="ai,dev,tools">
+        <title>We Can&#8217;t Improve an Agent If We Can&#8217;t See It: Evaluation and Observability with Phoenix</title>
+        <desc>We Can&#8217;t Improve an Agent If We Can&#8217;t See It: Evaluation and Observability with Phoenix We shipped the agent, changed a prompt, swapped a model and had no idea whether it got better or worse &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://blog.gopenai.com/mcp-protocol-explained-the-new-standard-every-ai-developer-needs-to-know-0e3e56aee2aa?sk=61db799fcd99464a72a567bccc503158" TAGS="ai,dev,mcp">
+        <title>MCP Protocol Explained: The New Standard Every AI Developer Needs to Know | by Sai Bhargav Rallapalli | GoPenAI</title>
+        <desc>MCP Protocol Explained: The New Standard Every AI Developer Needs to Know Series: Agentic AI &#8212; From Zero to Production | Post #4 Today happens to be a good day to publish this post &#8212; MCP&#8217;s &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://itnext.io/from-prompts-to-loops-building-autonomous-coding-agents-6135bf880415?sk=2610501d2bf5f725166a09b39ec37534" TAGS="agentic,ai,dev">
+        <title>Loop Engineering: Building Autonomous AI Agents</title>
+        <desc>Learn how /loop and /goal let Claude Code and Codex run autonomously &#8212; plus the best practices for writing goals that don&#x27;t burn your AI budget.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://niravshah2705.medium.com/building-a-self-updating-knowledge-graph-for-ai-coding-agents-049e889fcdcc" TAGS="agentic,ai,code,dev">
+        <title>Building a Self-Updating Knowledge Graph for AI Coding Agents</title>
+        <desc>Modern developers working with Large Language Models (LLMs) on extensive codebases often encounter a significant bottleneck: context&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@developerawam/ai-tokens-how-they-work-how-to-count-them-and-how-to-stop-wasting-them-97d1bd2fc2a8?sk=27f89c10285bb15c8e31bd524793de7b" TAGS="ai,dev,tokens">
+        <title>AI Tokens: How They Work, How to Count Them, and How to Stop Wasting Them</title>
+        <desc>AI Tokens: How They Work, How to Count Them, and How to Stop Wasting Them You&#8217;ve been using ChatGPT or Claude almost every day. But have you ever stopped to wonder &#8212; why does AI sometimes seem to &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@manish434k/e1e2d7829ae8?sk=428cf330d2c61beb830c10d2991d0817" TAGS="ai,dev,vscode">
+        <title>10 Practical Ways to Use AI Chat in VS Code Like a Pro</title>
+        <desc>Discover 10 beginner-friendly VS Code AI Chat tips to write better prompts, understand code, fix errors, create tests, use terminal commands, and code more efficiently.</desc>
+    </bookmark>
+    <bookmark href="https://codefarm0.medium.com/mcp-vs-rest-api-vs-cli-what-should-ai-agents-actually-use-1b4e2b3c5df9?sk=48a8e4bd6aeaae01d1cbb2026bdcf947" TAGS="agentic,ai,dev,mcp">
+        <title>MCP vs REST API vs CLI: What Should AI Agents Actually Use?</title>
+        <desc>MCP vs REST API vs CLI: What Should AI Agents Actually Use? MCP Is Growing Fast. That Doesn&#8217;t Mean Every API Needs an MCP Server. Over the last year, MCP has become almost impossible to avoid if &#8230;</desc>
+    </bookmark>
 </xbel>
