@@ -1761,4 +1761,12 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>MCP vs REST API vs CLI: What Should AI Agents Actually Use?</title>
         <desc>MCP vs REST API vs CLI: What Should AI Agents Actually Use? MCP Is Growing Fast. That Doesn&#8217;t Mean Every API Needs an MCP Server. Over the last year, MCP has become almost impossible to avoid if &#8230;</desc>
     </bookmark>
+    <bookmark href="https://ai.plainenglish.io/10-ai-infrastructure-patterns-every-ai-engineer-should-know-338bc6fce144?sk=66154789b7cb61f966ecbe0fa9056d36" TAGS="ai,concepts,dev">
+        <title>10 AI Infrastructure Patterns Every AI Engineer Should Know</title>
+        <desc>10 AI Infrastructure Patterns Every AI Engineer Should Know From model routing to LLM evaluation, these patterns power reliable, scalable, and production-ready AI applications. Everyone talks about &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-engineering-simplified/8-ai-engineering-interview-questions-that-separate-juniors-from-seniors-01d4b4d8094d" TAGS="ai,dev">
+        <title>8 AI Engineering Interview Questions That Separate Juniors From Seniors</title>
+        <desc>The same eight questions show up in almost every AI engineering interview. Here is what a junior answer sounds like, what a senior answer&#8230;</desc>
+    </bookmark>
 </xbel>
