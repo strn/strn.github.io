@@ -1769,4 +1769,16 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>8 AI Engineering Interview Questions That Separate Juniors From Seniors</title>
         <desc>The same eight questions show up in almost every AI engineering interview. Here is what a junior answer sounds like, what a senior answer&#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-decode/10-ai-coding-agents-you-probably-havent-heard-of-e4987155cf62" TAGS="agentic,ai,dev">
+        <title>10 AI Coding Agents You Probably Haven&#8217;t Heard Of</title>
+        <desc>10 lesser-known coding agents that can fix bugs, tackle big projects, and do more than autocomplete code.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-tools-that-catch-ai-coding-mistakes-before-you-do-67f2b18a130a" TAGS="ai,code,dev">
+        <title>10 Tools That Catch AI Coding Mistakes Before You Do</title>
+        <desc>10 tools that catch bugs, security risks, and hidden flaws in AI-generated code before they become real problems.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-underrated-open-source-ai-tools-worth-trying-7d8ccd1ea308" TAGS="ai,dev,tools">
+        <title>10 Underrated Open-Source AI Tools Worth Trying</title>
+        <desc>10 hidden AI gems that can do way more than you think.</desc>
+    </bookmark>
 </xbel>
