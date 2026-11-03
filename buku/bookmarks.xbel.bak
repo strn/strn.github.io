@@ -1788,4 +1788,24 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>12 Open-Source Tools That Can Make Developers More Productive in 2027</title>
         <desc>Some of the most useful tools in software development don&#8217;t require another monthly subscription. Here are 12 open-source projects worth&#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@rumeshprasanga66/12-ai-prompts-that-can-change-the-way-you-build-software-2027-8906fa5a7191" TAGS="ai,dev,prompt">
+        <title>12 AI Prompts That Can Change the Way You Build Software (2027)</title>
+        <desc>Let me ask you something.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-new-mcp-projects-you-probably-havent-heard-about-7d44f24e2771" TAGS="ai,dev,mcp">
+        <title>10 New MCP Projects You Probably Haven&#8217;t Heard About - Freedium</title>
+        <desc>These MCP projects let AI agents remember previous work, control real devices, generate music, edit videos, understand codebases, and even&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-engineering-simplified/did-ibm-just-kill-rag-the-answer-will-surprise-you-0c6101f70ee0" TAGS="ai,dev,rag">
+        <title>Did IBM Just Kill RAG? The Answer Will Surprise You - Freedium</title>
+        <desc>The viral claim doesn&#8217;t hold up. The problem behind it does, and it&#8217;s probably in your pipeline right now.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/15-python-libraries-that-quietly-fix-dates-text-caches-and-diffs-25551d52a6c4?sk=1ce11b14129ab85c4a8883dd4b4cbf08" TAGS="dev,python">
+        <title>15 Python Libraries That Quietly Fix Dates, Text, Caches and Diffs</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/front-end-world/build-your-own-mcp-server-from-scratch-22a5554ac4db?sk=672677619b5ab262d6b5f9e07aff9601" TAGS="ai,dev,mcp">
+        <title>Build Your Own MCP Server From Scratch</title>
+        <desc>Build Your Own MCP Server From Scratch The Missing Layer Between LLMs and Real Systems Learn how to build a production-style MCP (Model Context Protocol) server using Node.js, TypeScript, JSON-RPC &#8230;</desc>
+    </bookmark>
 </xbel>
