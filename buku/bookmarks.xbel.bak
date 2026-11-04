@@ -1808,4 +1808,12 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Build Your Own MCP Server From Scratch</title>
         <desc>Build Your Own MCP Server From Scratch The Missing Layer Between LLMs and Real Systems Learn how to build a production-style MCP (Model Context Protocol) server using Node.js, TypeScript, JSON-RPC &#8230;</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/data-science-collective/a-blueprint-for-agentic-coding-tools-c1e0e2ed797b" TAGS="agentic,ai,dev,tools">
+        <title>A Blueprint for Agentic Coding Tools - Freedium</title>
+        <desc>The basics like permissions &amp; sandboxing, AGENTS.md, rules, docs, memory, planning, subagents &amp; skills</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@pankaj_pandey/f60fe7d434fd?sk=c541271526b074febf6872a8d59b62d8" TAGS="agentic,ai,dev,security">
+        <title>AI Agent Security in 2026</title>
+        <desc>AI agent security is moving beyond prompt safety into tools, code access, context exposure, MCP permissions, approvals and audit logs.</desc>
+    </bookmark>
 </xbel>
