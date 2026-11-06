@@ -1824,4 +1824,20 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Why You Should Delete 90% of Your Claude Code Skills Today</title>
         <desc>I uninstalled 17 Claude Code skills and my productivity skyrocketed. Here&#x27;s exactly how to optimize your AI developer workflows today.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/f21a7fb3fa65?sk=a4deffd5ac0a16ec826cf5a97def1225" TAGS="ai,dev,python,rag">
+        <title>10 DATA CHUNKING Technique To Flawlessly Feed Massive Documents Into AI Pipelines</title>
+        <desc>&#8220;&#8221; is published by Rohan Dutt.</desc>
+    </bookmark>
+    <bookmark href="https://codefarm0.medium.com/rag-system-design-interview-the-questions-behind-the-diagram-097467725826?sk=ac39fe759feed9088f47d9c5c2108839" TAGS="ai,dev,rag">
+        <title>RAG System Design Interview: The Questions Behind the Diagram</title>
+        <desc>RAG System Design Interview: The Questions Behind the Diagram Anyone can draw &#8220;documents &#8594; embeddings &#8594; vector DB &#8594; LLM.&#8221; Here&#8217;s what interviewers ask next. Retrieval-augmented generation &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://www.towardsdeeplearning.com/7-best-local-llms-for-coding-in-2026-honest-comparison-58b19b5cd078" TAGS="ai,dev,llm">
+        <title>7 Best Local LLMs for Coding in 2026 (Honest Comparison) - Freedium</title>
+        <desc>An honest comparison of the best local coding AI models to help you choose the right one for your workflow in 2026.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@JustSnehal/10-insanely-powerful-ai-tools-you-didnt-know-you-needed-all-100-free-d6bed64eded2" TAGS="ai,dev,tools">
+        <title>10 Insanely Powerful AI Tools You Didn&#8217;t Know You Needed (All 100% Free) - Freedium</title>
+        <desc>AI is moving faster than ever. But while everyone talks about ChatGPT, Claude, and Gemini the real magic lies in the lesser-known tools the&#8230;</desc>
+    </bookmark>
 </xbel>
