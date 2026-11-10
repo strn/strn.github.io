@@ -1856,4 +1856,60 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Essential CLI Tools for Senior Software Engineers in the AI era</title>
         <desc>Essential CLI Tools for Senior Software Engineers in the AI era Use your terminal more! The first time I laid eyes on another senior&#8217;s terminal setup I was in awe. This was some years ago, but I &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/14-odd-python-libraries-that-do-jobs-you-would-hand-roll-d2905244969c?sk=0332bd036c68d58006a991524e575807" TAGS="dev,python">
+        <title>14 Odd Python Libraries That Do Jobs You Would Hand Roll</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/15-python-libraries-for-the-details-you-always-get-wrong-27f13afb613b?sk=5223f32d83e5cbf2f8f3d02eb57a51c6" TAGS="dev,python">
+        <title>15 Python Libraries for the Details You Always Get Wrong</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/stop-prompting-ai-to-code-theres-a-much-faster-way-to-build-software-ec5fe416ce5a?sk=3fe01d2c633dff2aedb8e693e2a3d1fd" TAGS="ai,code,dev">
+        <title>Stop Prompting AI to Code. There&#8217;s a Much Faster Way to Build Software</title>
+        <desc>Stop Prompting AI to Code. There&#8217;s a Much Faster Way to Build Software Context engineering, AI coding agents, and automated testing can replace the endless prompt-and-fix loop. Here&#8217;s how to &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-github-repositories-every-ai-developer-should-explore-021f202a0a2e" TAGS="ai,code,dev">
+        <title>10 GitHub Repositories Every AI Developer Should Explore</title>
+        <desc>10 lesser-known GitHub projects that every AI developer should know, from smarter AI agents to better RAG, testing, and automation tools.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@JustSnehal/7-terms-standing-between-you-and-senior-roles-the-new-ai-engineering-vocabulary-ec769ff63c26" TAGS="ai,dev,terms">
+        <title>7 Terms Standing Between You and Senior Roles: The New AI Engineering Vocabulary</title>
+        <desc>From harness engineering to loop design the exact terminology powering production-grade AI agents and modern system architectures.</desc>
+    </bookmark>
+    <bookmark href="https://read.vijayasekhardeepak.com/p/12-open-source-github-repositories-to-become-an-ai-engineer-agents-rag-mcp-system-design-part-2" TAGS="ai,artificial intelligence,design,dev,software engineering,technology">
+        <title>12 Open-Source GitHub Repositories to Become an AI Engineer: Agents, RAG, MCP &amp; System Design (Part&#160;2)</title>
+        <desc>Get practical Next.js architecture breakdowns, learn to build with emerging AI tools, explore Open-Source ecosystems and keep up with AI engineering trends in one practical read. Join 600+ tech professionals building the future of the web with Vijayasekhar Deepak&#x27;s Newsletter.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-decode/10-mcp-servers-that-unlock-a-whole-new-side-of-ai-2d6f6a581bed" TAGS="ai,dev,mcp">
+        <title>10 MCP Servers That Unlock a Whole New Side of AI - Freedium</title>
+        <desc>From building games and editing videos to designing graphics and publishing content, these MCP servers let AI agents do things you probably&#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@UdaykiranEstari/claude-code-beginner-to-advanced-part-4-the-headless-ci-cd-framework-c9b54299a76c?sk=c5dead24de45eca7d324fdb3d171c4b4" TAGS="ai,claude,code,dev">
+        <title>The Three-Flag Pattern That Makes Claude Code Production-Ready</title>
+        <desc>The Three-Flag Pattern That Makes Claude Code Production-Ready 60% of teams use it, yet most misunderstand what headless mode actually does &#8212; here&#8217;s the safety pattern that transforms &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://bibek-poudel.medium.com/youre-probably-overengineering-skill-md-what-modern-ai-agents-actually-need-1cd4993130da" TAGS="ai,dev,skill">
+        <title>You&#8217;re Probably Overengineering SKILL.md: What Modern AI Agents Actually Need</title>
+        <desc>You&#8217;re Probably Overengineering SKILL.md: What Modern AI Agents Actually Need How agents discover and load skills, what that costs in context, and how to evaluate skills before adopting them across &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://agentskills.io/specification" TAGS="agentic,ai,dev">
+        <title>Specification - Agent Skills</title>
+        <desc>The complete format specification for Agent Skills.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/the-ai-native-sdlc-rebuilding-software-engineering-around-autonomous-agents-ed8d094e9b24?sk=807c4effd0db1f4a6f03650491df4c50" TAGS="agentic,ai,dev">
+        <title>The AI-Native SDLC: Rebuilding Software Engineering Around Autonomous Agents</title>
+        <desc>The AI-Native SDLC: Rebuilding Software Engineering Around Autonomous Agents How AI has changed the entire software engineering life cycle Read this article for Free HERE Artificial intelligence is &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/data-science-collective/stop-wasting-llm-tokens-building-a-self-updating-codebase-knowledge-graph-with-okf-20284060c1b1" TAGS="ai,dev,okf">
+        <title>Stop Wasting LLM Tokens: Building a Self-Updating Codebase Knowledge Graph with OKF - Freedium</title>
+        <desc>Google&#x27;s new Open Knowledge Format (OKF) standardizes context. Here&#x27;s how to build a pipeline to keep your codebase memory self-updating.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@CodeWithYog/4bb34d538b54?sk=b4cb208b4e3aeb96669d5033f1e0c1aa" TAGS="agentic,ai,code,dev">
+        <title>The Files That Keep AI-Coded Projects Under Control</title>
+        <desc>AI coding works better when the project has clear context. This guide explains the key files every vibe coding project should have, from AGENTS.md and PRD.md to architecture, rules, tasks, security, testing, and project memory.</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/where-to-start-with-ai-agents-if-you-have-1-hour-a-day-dc4b9c58c833?sk=6162b6620e71dbc487719440b4e45587" TAGS="agentic,ai,dev">
+        <title>Where to Start With AI Agents If You Have 1 Hour a Day</title>
+        <desc>Where to Start With AI Agents If You Have 1 Hour a Day A four-week, 20-session plan for busy engineers: what to learn each day, which free resources to use, starter code for every week and the dead &#8230;</desc>
+    </bookmark>
 </xbel>
