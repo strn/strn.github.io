@@ -1912,4 +1912,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Where to Start With AI Agents If You Have 1 Hour a Day</title>
         <desc>Where to Start With AI Agents If You Have 1 Hour a Day A four-week, 20-session plan for busy engineers: what to learn each day, which free resources to use, starter code for every week and the dead &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@lorenzouriel/my-workflow-with-claude-spec-driven-development-with-agentspec-82e9003f8445?sk=fbe690e1eac7b6bd01851bcd3558e954" TAGS="ai,claude,dev,spec">
+        <title>My Workflow with Claude: Spec-Driven Development with AgentSpec</title>
+        <desc>My Workflow with Claude: Spec-Driven Development with AgentSpec Not a medium member? Read here! Everyone changed his workflow since AI begins in our daily work. Some started with Copy and Pasting in &#8230;</desc>
+    </bookmark>
 </xbel>
