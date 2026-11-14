@@ -1920,4 +1920,24 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>Meet the MCP (Model Context Protocol) Team</title>
         <desc>Meet the MCP (Model Context Protocol) Team Leveling up to know about MCP Host, Client, Server and Message Transport Not a Medium Member? Read it for free here I built tools and resources for AI &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/codetodeploy/10-crazy-things-claude-can-do-that-most-chatgpt-users-dont-know-about-e8bd0ca0400f?sk=c743afbd73b1c23c0042ccfcee89c976" TAGS="ai,claude,code,dev">
+        <title>10 Crazy Things Claude Can Do That Most ChatGPT Users Don&#8217;t Know About</title>
+        <desc>10 Crazy Things Claude Can Do That Most ChatGPT Users Don&#8217;t Know About From building apps and creating files to controlling your browser and working across your tools, these Claude features are &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/javarevisited/how-7-simple-error-handling-principles-made-me-a-better-senior-developer-28f24aa90980?sk=0553582e7752d9c2ad01c36608a86487" TAGS="code,dev">
+        <title>How 7 Simple Error Handling Principles Made Me a Better Senior Developer</title>
+        <desc>How 7 Simple Error Handling Principles Made Me a Better Senior Developer How a few good error handling principles can change the way you write, review, and trust code My early projects were for &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/14-python-libraries-you-will-wish-you-found-sooner-cdd25ba04c36?sk=0e1784b099039b161a4791c03af5e88d" TAGS="code,dev,python">
+        <title>14 Python Libraries You Will Wish You Found Sooner</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Python in Plain English.</desc>
+    </bookmark>
+    <bookmark href="https://levelup.gitconnected.com/six-agent-harness-techniques-that-actually-worked-for-me-274afd768f9c?sk=cd9d9abcb393d02f13a45da08f1f5767" TAGS="agentic,ai,dev,harness">
+        <title>Six Agent Harness Techniques That Actually Worked for Me</title>
+        <desc>Six Agent Harness Techniques That Actually Worked for Me What building production AI agents taught me about context engineering, routing, cost optimisation, human intervention, and evaluation. Non &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-decode/10-tools-that-make-ai-coding-agents-much-smarter-755486b26bb7" TAGS="ai,dev,tools">
+        <title>10 Tools That Make AI Coding Agents Much Smarter</title>
+        <desc>10 powerful tools that give AI coding agents better memory, deeper codebase understanding, and the ability to catch their own mistakes.</desc>
+    </bookmark>
 </xbel>
