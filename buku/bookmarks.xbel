@@ -1956,4 +1956,72 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>12 Backend Primitives Every AI Engineer Must Master</title>
         <desc>When your production LLM feature stalls under real user traffic, tweaking system prompts won&#8217;t save you. Here is the hardcore distributed&#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/12-cli-tools-that-replace-scripts-you-keep-rewriting-1ce8b22cbc98?sk=357eb047ee7570d0a10c597fed995a1a" TAGS="cli,dev,tools">
+        <title>12 CLI Tools That Replace Scripts You Keep Rewriting</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
+    </bookmark>
+    <bookmark href="https://blog.gopenai.com/agent-evaluation-how-do-you-know-your-agent-actually-works-1c6b7cef5461?sk=546c752bb036975fc37a4eda46679bf9" TAGS="agentic,ai,dev">
+        <title>Agent Evaluation: How Do You Know Your Agent Actually Works?</title>
+        <desc>Agent Evaluation: How Do You Know Your Agent Actually Works? Series: Agentic AI &#8212; From Zero to Production | Post #8 Here&#8217;s an uncomfortable industry stat to open with: a majority of organizations &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/codetodeploy/6-books-every-python-developer-should-read-to-build-better-ai-systems-d2e2f9e85e46?sk=05abd81471d689926c8879ea37997ec5" TAGS="ai,dev,python">
+        <title>6 Books Every Python Developer Should Read to Build Better AI Systems</title>
+        <desc>6 Books Every Python Developer Should Read to Build Better AI Systems From Python fundamentals to LLMs, RAG, and AI agents, these six books show you how to build AI systems that work beyond the &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://towardsdev.com/7-open-source-agent-skills-for-infrastructure-devs-from-docker-to-terraform-0a28c94a51ef?sk=47d3b1da6b93b4fdc6add7828e95b10a" TAGS="agentic,ai,code,dev,skills">
+        <title>7 Open-Source Agent Skills for Infrastructure Devs, from Docker to Terraform</title>
+        <desc>7 Open-Source Agent Skills for Infrastructure Devs, from Docker to Terraform From Dockerfiles to GitHub Actions audits: skills that help your AI agent understand infrastructure work. Picture this &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://generativeai.pub/7-git-commands-most-developers-learn-too-late-1d3b287fec1c?sk=bbbe923f485f440884b3b4fa3e6aff19" TAGS="dev,git">
+        <title>7 Git Commands Most Developers Learn Too Late</title>
+        <desc>7 Git Commands Most Developers Learn Too Late Seven practical Git commands that help you recover lost work, find bugs faster, clean up commits, and avoid overwriting a teammate&#8217;s changes. READ HERE &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@rumeshprasanga66/the-7-layer-ai-tech-stack-that-actually-works-in-2027-and-the-one-layer-everyone-forgets-22c82beeed05" TAGS="agentic,ai,concepts,dev">
+        <title>The 7-Layer AI Tech Stack That Actually Works in 2027 (And the One Layer Everyone Forgets)</title>
+        <desc>The 7-Layer AI Tech Stack That Actually Works in 2027 (And the One Layer Everyone Forgets) Most articles about AI coding tools talk about the same things: which AI model is best, which coding editor &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/12-python-libraries-for-jobs-you-still-do-by-hand-02bd11a11e78?sk=c1ba5e6eb1383f52c340149e6c67a752" TAGS="code,dev,python">
+        <title>12 Python Libraries for Jobs You Still Do by Hand</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Python in Plain English.</desc>
+    </bookmark>
+    <bookmark href="https://towardsdev.com/minimalist-dev-setup-2026-terminal-cli-agent-and-git-hooks-on-windows-and-linux-c541bd6761ba?sk=3fb03118eb2ca72d49fb48d839eb23e5" TAGS="ai,cli,code,dev">
+        <title>Minimalist Dev Setup 2026: Terminal, CLI Agent, and Git Hooks on Windows and Linux</title>
+        <desc>Minimalist Dev Setup 2026: Terminal, CLI Agent, and Git Hooks on Windows and Linux A small setup you install once and benefit from every day, on Windows and Linux. Think back to the last time you got &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/i-never-walk-into-an-ai-engineer-interview-without-drilling-these-20-questions-b24d979aaad7?sk=4ccf376d5d8f20d289acee811ea5716f" TAGS="ai,concepts,dev">
+        <title>I Never Walk Into an AI Engineer Interview Without Drilling These 20 Questions</title>
+        <desc>I Never Walk Into an AI Engineer Interview Without Drilling These 20 Questions RAG pipelines, agent loops, fine-tuning tradeoffs and the production edge cases interviewers actually care about in &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/the-ai-engineer-roadmap-is-changing-what-you-actually-need-to-learn-in-2027-0390f824911b?sk=46a05b49b566fe4af7fe836e967bf87c" TAGS="ai,concepts,dev,tools">
+        <title>The AI Engineer Roadmap Is Changing: What You Actually Need to Learn in 2027</title>
+        <desc>The AI Engineer Roadmap Is Changing: What You Actually Need to Learn in 2027 Forget endless courses and prompt engineering certificates. Learn the skills, tools, and real-world projects that will &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@codebookfusion/data-science-is-changing-these-are-the-skills-id-learn-in-2027-70b40a4dc6e4?sk=0e338fb425e97ce1c8fd25bb15cb62ec" TAGS="ai,dev,skills">
+        <title>Data Science Is Changing. These Are the Skills I&#8217;d Learn in 2027</title>
+        <desc>Data Science Is Changing. These Are the Skills I&#8217;d Learn in 2027 A practical guide to the data science skills 2027 will actually reward, and the ones I would stop obsessing over. Last year I spent &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://ai.plainenglish.io/10-linux-tools-that-made-my-terminal-feel-10x-better-b219b2fc8d82?sk=00ade730735394d83b31bcb7061d81c1" TAGS="cli,dev">
+        <title>10 Linux Tools That Made My Terminal Feel 10x Better</title>
+        <desc>10 Linux Tools That Made My Terminal Feel 10x Better Not faster hardware. Not a new shell. Just a handful of tools that removed the small annoyances that were quietly slowing everything down. Friends &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://alain-airom.medium.com/turning-books-into-actionable-agent-skills-a-deep-dive-into-book-to-skill-and-docling-035509950928" TAGS="ai,concepts,dev">
+        <title>Turning Books into Actionable Agent Skills: A Deep Dive into book-to-skill (and Docling)</title>
+        <desc>Turning Books into Actionable Agent Skills: A Deep Dive into book-to-skill (and Docling) Implementing and testing book-to-skill with a personal touch! Introduction As developers, we frequently buy &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://github.com/virgiliojr94/book-to-skill" TAGS="agentic,dev,github,pdf,skills">
+        <title>GitHub - virgiliojr94/book-to-skill: Turn any technical book PDF into a Claude Code skill &#8212; ready to study, reference, and use while you work. &#183; GitHub</title>
+        <desc>Turn any technical book PDF into a Claude Code skill &#8212; ready to study, reference, and use while you work. - virgiliojr94/book-to-skill</desc>
+    </bookmark>
+    <bookmark href="https://github.com/aairom/book-to-skill-test" TAGS="code,dev,github,pdf">
+        <title>GitHub - aairom/book-to-skill-test: Book to skill test and implementation with Bob &amp; Docling &#183; GitHub</title>
+        <desc>Book to skill test and implementation with Bob &amp; Docling - aairom/book-to-skill-test</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-decode/10-ai-tools-that-just-launched-and-deserve-your-attention-c552bb9de494" TAGS="agentic,ai,dev,tools">
+        <title>10 AI Tools That Just Launched and Deserve Your Attention - Freedium</title>
+        <desc>From AI agents that edit videos to tools that build applications and manage creative work, these recent AI releases are worth exploring.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-ai-projects-you-probably-didnt-know-were-open-source-b71934b6a7b4" TAGS="ai,dev,tools">
+        <title>10 AI Projects You Probably Didn&#8217;t Know Were Open Source - Freedium</title>
+        <desc>Powerful AI tools from Microsoft, Meta, Google, and more that you can explore, run, and build with.</desc>
+    </bookmark>
 </xbel>
