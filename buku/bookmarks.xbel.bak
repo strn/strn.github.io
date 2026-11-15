@@ -1940,4 +1940,12 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>10 Tools That Make AI Coding Agents Much Smarter</title>
         <desc>10 powerful tools that give AI coding agents better memory, deeper codebase understanding, and the ability to catch their own mistakes.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/8d1b47742cbe?sk=636d357d5d13563f51a535613362fe57" TAGS="dev,python">
+        <title>5 Python Libraries That Do Hard Jobs in a Few Lines</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/codetodeploy/7-claude-code-skills-that-make-ai-coding-actually-better-03fdc12e5092" TAGS="claude,code,dev">
+        <title>7 Claude Code Skills That Make AI Coding Actually Better</title>
+        <desc>Seven practical Claude Code skills for planning, debugging, testing, security, and shipping better software &#8212; with installation commands&#8230;</desc>
+    </bookmark>
 </xbel>

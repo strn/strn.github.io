@@ -1948,4 +1948,12 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>7 Claude Code Skills That Make AI Coding Actually Better</title>
         <desc>Seven practical Claude Code skills for planning, debugging, testing, security, and shipping better software &#8212; with installation commands&#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/how-github-copilot-changed-my-development-workflow-what-i-learned-and-what-you-can-try-too-2a6d58a6fc87?sk=9c3d0806b48e60ec736108602dbdc1d9" TAGS="ai,copilot,dev,github">
+        <title>How GitHub Copilot Changed My Development Workflow: What I Learned and What You Can Try Too</title>
+        <desc>&#8220;&#8221; is published by Gaddam.Naveen.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@JustSnehal/12-backend-primitives-every-ai-engineer-must-master-da2b2127009e" TAGS="ai,dev,tools">
+        <title>12 Backend Primitives Every AI Engineer Must Master</title>
+        <desc>When your production LLM feature stalls under real user traffic, tweaking system prompts won&#8217;t save you. Here is the hardcore distributed&#8230;</desc>
+    </bookmark>
 </xbel>
