@@ -2024,4 +2024,12 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>10 AI Projects You Probably Didn&#8217;t Know Were Open Source - Freedium</title>
         <desc>Powerful AI tools from Microsoft, Meta, Google, and more that you can explore, run, and build with.</desc>
     </bookmark>
+    <bookmark href="https://codefarm0.medium.com/pairing-with-claude-on-implementation-what-actually-changes-the-diff-quality-d3e52ba139ea?sk=c0969d7ca450f66cf70c4e2dd32248bf" TAGS="ai,claude,code,dev">
+        <title>Pairing With Claude on Implementation: What Actually Changes the Diff Quality</title>
+        <desc>Pairing With Claude on Implementation: What Actually Changes the Diff Quality TDD-style collaboration, prompting precisely enough to get a working diff on the first pass, and when to parallelize with &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@techlatest.net/how-i-use-hermes-agent-for-techlatest-8-real-world-workflows-i-built-and-tested-0910a169f36f" TAGS="agentic,ai,dev,hermes">
+        <title>How I Use Hermes Agent for TechLatest: 8 Real-World Workflows</title>
+        <desc>How I Use Hermes Agent for TechLatest: 8 Real-World Workflows I Built and Tested From researching technical topics and maintaining a persistent developer environment to connecting automation tools &#8230;</desc>
+    </bookmark>
 </xbel>
