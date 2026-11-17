@@ -2032,4 +2032,20 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>How I Use Hermes Agent for TechLatest: 8 Real-World Workflows</title>
         <desc>How I Use Hermes Agent for TechLatest: 8 Real-World Workflows I Built and Tested From researching technical topics and maintaining a persistent developer environment to connecting automation tools &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/codexa/9-python-libraries-for-calendars-alphabets-graphs-and-checksums-you-will-reuse-0693c589e3fb?sk=118ca8b4aae960f47e3a806dc0291a88" TAGS="dev,python">
+        <title>9 Python Libraries for Calendars, Alphabets, Graphs and Checksums You Will Reuse</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Codexa.</desc>
+    </bookmark>
+    <bookmark href="https://sachinkasana.medium.com/i-finally-understood-ai-agent-harnesses-by-building-one-in-python-888b9c55cec8" TAGS="agentic,ai,dev">
+        <title>I Finally Understood AI Agent Harnesses by Building One in Python</title>
+        <desc>I Finally Understood AI Agent Harnesses by Building One in Python An LLM can generate code. But what makes it capable of actually fixing bugs, running tests, and completing tasks? I used to think &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-decode/10-github-repositories-that-deserve-way-more-attention-44940b7e8851" TAGS="code,dev,github">
+        <title>10 GitHub Repositories That Deserve Way More Attention - Freedium</title>
+        <desc>10 underrated open-source projects that can do surprisingly useful things</desc>
+    </bookmark>
+    <bookmark href="https://pub.towardsai.net/webmcp-give-ai-agents-tools-not-just-screenshots-9065278c6a53?sk=af6778a0d86e59d3fb3b046bc465ffe8" TAGS="agentic,ai,dev,mcp,tools">
+        <title>WebMCP: Give AI Agents Tools, Not Just Screenshots</title>
+        <desc>WebMCP: Give AI Agents Tools, Not Just Screenshots A browser-native tool can remove steps and tokens from an agent workflow. It can also turn model-facing metadata into a new attack surface. Here is &#8230;</desc>
+    </bookmark>
 </xbel>
