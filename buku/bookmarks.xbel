@@ -2048,4 +2048,8 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>WebMCP: Give AI Agents Tools, Not Just Screenshots</title>
         <desc>WebMCP: Give AI Agents Tools, Not Just Screenshots A browser-native tool can remove steps and tokens from an agent workflow. It can also turn model-facing metadata into a new attack surface. Here is &#8230;</desc>
     </bookmark>
+    <bookmark href="https://python.plainenglish.io/7-python-libraries-for-parsing-rounding-and-ignoring-the-right-things-59415668d884?sk=8af32621a9897953c6109a24ba7fcf03" TAGS="dev,python">
+        <title>7 Python Libraries for Parsing, Rounding and Ignoring the Right Things</title>
+        <desc>7 Python Libraries for Parsing, Rounding and Ignoring the Right Things Some Python libraries do one small job so well that you stop writing it yourself. &#8220;Want to get started with Python from &#8230;</desc>
+    </bookmark>
 </xbel>
