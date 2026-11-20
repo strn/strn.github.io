@@ -2052,4 +2052,20 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>7 Python Libraries for Parsing, Rounding and Ignoring the Right Things</title>
         <desc>7 Python Libraries for Parsing, Rounding and Ignoring the Right Things Some Python libraries do one small job so well that you stop writing it yourself. &#8220;Want to get started with Python from &#8230;</desc>
     </bookmark>
+    <bookmark href="https://medium.com/@unicodeveloper/15-open-source-projects-for-ai-agents-in-production-fd8a329d00da" TAGS="agentic,ai,dev">
+        <title>15 Open Source Projects for AI Agents in Production</title>
+        <desc>15 Open Source Projects for AI Agents in Production A practical guide to agent frameworks, durable workflows, execution sandboxes, evaluation, research tools and open source projects for AI agents in &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/the-bullsh-t-ai-advice-i-stopped-following-116e9f83c31a?sk=eaed34ad4aca8b8a096f55ec6cbff887" TAGS="agentic,ai,dev">
+        <title>15 AI Myths Developers Should Stop Following</title>
+        <desc>Discover 15 AI myths about prompts, agents, tools and productivity, backed by research and practical lessons from software development.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/63c22437f0bf?sk=3d90c6f4f1783d9f78f8e1303985f945" TAGS="dev,python">
+        <title>8 Python Libraries for Logging, Rate Limits, Circuit Breakers and File Watching</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@gaddamnaveen192/how-google-maps-mcp-is-changing-the-way-ai-agents-interact-with-the-world-7a26347e78c8?sk=5dbdaab8f3fe1dc0db1e7a8352f85375" TAGS="ai,dev,mcp">
+        <title>How Google Maps MCP Is Changing the Way AI Agents Interact With the World</title>
+        <desc>&#8220;&#8221; is published by Gaddam.Naveen.</desc>
+    </bookmark>
 </xbel>
