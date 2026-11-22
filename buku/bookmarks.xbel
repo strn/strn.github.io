@@ -2068,4 +2068,24 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>How Google Maps MCP Is Changing the Way AI Agents Interact With the World</title>
         <desc>&#8220;&#8221; is published by Gaddam.Naveen.</desc>
     </bookmark>
+    <bookmark href="https://medium.com/ai-all-in/how-to-give-claude-experience-not-just-skills-12c6a4aaa34a?sk=bc4efa5efdefb3134f3220e7da40218e" TAGS="ai,claude,code,dev">
+        <title>How to Give Claude Experience, Not Just Skills</title>
+        <desc>How to Give Claude Experience, Not Just Skills Claude Code&#8217;s auto memory, a weekly check of its notes, and when a lesson becomes a skill Read this for free I&#8217;ve told Claude the same thing eight &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://python.plainenglish.io/7-python-libraries-that-solve-problems-you-assumed-were-hard-da8c731c2b3d?sk=9d5bb7871e1c3e112b789cb9b5b46a7f" TAGS="code,dev,python">
+        <title>7 Python Libraries That Solve Problems You Assumed Were Hard</title>
+        <desc>&#8220;&#8221; is published by Abdul Ahad in Python in Plain English.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/@rumeshprasanga66/10-new-open-source-ai-tools-that-could-make-your-work-easier-in-2027-46b230b857c0" TAGS="ai,dev,tools">
+        <title>10 New Open-Source AI Tools That Could Make Your Work Easier in 2027 - Freedium</title>
+        <desc>Some interesting projects are quietly building the future of how we use computers.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@codetune/efb0575c1146?sk=f87af279669e5902a9ba6255d78b7b86" TAGS="code,dev">
+        <title>The 5 Data Structures Behind More Coding Problems Than You Think</title>
+        <desc>Discover five essential data structures&#8212;arrays, hash maps, stacks, queues, and treesand learn how they simplify coding problems and improve problem-solving skills.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/towards-data-engineering/eca592529713?sk=a5b77ef794543f91327ce5297eeabd98" TAGS="code,dev,python">
+        <title>5 Python Libraries for Word Files, Country Facts, Action Logs and Query Strings (One Is Stale)</title>
+        <desc>5 Python Libraries for Word Files, Country Facts, Action Logs and Query Strings (One Is Stale) Some Python libraries fix a small, annoying gap that the standard library leaves open. &#8220;Want to get &#8230;</desc>
+    </bookmark>
 </xbel>
