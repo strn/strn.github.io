@@ -2112,4 +2112,20 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
         <title>7 Python Libraries for Bloom Filters, Logs, Configs and Crawl Links (One Misses Its Target)</title>
         <desc>&#8220;&#8221; is published by Abdul Ahad in Towards Data Engineering.</desc>
     </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/ai-engineering-simplified/9-ai-agent-architectures-every-ai-developer-must-know-a-complete-guide-with-examples-ed1605325b36" TAGS="agentic,ai,dev">
+        <title>9 AI Agent Architectures Every AI Developer Must Know: A Complete Guide with Examples - Freedium</title>
+        <desc>From one model in a loop to a team of agents, explained in plain English with one everyday example each.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://python.plainenglish.io/10-github-repositories-that-are-just-too-interesting-to-ignore-442eb2df8543" TAGS="code,dev,github">
+        <title>10 GitHub Repositories That Are Just Too Interesting to Ignore - Freedium</title>
+        <desc>10 fascinating GitHub projects that do things you probably didn&#8217;t know were possible.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/data-science-collective/i-let-ai-write-my-code-for-4-months-i-didnt-expect-what-it-would-do-7ed583e09354" TAGS="ai,code,dev">
+        <title>I Let AI Write My Code for 4 Months. I Didn&#8217;t Expect What It Would Do. - Freedium</title>
+        <desc>I was getting more done than ever. But somewhere along the way, I started losing something I didn&#8217;t even realise mattered.</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://pub.towardsai.net/loop-engineering-for-ai-agents-building-verifiable-self-correcting-coding-workflows-8b32c72184a1" TAGS="agentic,ai,dev,engineering,loop">
+        <title>Loop Engineering for AI Agents: Building Verifiable, Self-Correcting Coding Workflows - Freedium</title>
+        <desc>A technical guide to how AI agents move beyond one-shot prompting through loop engineering, verification, and self-correcting coding&#8230;</desc>
+    </bookmark>
 </xbel>
