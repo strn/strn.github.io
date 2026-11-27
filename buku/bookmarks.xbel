@@ -2131,4 +2131,44 @@ Bandit, pip-audit, and Semgrep. No more manual audits. No more occasional scans.
     <bookmark href="https://latinicaucirilicu.rs/cirilicni-fontovi" TAGS="cirilica">
         <title>&#1052;&#1086;&#1076;&#1077;&#1088;&#1085;&#1080; &#1115;&#1080;&#1088;&#1080;&#1083;&#1080;&#1095;&#1085;&#1080; &#1092;&#1086;&#1085;&#1090;&#1086;&#1074;&#1080;</title>
     </bookmark>
+    <bookmark href="https://medium.com/@theipocmwanderer/21bd2fb3e946?sk=7ab30ad210ab55da5d030f366d175331" TAGS="ai,claude,code,dev">
+        <title>Building a Claude Code Harness. Part 2 of the Claude Code Harness...</title>
+        <desc>Building a Claude Code Harness Part 2 of the Claude Code Harness Evaluation Series. Let&#8217;s move beyond configuring an AI coding assistant and build an environment we can actually evaluate. Not a &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@theipocmwanderer/846f2218d73d?sk=51ed7173881d3b6b7f6dd8197635812b" TAGS="ai,claude,code,dev">
+        <title>Evaluating a Claude Code Harness. Reliability is tougher to measure than&#8230;</title>
+        <desc>Evaluating a Claude Code Harness Reliability is tougher to measure than task completion. Here&#8217;s how to evaluate what actually makes a Claude Code harness better. Not a Medium member? Read it for &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://meetcyber.net/zero-trust-explained-with-hotel-keycard-you-will-never-forget-it-again-b53f2f7c23fa?sk=8714b8bd07328124bb497b2e2068c4b1" TAGS="dev">
+        <title>Zero Trust Explained with Hotel Keycard : You Will Never Forget It Again</title>
+        <desc>Zero Trust Explained with Hotel Keycard : You Will Never Forget It Again How the Zero Trust actually works, step by step, through the one login request, plus terminal simulator, you can run to watch &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@neuraldev/90-of-developers-dont-know-these-20-ai-agent-github-repos-1b43b1882b80" TAGS="agentic,ai,code,dev">
+        <title>90% of Developers Don&#8217;t Know These 20 AI Agent GitHub Repos.</title>
+        <desc>90% of Developers Don&#8217;t Know These 20 AI Agent GitHub Repos. 20 GitHub Repositories That Are Absolute Gold Mines for AI Agents 20 Open-Source GitHub Repositories to Learn and Build AI Agents in &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://dailypythonpro.medium.com/this-new-python-feature-does-something-f-strings-cant-54c5d394526e?sk=bf929602b608b04eeaefc1cf49458418" TAGS="dev,python">
+        <title>This New Python Feature Does Something f-Strings Can&#8217;t</title>
+        <desc>This New Python Feature Does Something f-Strings Can&#8217;t Python 3.14 Introduced Strings That Don&#8217;t Become Strings. Friend Link You probably use f-strings almost every day. name = &quot;Azeem&quot; message = &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://freedium-mirror.cfd/https://medium.com/data-science-collective/here-is-the-ai-engineer-stack-for-2027-save-your-jobs-during-ai-lay-offs-1994a6680f97" TAGS="ai,dev,engineering">
+        <title>Here is the AI engineer stack for 2027, Save your jobs during AI lay offs - Freedium</title>
+        <desc>Worried About AI Layoffs? Here&#8217;s the 2027 AI Engineer Stack I&#8217;d Build</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@Rohan_Dutt/e42b5a05a56c?sk=3d070cd8e4ff7d22db837af52384ddac" TAGS="ai,dev,sql">
+        <title>10 AST-Guided Text-to-SQL Guardrails that Eradicate Hallucinated Join Keys on Enterprise Schema</title>
+        <desc>&#8220;&#8221; is published by Rohan Dutt.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@rohanmistry231/ai-can-code-can-your-team-ship-037f1d10f5c9?sk=7c3bce0bf7d9593e8de66919595fc649" TAGS="ai,aidlc,dev">
+        <title>AI Can Code. Can Your Team Ship?. Meet AIDLC: the new way to turn&#8230; | by Rohan Mistry | Data Science Collective | Nov, 2026 | Medium</title>
+        <desc>AI Can Code. Can Your Team Ship? Meet AIDLC: the new way to turn AI-generated code into software that actually gets shipped. AI now writes a huge share of our code. So why isn&#8217;t software shipping &#8230;</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/@TusharKanjariya/before-you-jump-into-ai-understand-these-terms-first-075f7932f890?sk=18956bd15b7cbdb1714529fc562201e8" TAGS="ai,concepts,dev">
+        <title>AI Terms Explained: A Beginner&#x27;s Guide to Modern AI Concepts</title>
+        <desc>Learn the essential AI terms every beginner should know, including tokens, context windows, RAG, embeddings, quantization, KV cache, agents, and more.</desc>
+    </bookmark>
+    <bookmark href="https://medium.com/the-generalist-specialist/ai-roadmap-a-beginner-friendly-progressive-guide-to-building-production-ready-ai-systems-6cc6054209ef?sk=1aac5c20f4165727d94c99f1357162e3" TAGS="ai,concepts,dev">
+        <title>AI Roadmap: A Beginner Friendly Progressive Guide to Building Production-Ready AI Systems</title>
+        <desc>AI Roadmap: A Beginner Friendly Progressive Guide to Building Production-Ready AI Systems Master the essentials of AI development and build intelligent systems that deliver real impact If you don&#8217;t &#8230;</desc>
+    </bookmark>
 </xbel>
